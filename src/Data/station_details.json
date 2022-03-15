@@ -1,0 +1,919 @@
+[
+    {
+        "id": "000000020",
+        "name": "5 Шар",
+        "longitude": 106.81484,
+        "latitude": 47.90965,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000018",
+        "name": "Монгол хюндэй киа компани",
+        "longitude": 106.82659,
+        "latitude": 47.91061,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000011",
+        "name": "32-р байр",
+        "longitude": 106.83359,
+        "latitude": 47.91113,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000009",
+        "name": "Хар хорин",
+        "longitude": 106.84054,
+        "latitude": 47.91166,
+        "exist_bus": "Y"
+    },
+    {
+        "id": "000000006",
+        "name": "Цамбагарав",
+        "longitude": 106.84736,
+        "latitude": 47.9122,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000004",
+        "name": "Саппоро",
+        "longitude": 106.85283,
+        "latitude": 47.91256,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000147",
+        "name": "3-р эмнэлэг",
+        "longitude": 106.86022,
+        "latitude": 47.91305,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000149",
+        "name": "10-р хороолол",
+        "longitude": 106.86824,
+        "latitude": 47.91361,
+        "exist_bus": "Y"
+    },
+    {
+        "id": "000000151",
+        "name": "25-р Эмийн сан",
+        "longitude": 106.87949,
+        "latitude": 47.91437,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000001225",
+        "name": "ТБД андууд",
+        "longitude": 106.88725,
+        "latitude": 47.91471,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000274",
+        "name": "Баруун 4 зам",
+        "longitude": 106.89752,
+        "latitude": 47.91535,
+        "exist_bus": "Y"
+    },
+    {
+        "id": "000000273",
+        "name": "Улсын Их Дэлгүүр",
+        "longitude": 106.90354,
+        "latitude": 47.91585,
+        "exist_bus": "Y"
+    },
+    {
+        "id": "000000279",
+        "name": "Сүхбаатарын талбай",
+        "longitude": 106.9179,
+        "latitude": 47.91675,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000281",
+        "name": "Өргөө амаржих газар",
+        "longitude": 106.92632,
+        "latitude": 47.918,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000369",
+        "name": "Бөхийн өргөө",
+        "longitude": 106.93362,
+        "latitude": 47.91839,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000371",
+        "name": "Зүүн 4 зам",
+        "longitude": 106.94104,
+        "latitude": 47.91885,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000373",
+        "name": "Жуковын музей",
+        "longitude": 106.95157,
+        "latitude": 47.91739,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000375",
+        "name": "Монгол кино үйлдвэр",
+        "longitude": 106.9605,
+        "latitude": 47.91662,
+        "exist_bus": "Y"
+    },
+    {
+        "id": "000000377",
+        "name": "Баянзүрх дүүрэг",
+        "longitude": 106.96512,
+        "latitude": 47.91621,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000379",
+        "name": "Офицеруудын ордон",
+        "longitude": 106.97028,
+        "latitude": 47.9158,
+        "exist_bus": "Y"
+    },
+    {
+        "id": "000000380",
+        "name": "Офицеруудын ордон",
+        "longitude": 106.97022,
+        "latitude": 47.91616,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000437",
+        "name": "ШАР ХАДНЫ ЭЦЭС",
+        "longitude": 107.00545,
+        "latitude": 47.93451,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000436",
+        "name": "Да хүрээ зах",
+        "longitude": 107.00532,
+        "latitude": 47.93026,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000434",
+        "name": "Цахлай",
+        "longitude": 106.99976,
+        "latitude": 47.92722,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000431",
+        "name": "Эрдэнэтолгой",
+        "longitude": 106.99444,
+        "latitude": 47.92422,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000429",
+        "name": "16-р хороолол",
+        "longitude": 106.9841,
+        "latitude": 47.92376,
+        "exist_bus": "Y"
+    },
+    {
+        "id": "000000427",
+        "name": "72-р хотхон",
+        "longitude": 106.97403,
+        "latitude": 47.92231,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000584",
+        "name": "Алдар спорт хороо",
+        "longitude": 106.97345,
+        "latitude": 47.91786,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000378",
+        "name": "Баянзүрх дүүрэг",
+        "longitude": 106.96472,
+        "latitude": 47.91662,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000376",
+        "name": "Монгол кино үйлдвэр",
+        "longitude": 106.95984,
+        "latitude": 47.91705,
+        "exist_bus": "Y"
+    },
+    {
+        "id": "000000374",
+        "name": "Жуковын музей",
+        "longitude": 106.94882,
+        "latitude": 47.91804,
+        "exist_bus": "Y"
+    },
+    {
+        "id": "000000372",
+        "name": "Зүүн 4 зам",
+        "longitude": 106.94169,
+        "latitude": 47.919,
+        "exist_bus": "Y"
+    },
+    {
+        "id": "000000370",
+        "name": "Хөдөлмөрийн яам",
+        "longitude": 106.93232,
+        "latitude": 47.91849,
+        "exist_bus": "Y"
+    },
+    {
+        "id": "000000585",
+        "name": "МУБИС",
+        "longitude": 106.92596,
+        "latitude": 47.91811,
+        "exist_bus": "Y"
+    },
+    {
+        "id": "000000193",
+        "name": "Мөнгөн завьяа",
+        "longitude": 106.90946,
+        "latitude": 47.91655,
+        "exist_bus": "N"
+    },
+    {
+        "id": "100000010",
+        "name": "Энхтайван найрамдлын ордон",
+        "longitude": 106.90221,
+        "latitude": 47.91592,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000155",
+        "name": "Баруун 4 зам",
+        "longitude": 106.89281,
+        "latitude": 47.91517,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000001154",
+        "name": "Макс Малл",
+        "longitude": 106.89122,
+        "latitude": 47.91585,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000159",
+        "name": "Модны 2",
+        "longitude": 106.8909,
+        "latitude": 47.91914,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000182",
+        "name": "Москва ресторан",
+        "longitude": 106.88093,
+        "latitude": 47.92297,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000165",
+        "name": "Өргөө кино театр",
+        "longitude": 106.87491,
+        "latitude": 47.92282,
+        "exist_bus": "Y"
+    },
+    {
+        "id": "000000164",
+        "name": "3,4-р хороололын эцэс",
+        "longitude": 106.86711,
+        "latitude": 47.92255,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000402",
+        "name": "ХАЛДВАРТЫН ЭМНЭЛЭГ",
+        "longitude": 106.94841,
+        "latitude": 47.91272,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000400",
+        "name": "Баянзүрх их дэлгүүр",
+        "longitude": 106.94395,
+        "latitude": 47.91348,
+        "exist_bus": "Y"
+    },
+    {
+        "id": "000000153",
+        "name": "ТБД андууд",
+        "longitude": 106.8863,
+        "latitude": 47.9149,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000152",
+        "name": "25-р эмийн сан",
+        "longitude": 106.87856,
+        "latitude": 47.91456,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000150",
+        "name": "10-р хороолол",
+        "longitude": 106.86697,
+        "latitude": 47.91392,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000148",
+        "name": "3-р эмнэлэг",
+        "longitude": 106.85913,
+        "latitude": 47.91331,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000005",
+        "name": "Саппоро",
+        "longitude": 106.85172,
+        "latitude": 47.9128,
+        "exist_bus": "Y"
+    },
+    {
+        "id": "000000007",
+        "name": "Цамбагарав",
+        "longitude": 106.8453,
+        "latitude": 47.91235,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000008",
+        "name": "19-р байр",
+        "longitude": 106.83945,
+        "latitude": 47.9119,
+        "exist_bus": "Y"
+    },
+    {
+        "id": "000000010",
+        "name": "32-р байр",
+        "longitude": 106.83255,
+        "latitude": 47.91136,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000019",
+        "name": "Та Чи",
+        "longitude": 106.824,
+        "latitude": 47.9107,
+        "exist_bus": "Y"
+    },
+    {
+        "id": "000000047",
+        "name": "Сүү хувьцаат компани",
+        "longitude": 106.8187,
+        "latitude": 47.91267,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000049",
+        "name": "Цахилгаан тээвэр",
+        "longitude": 106.8184,
+        "latitude": 47.91654,
+        "exist_bus": "Y"
+    },
+    {
+        "id": "000000051",
+        "name": "21-р хороолол",
+        "longitude": 106.81699,
+        "latitude": 47.92084,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000053",
+        "name": "Сонгино хайрхан дүүрэг",
+        "longitude": 106.81639,
+        "latitude": 47.92462,
+        "exist_bus": "Y"
+    },
+    {
+        "id": "000000055",
+        "name": "Давхар дэлгүүр",
+        "longitude": 106.81704,
+        "latitude": 47.9291,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000096",
+        "name": "Өндөр настан",
+        "longitude": 106.8158,
+        "latitude": 47.93411,
+        "exist_bus": "Y"
+    },
+    {
+        "id": "000000098",
+        "name": "Шинэ давхар",
+        "longitude": 106.81498,
+        "latitude": 47.9371,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000650",
+        "name": "Хилчин хотхон",
+        "longitude": 106.8161,
+        "latitude": 47.94246,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000100",
+        "name": "Цэргийн анги",
+        "longitude": 106.82237,
+        "latitude": 47.94514,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000102",
+        "name": "7-р хороо",
+        "longitude": 106.82528,
+        "latitude": 47.94892,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000104",
+        "name": "Баян хошуу хуучин эцэс",
+        "longitude": 106.82633,
+        "latitude": 47.95404,
+        "exist_bus": "Y"
+    },
+    {
+        "id": "000000106",
+        "name": "Зүүн салааны 1-р зогсоол",
+        "longitude": 106.82741,
+        "latitude": 47.96105,
+        "exist_bus": "Y"
+    },
+    {
+        "id": "000000108",
+        "name": "Зүүн салааны 2-р зогсоол",
+        "longitude": 106.82872,
+        "latitude": 47.96417,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000110",
+        "name": "Зүүн салаа хуучин эцэс",
+        "longitude": 106.82917,
+        "latitude": 47.97133,
+        "exist_bus": "Y"
+    },
+    {
+        "id": "000000118",
+        "name": "Улаан дэлгүүр",
+        "longitude": 106.82866,
+        "latitude": 47.97657,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000120",
+        "name": "Улаан худаг",
+        "longitude": 106.82776,
+        "latitude": 47.98407,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000122",
+        "name": "Одонт 30",
+        "longitude": 106.82767,
+        "latitude": 47.98986,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000630",
+        "name": "Одонт 44",
+        "longitude": 106.82596,
+        "latitude": 47.99545,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000003",
+        "name": "Зүүн салааны шинэ эцэс",
+        "longitude": 106.82546,
+        "latitude": 47.99864,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000145",
+        "name": "3-р эмнэлэг",
+        "longitude": 106.85505,
+        "latitude": 47.91468,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000161",
+        "name": "Гэмтлийн эмнэлэг",
+        "longitude": 106.85921,
+        "latitude": 47.92143,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000163",
+        "name": "Дүүхээ дэлгүүр",
+        "longitude": 106.8686,
+        "latitude": 47.92231,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000166",
+        "name": "11-р байр",
+        "longitude": 106.87282,
+        "latitude": 47.92244,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000167",
+        "name": "Парадокс",
+        "longitude": 106.87834,
+        "latitude": 47.92258,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000168",
+        "name": "Сентоза",
+        "longitude": 106.88698,
+        "latitude": 47.92292,
+        "exist_bus": "Y"
+    },
+    {
+        "id": "000000176",
+        "name": "Гандан",
+        "longitude": 106.89389,
+        "latitude": 47.92452,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000256",
+        "name": "Баянбүрд",
+        "longitude": 106.90858,
+        "latitude": 47.92824,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000271",
+        "name": "Өдрийн сонин",
+        "longitude": 106.92001,
+        "latitude": 47.92917,
+        "exist_bus": "Y"
+    },
+    {
+        "id": "000000305",
+        "name": "100 айл",
+        "longitude": 106.92837,
+        "latitude": 47.92986,
+        "exist_bus": "Y"
+    },
+    {
+        "id": "000000417",
+        "name": "Сансар ШТС",
+        "longitude": 106.93897,
+        "latitude": 47.92794,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000416",
+        "name": "Сансар ШТС",
+        "longitude": 106.93765,
+        "latitude": 47.92845,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000425",
+        "name": "Цайз зах",
+        "longitude": 106.97032,
+        "latitude": 47.92425,
+        "exist_bus": "Y"
+    },
+    {
+        "id": "000000423",
+        "name": "1000 оюутны байр",
+        "longitude": 106.96296,
+        "latitude": 47.92382,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000418",
+        "name": "Их засаг Их Сургууль",
+        "longitude": 106.95287,
+        "latitude": 47.92364,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000420",
+        "name": "Цагдаагийн 801-р анги",
+        "longitude": 106.94792,
+        "latitude": 47.92443,
+        "exist_bus": "Y"
+    },
+    {
+        "id": "000000362",
+        "name": "КТМС",
+        "longitude": 106.94321,
+        "latitude": 47.92656,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000306",
+        "name": "Сүхбаатар дүүргийн эмнэлэг",
+        "longitude": 106.92891,
+        "latitude": 47.92999,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000270",
+        "name": "3-р сургууль",
+        "longitude": 106.91833,
+        "latitude": 47.92921,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000257",
+        "name": "Баянбүрд",
+        "longitude": 106.90752,
+        "latitude": 47.92833,
+        "exist_bus": "Y"
+    },
+    {
+        "id": "000000177",
+        "name": "МҮИС",
+        "longitude": 106.89413,
+        "latitude": 47.92484,
+        "exist_bus": "Y"
+    },
+    {
+        "id": "000000162",
+        "name": "Гэмтлийн эмнэлэг",
+        "longitude": 106.85723,
+        "latitude": 47.92134,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000067",
+        "name": "65-р дэлгүүр",
+        "longitude": 106.79329,
+        "latitude": 47.92013,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000069",
+        "name": "Толгойт Шөнийн дэлгүүр",
+        "longitude": 106.7881,
+        "latitude": 47.91983,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000071",
+        "name": "ТОЛГОЙТЫН ЭЦЭС",
+        "longitude": 106.78174,
+        "latitude": 47.91878,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000072",
+        "name": "Цэргийн хотхон",
+        "longitude": 106.7824,
+        "latitude": 47.91277,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000024",
+        "name": "Нефть хотхон",
+        "longitude": 106.78749,
+        "latitude": 47.91047,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000022",
+        "name": "10 буудал",
+        "longitude": 106.79976,
+        "latitude": 47.90955,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000001403",
+        "name": "Богд ар хороолол",
+        "longitude": 106.88384,
+        "latitude": 47.91128,
+        "exist_bus": "Y"
+    },
+    {
+        "id": "000000671",
+        "name": "Вокзал",
+        "longitude": 106.8851,
+        "latitude": 47.90904,
+        "exist_bus": "Y"
+    },
+    {
+        "id": "000000180",
+        "name": "Барс худалдааны төв",
+        "longitude": 106.89058,
+        "latitude": 47.90896,
+        "exist_bus": "Y"
+    },
+    {
+        "id": "000001408",
+        "name": "Монгол эм импекс",
+        "longitude": 106.90107,
+        "latitude": 47.90843,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000284",
+        "name": "Жигүүр гранд",
+        "longitude": 106.90996,
+        "latitude": 47.90814,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000312",
+        "name": "Соёлж худалдааны төв",
+        "longitude": 106.92907,
+        "latitude": 47.90809,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000001409",
+        "name": "Говь хангай",
+        "longitude": 106.9388,
+        "latitude": 47.90795,
+        "exist_bus": "Y"
+    },
+    {
+        "id": "000000408",
+        "name": "Нарантуул зах",
+        "longitude": 106.95281,
+        "latitude": 47.90782,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000410",
+        "name": "Ахмадын хороолол",
+        "longitude": 106.96013,
+        "latitude": 47.90784,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000411",
+        "name": "БЗД 13-р хороо",
+        "longitude": 106.96828,
+        "latitude": 47.90771,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000001161",
+        "name": "Номин худалдааны төв",
+        "longitude": 106.97534,
+        "latitude": 47.91058,
+        "exist_bus": "Y"
+    },
+    {
+        "id": "000000381",
+        "name": "Чулуун овоо",
+        "longitude": 106.98419,
+        "latitude": 47.91229,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000383",
+        "name": "Шөнийн дэлгүүр",
+        "longitude": 106.98935,
+        "latitude": 47.91256,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000385",
+        "name": "Хууль сахиулах их сургууль",
+        "longitude": 106.99747,
+        "latitude": 47.91299,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000579",
+        "name": "Ботаник",
+        "longitude": 107.00088,
+        "latitude": 47.91286,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000505",
+        "name": "НИСЭХ",
+        "longitude": 106.7631,
+        "latitude": 47.86531,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000507",
+        "name": "7-р сургууль",
+        "longitude": 106.76186,
+        "latitude": 47.86039,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000509",
+        "name": "Орон сууц",
+        "longitude": 106.76211,
+        "latitude": 47.8571,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000503",
+        "name": "Буянт ухаа-1",
+        "longitude": 106.76553,
+        "latitude": 47.85607,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000512",
+        "name": "Нисэхийн дэнж",
+        "longitude": 106.77161,
+        "latitude": 47.85614,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000510",
+        "name": "ИНЕГ",
+        "longitude": 106.77835,
+        "latitude": 47.85625,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000138",
+        "name": "Буянт-ухаа спорт цогцолбор",
+        "longitude": 106.78332,
+        "latitude": 47.85672,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000716",
+        "name": "118-р Сургууль",
+        "longitude": 106.79335,
+        "latitude": 47.85966,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000519",
+        "name": "Яармагийн 4-р буудал",
+        "longitude": 106.80076,
+        "latitude": 47.86191,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000521",
+        "name": "Эмнэлгийн буудал",
+        "longitude": 106.81206,
+        "latitude": 47.86537,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000523",
+        "name": "Яармагийн 3-р буудал",
+        "longitude": 106.819,
+        "latitude": 47.8674,
+        "exist_bus": "Y"
+    },
+    {
+        "id": "000000525",
+        "name": "Яармагийн 2-р буудал",
+        "longitude": 106.82656,
+        "latitude": 47.86967,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000529",
+        "name": "Яармагийн 1-р буудал",
+        "longitude": 106.83363,
+        "latitude": 47.87181,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000001313",
+        "name": "Англи сургууль",
+        "longitude": 106.84509,
+        "latitude": 47.87494,
+        "exist_bus": "N"
+    },
+    {
+        "id": "000000718",
+        "name": "Хүннү Их дэлгүүр",
+        "longitude": 106.85233,
+        "latitude": 47.87787,
+        "exist_bus": "Y"
+    },
+    {
+        "id": "000000527",
+        "name": "Вива сити",
+        "longitude": 106.85894,
+        "latitude": 47.88135,
+        "exist_bus": "N"
+    }
+]
