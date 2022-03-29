@@ -24,12 +24,13 @@ const Station = ({ navigation }) => {
 
 
     const cardClicked = (id, name) => {
-        if (startStation === "") {
+        if (!chosenStart) {
             setStartStation(name);
             setStartStationID(id);
             setChosenStart(true);
         }
-        else if (endStation === "") {
+        else if (!chosenEnd) {
+            if(startStation === endStation) return;
             setEndStation(name);
             setEndStationID(id);
             setChosenEnd(true);
@@ -41,30 +42,35 @@ const Station = ({ navigation }) => {
 
     return (
         <View style={styles.container} >
-            <View style={styles.search_bar_container}>
-                <SearchBar
-                    placeholder='Эхлэл'
-                    onChangeText={updateStartSearch}
-                    value={startStation}
-                    showCancel
-                    inputStyle={styles.search_bar_text}
-                    containerStyle={{ padding: 0, backgroundColor: 'transparent', marginBottom: 4 }}
-                    inputContainerStyle={{ height: 32, borderRadius: 20 }}
-                    onClear={() => setChosenStart(false)}
-                />
-                <SearchBar
-                    placeholder='Төгсгөл'
-                    onChangeText={updateEndSearch}
-                    value={endStation}
-                    showCancel
-                    inputStyle={styles.search_bar_text}
-                    containerStyle={{ padding: 4 }}
-                    inputContainerStyle={{ height: 32, borderRadius: 20  }}
-                    onClear={() => setChosenEnd(false)}
-                />
+            {/* <View  style={styles.search_bar_container}> */}
+                <View style={styles.search_bar_container}>
+                    <SearchBar
+                        lightTheme
+                        placeholder='Эхлэл'
+                        onChangeText={updateStartSearch}
+                        value={startStation}
+                        showCancel
+                        searchIcon={false}
+                        inputStyle={styles.search_bar_text}
+                        containerStyle={styles.search_bar_ind_container}
+                        inputContainerStyle={{ height: 40, width: 260,borderRadius: 20 }}
+                        onClear={() => setChosenStart(false)}
+                    />
+                    <SearchBar
+                        lightTheme
+                        placeholder='Төгсгөл'
+                        onChangeText={updateEndSearch}
+                        value={endStation}
+                        showCancel
+                        searchIcon={false}
+                        inputStyle={styles.search_bar_text}
+                        containerStyle={styles.search_bar_ind_container}
+                        inputContainerStyle={{ height: 40, borderRadius: 20 }}
+                        onClear={() => setChosenEnd(false)}
+                    />
+                {/* </View> */}
             </View>
-
-            <ScrollView>
+            <ScrollView style={styles.card_container}>
                 {stationList.map(
                     function (station, index) {
 
@@ -72,11 +78,20 @@ const Station = ({ navigation }) => {
                             return (
                                 <TouchableOpacity
                                     key={index}
+
                                     onPress={() => {
                                         cardClicked(station.id, station.name);
                                     }}
                                 >
-                                    <View style={styles.item_container}>
+                                    <View style={index == 0 ? {
+                                        borderBottomWidth: 0.5,
+                                        borderLeftWidth: 0.5,
+                                        borderRightWidth: 0.5,
+                                        borderTopWidth: 0.5,
+                                        borderTopLeftRadius: 10,
+                                        borderTopRightRadius: 10,
+                                        padding: 16
+                                    } : styles.item_container}>
                                         <Text style={active ? styles.item_active : styles.item_notactive}>{station.name}</Text>
                                     </View>
                                 </TouchableOpacity>
@@ -91,7 +106,7 @@ const Station = ({ navigation }) => {
             <View style={(chosenEnd && chosenStart) ? styles.direction_button_container : { display: 'none' }}>
                 <Button
                     onPress={() => {
-                        navigation.navigate('Options', {})
+                        navigation.navigate('Options', { startStationID, endStationID })
                     }}
                     containerStyle={{
                         width: 200,
@@ -111,17 +126,33 @@ const Station = ({ navigation }) => {
 
 const styles = StyleSheet.create({
     container: {
-        backgroundColor: 'grey',
+        // backgroundColor: 'grey',
         flex: 1,
+    },
+    search_bar_container: {
+        padding: 24,
+        backgroundColor: "#4D96FF"
+    },
+    search_bar_ind_container: {
+        backgroundColor: "transparent",
+        border: "none",
+        outline: "none"
+    },
+    card_container: {
+        padding: 16
     },
     item_container: {
         padding: 16,
+        borderBottomWidth: 0.5,
+        borderLeftWidth: 0.5,
+        borderRightWidth: 0.5,
+       
     },
     item_active: {
         color: 'green'
     },
     item_notactive: {
-        color: 'white'
+        color: "black"
     },
     search_bar_container: {
         paddingTop: 10,
@@ -134,7 +165,6 @@ const styles = StyleSheet.create({
 
     },
     direction_button_container: {
-
         position: "absolute",
         bottom: 0,
         top: 0,
