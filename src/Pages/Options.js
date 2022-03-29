@@ -7,44 +7,37 @@ import graph from '../Data/station_graph.json';
 
 const Options = ({ route, navigation }) => {
   const { startStationID, endStationID } = route.params;
-  const { noTransitRoutes, setNoTransitRoutes} = useState([]);
+  let noTransitRoutes = new Map();
   let possibleRoutes = new Map();
-  
+
   // no transit
 
-  noTransit = (start, end) => {
+  for (let item of Object.entries(busRoutes)) {
+    const [busID, routes] = item;
 
-    for (let busID in busRoutes) {
-      const routes = busRoutes[busID]
-      let foundStart = false;
-      let stops;
+    let stops;
+    let foundStart;
+    for (let station of routes) {
 
-      for (let station of routes) {
-
-        if (station === start) {
-          foundStart = true;
-          stops = 0;
-        }
-        if (foundStart && (station == end)) {
-          stops++;
-          let newArr = [...noTransitRoutes];
-          newArr
-          setNoTransitRoutes(arr => {});
-          break;
-        }
-        stops++;
+      if (station === startStationID) {
+        foundStart = true;
+        stops = 0;
       }
+      if (foundStart && (station == endStationID)) {
+        stops++;
+        noTransitRoutes.set(busID, stops);
+        break;
+      }
+      stops++;
     }
-    return noTransitRoutes;
-    // console.log(noTransitRoutes);
-    // console.log([...noTransitRoutes])
-  
   }
+
+
 
   const stationGraph = new Map(Object.entries(graph));
   useEffect(() => {
-    let map = noTransit(startStationID, endStationID)
-    console.log(map);
+
+
   }, [])
 
   function BFS(start) {
@@ -72,7 +65,7 @@ const Options = ({ route, navigation }) => {
       }
     }
   }
-  
+
 
   return (
     <View style={styles.container}>
@@ -82,17 +75,14 @@ const Options = ({ route, navigation }) => {
           No Transit routes:
         </Text>
         {
-          console.log("rendering")
-        }
-        {
-          [...noTransitRoutes].map((bus, index) => {
+          [...noTransitRoutes.keys()].map((id, index) => {
             console.log("shall be working")
-            return <Text key={index}>{bus}:{noTransitRoutes.get(bus)}</Text>
+            return <Text key={index}>{id}:{noTransitRoutes.get(id)}</Text>
           })
         }
 
       </View>
-      {/* <View>
+      <View>
         <Text>
           Two Transit routes:
         </Text>
@@ -103,7 +93,7 @@ const Options = ({ route, navigation }) => {
           })
           // [...possibleRoutes.values()].map((value, index) => console.log(value))
         }
-      </View> */}
+      </View>
 
     </View>
   )
