@@ -78,7 +78,7 @@ const Station = ({ navigation }) => {
         <View style={styles.container} >
 
             <View style={styles.search_bar_container}>
-                <View style={{ display: 'flex', flexDirection: 'row', marginRight: 32 }}>
+                <View style={{ display: 'flex', flexDirection: 'row', marginRight: 32, alignItems: 'center' }}>
                     <TextInput
                         ref={search => searchBarStart = search}
                         style={{
@@ -89,7 +89,7 @@ const Station = ({ navigation }) => {
                             color: 'black',
                             height: 40,
                             padding: 10,
-                            width: '100%'
+                            width: '97%'
                         }}
                         placeholder='Суух буудал'
                         placeholderTextColor={"grey"}
@@ -102,14 +102,15 @@ const Station = ({ navigation }) => {
                                 position: 'absolute',
                                 right: 0,
                                 zIndex: 1,
-                                marginRight: 4,
+                                marginRight: 12,
                                 alignSelf: 'center'
-                            }} onPress={() => { setChosenStart(false); searchBarStart.clear(); setStartStation("")  }}>
+                            }} onPress={() => { setChosenStart(false); searchBarStart.clear(); setStartStation(""); updateStationList("") }}>
                                 <MaterialIcon name="close" size={24} color={"black"} />
                             </TouchableOpacity> :
                             <TouchableOpacity></TouchableOpacity>
                     }
 
+                    <MaterialIcon style={{marginLeft: 4, marginBottom: -12}} name="arrow-down-right" size={30} color={"#9B9C9D"}/>
                 </View>
 
                 <View style={{ margin: 8 }}></View>
@@ -132,7 +133,7 @@ const Station = ({ navigation }) => {
                             zIndex: 1,
                             marginRight: 4,
                             alignSelf: 'center'
-                        }} onPress={() => { setChosenEnd(false); searchBarEnd.clear(); setEndStation("") }}>
+                        }} onPress={() => { setChosenEnd(false); searchBarEnd.clear(); setEndStation(""), updateStationList("") }}>
                             <MaterialIcon name="close" size={24} color={"black"} />
                         </TouchableOpacity>
                         :

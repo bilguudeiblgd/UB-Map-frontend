@@ -1,10 +1,15 @@
 import React, { useEffect, useState } from 'react'
-import { View, Text, ScrollView, StyleSheet, TouchableOpacity } from 'react-native';
+import { View, Text, ScrollView, StyleSheet, TouchableOpacity, TextInput } from 'react-native';
 import busRoutes from '../Data/bus_line_routes.json';
 import graph from '../Data/station_graph.json';
 import busInfo from '../Data/bus_line_detail_start.json';
+import stationInfo from '../Data/bus_station_id_info.json';
 import busInStation from '../Data/bus_in_stations.json';
 import MaterialIcon from 'react-native-vector-icons/MaterialCommunityIcons'
+import MaterialIc from 'react-native-vector-icons/MaterialIcons'
+import Ionicons from 'react-native-vector-icons/Ionicons'
+import Entypo from 'react-native-vector-icons/Entypo'
+import FontAwesome5 from 'react-native-vector-icons/FontAwesome5'
 
 const Options = ({ route, navigation }) => {
   const { startStationID, endStationID } = route.params;
@@ -72,59 +77,161 @@ const Options = ({ route, navigation }) => {
 
   return (
     <View style={styles.container}>
+      <View style={{ display: "flex", flexDirection: "row", marginBottom: 16 }}>
+        <TouchableOpacity style={{marginRight: 8}}
+          onPress={() => navigation.goBack()}
+        >
+          <Ionicons name="chevron-back" size={32} color={"black"} />
+        </TouchableOpacity>
 
-      <View>
-        <View style={styles.sub_header_container}>
-          <Text style={styles.sub_header_text}>
-            Шууд очих автобус
-          </Text>
+        <View style={{ flex: 1 }}>
+          <View style={{ flexDirection: 'row', alignItems: 'center' }}>
+            <MaterialIc name="trip-origin" size={14} color={"black"} style={{ marginRight: 4 }} />
+            <TextInput
+              value={stationInfo[startStationID].station_name}
+              style={{
+                borderWidth: 1,
+                borderColor: '#A6A6A7',
+                backgroundColor: 'white',
+                borderRadius: 12,
+                color: 'black',
+                height: 40,
+                padding: 10,
+                width: '80%'
+              }}
+            />
+          </View>
+          <TouchableOpacity>
+            <FontAwesome5 style={{ position: 'absolute', right: 0, top: 0, marginRight: 12, transform: [{rotate: "90deg"}] }} name="exchange-alt" size={16} color={"black"} />
+          </TouchableOpacity>
+          <View style={{ marginVertical: -4, justifyContent: "center" }}>
+            <Entypo style={{ marginVertical: -5 }} name="dot-single" size={16} color={"black"} />
+            <Entypo style={{ marginVertical: -5 }} name="dot-single" size={16} color={"black"} />
+            <Entypo style={{ marginVertical: -5 }} name="dot-single" size={16} color={"black"} />
+
+          </View>
+
+
+          <View style={{ flexDirection: 'row', alignItems: 'center' }}>
+            <Ionicons name="md-location-sharp" size={14} color={"#C8175A"} style={{ marginRight: 4 }} />
+            <TextInput
+              value={stationInfo[endStationID].station_name}
+              style={{
+                borderWidth: 1,
+                borderColor: '#A6A6A7',
+                backgroundColor: 'white',
+                borderRadius: 12,
+                color: 'black',
+                height: 40,
+                padding: 10,
+                width: '80%'
+              }}
+            />
+          </View>
+
         </View>
 
-        <TouchableOpacity style={styles.card_container}
-          onPress={() => { navigation.navigate('DetailedOption', {}) }
+      </View>
+      <View style={{borderBottomWidth: 1, borderBottomColor: "#A6A6A7", marginBottom: 16}}></View>
+      <View style={{ paddingHorizontal: 8 }}>
+        <View>
+          <View style={styles.sub_header_container}>
+            <Text style={styles.sub_header_text}>
+              Шууд очих автобус
+            </Text>
+          </View>
+
+          <TouchableOpacity style={styles.card_container}
+            onPress={() => { navigation.navigate('DetailedOption', {}) }
+            }>
+            <View style={{
+              display: 'flex',
+              flexDirection: 'row',
+              alignItems: 'center',
+            }}>
+              <MaterialIcon name='bus' color={"#C0C0C0"} size={32} />
+              {
+
+                [...noTransitRoutes.keys()].map((id, index) => {
+                  if (index >= 5) return;
+                  return (<View key={index} style={{ borderWidth: 1, padding: 4, marginRight: 8 }}>
+                    <Text style={styles.card_container_text}>{
+                      ((busInfo[id].line_name).split(' '))[0]
+                    }</Text>
+                  </View>)
+                })
+              }
+            </View>
+
+            <MaterialIcon name='arrow-right' color={"#C0C0C0"} size={32} />
+
+          </TouchableOpacity>
+
+        </View>
+        <View>
+          <View style={styles.sub_header_container}>
+            <Text style={styles.sub_header_text}>
+              Нэг дамжих зам
+            </Text>
+          </View>
+          <TouchableOpacity style={styles.card_container} onPress={() => { navigation.navigate('DetailedOption', {}) }
           }>
-          {/* <Text style={styles.card_container_text}>{id}:{noTransitRoutes.get(id)}</Text> */}
-          <MaterialIcon name='bus' color={"#C0C0C0"} size={32} />
-          {
-            [...noTransitRoutes.keys()].map((id, index) => {
-
-              return (<View key={index} style={{ borderWidth: 1, padding: 4, marginRight: 8 }}>
-                <Text style={styles.card_container_text}>{
-                  ((busInfo[id].line_name).split(' '))[0]
-                }</Text>
-              </View>)
-            })
-          }
-
-        </TouchableOpacity>
-
-
-
-
-      </View>
-      <View>
-        <View style={styles.sub_header_container}>
-          <Text style={styles.sub_header_text}>
-            Нэг дамжих зам
-          </Text>
+            <View style={{
+              display: 'flex',
+              flexDirection: 'row',
+              alignItems: 'center',
+            }}>
+              <MaterialIcon name='bus' color={"#C0C0C0"} size={32} />
+              <View style={{ borderWidth: 1, padding: 4, marginRight: 8 }}>
+                <Text style={styles.card_container_text}>Ч:01</Text>
+              </View>
+              <View style={{ borderWidth: 1, padding: 4, marginRight: 8 }}>
+                <Text style={styles.card_container_text}>Ч:03</Text>
+              </View>
+              <View style={styles.line}></View>
+              <MaterialIcon name='bus' color={"#C0C0C0"} size={32} />
+              <View style={{ borderWidth: 1, padding: 4, marginRight: 8 }}>
+                <Text style={styles.card_container_text}>Ч:01</Text>
+              </View>
+            </View>
+            <MaterialIcon name='arrow-right' color={"#C0C0C0"} size={32} />
+          </TouchableOpacity>
         </View>
-        <TouchableOpacity style={styles.card_container} onPress={() => { navigation.navigate('DetailedOption', {}) }
-        }>
-          {/* <Text style={styles.card_container_text}>{id}:{noTransitRoutes.get(id)}</Text> */}
-          <MaterialIcon name='bus' color={"#C0C0C0"} size={32} />
-          <View style={{ borderWidth: 1, padding: 4, marginRight: 8 }}>
-            <Text style={styles.card_container_text}>Ч:01</Text>
+
+        <View>
+          <View style={styles.sub_header_container}>
+            <Text style={styles.sub_header_text}>
+              Хоёр дамжих зам
+            </Text>
           </View>
-          <View style={{ borderWidth: 1, padding: 4, marginRight: 8 }}>
-            <Text style={styles.card_container_text}>Ч:03</Text>
-          </View>
-          <View style={styles.line}></View>
-          <MaterialIcon name='bus' color={"#C0C0C0"} size={32} />
-          <View style={{ borderWidth: 1, padding: 4, marginRight: 8 }}>
-            <Text style={styles.card_container_text}>Ч:01</Text>
-          </View>
-        </TouchableOpacity>
-      </View>
+
+          <TouchableOpacity style={styles.card_container}
+            onPress={() => { navigation.navigate('DetailedOption', {}) }
+            }>
+            <View style={{
+              display: 'flex',
+              flexDirection: 'row',
+              alignItems: 'center',
+            }}>
+              <MaterialIcon name='bus' color={"#C0C0C0"} size={32} />
+              {
+
+                [...noTransitRoutes.keys()].map((id, index) => {
+                  if (index >= 5) return;
+                  return (<View key={index} style={{ borderWidth: 1, padding: 4, marginRight: 8 }}>
+                    <Text style={styles.card_container_text}>{
+                      ((busInfo[id].line_name).split(' '))[0]
+                    }</Text>
+                  </View>)
+                })
+              }
+            </View>
+
+            <MaterialIcon name='arrow-right' color={"#C0C0C0"} size={32} />
+
+          </TouchableOpacity>
+
+        </View></View>
 
     </View>
   )
@@ -132,7 +239,8 @@ const Options = ({ route, navigation }) => {
 const styles = StyleSheet.create({
   container: {
     color: 'black',
-    padding: 20
+    paddingVertical: 20,
+    paddingHorizontal: 6
     // flex: 1
   },
   sub_header_container: {
@@ -153,6 +261,7 @@ const styles = StyleSheet.create({
     display: 'flex',
     flexDirection: 'row',
     alignItems: 'center',
+    justifyContent: 'space-around',
     borderWidth: 1,
     borderRadius: 12,
     height: 64,
