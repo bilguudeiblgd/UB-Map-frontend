@@ -1,10 +1,11 @@
-import React, { useState, useEffect } from 'react'
+import React, { useState, useEffect, useRef } from 'react'
 import data from '../Data/station_details.json';
 import { SearchBar, Button } from 'react-native-elements';
-import { TouchableOpacity, Pressable, ScrollView, Text, View, StyleSheet } from 'react-native';
+import { TouchableOpacity, Pressable, ScrollView, Text, View, StyleSheet, FlatList } from 'react-native';
 
 const Station = ({ navigation }) => {
-
+    let searchBarStart = null
+    let searchBarEnd= null
     const [active, setActive] = useState(false);
     const [startStation, setStartStation] = useState("");
     const [startStationID, setStartStationID] = useState("");
@@ -12,28 +13,58 @@ const Station = ({ navigation }) => {
     const [endStation, setEndStation] = useState("");
     const [chosenStart, setChosenStart] = useState(false);
     const [chosenEnd, setChosenEnd] = useState(false);
-    const updateStartSearch = (startStation) => {
-        setStartStation(startStation);
+    const [startSearchOnFocused, setStartSearchOnFocus] = useState(false);
+    const [endSearchOnFocused, setEndSearchOnFocus] = useState(false);
+    const stationData = data;
+    // initializing the stations
+    let stationListIni = []
+    for (let station of stationData) {
+        stationListIni.push({ id: station.id, name: station.name, longitude: station.longitude, latitude: station.latitude })
     }
-    const updateEndSearch = (endStation) => {
-        setEndStation(endStation);
+    const [stationList, setStationList] = useState(stationListIni);
+
+    const updateStartSearch = (text) => {
+        setStartStation(text);
+        updateStationList(text);
     }
+    const updateEndSearch = (text) => {
+        setEndStation(text);
+        updateStationList(text);
+    }
+    const updateStationList = (text) => {
+        console.log(text);
+        if (text == "") {
+            setStationList(stationListIni);
+        }
+        else {
+            let newArr = [];
+            stationData.map((station) => {
 
-    const stationList = data;
+                if (station.name.startsWith(text)) {
+                    newArr.push({ id: station.id, name: station.name, longitude: station.longitude, latitude: station.latitude });
+                }
+            })
 
+            setStationList(newArr);
+        }
+    }
 
 
     const cardClicked = (id, name) => {
-        if (!chosenStart) {
+
+        if (!chosenStart || startSearchOnFocused) {
             setStartStation(name);
             setStartStationID(id);
             setChosenStart(true);
+            setStartSearchOnFocus(false);
+            searchBarEnd.focus();
         }
-        else if (!chosenEnd) {
-            if(startStation === endStation) return;
+        else if (!chosenEnd || endSearchOnFocused) {
+            if (startStation === endStation) return;
             setEndStation(name);
             setEndStationID(id);
             setChosenEnd(true);
+            searchBarEnd.cancel();
         }
         else {
 
@@ -43,64 +74,69 @@ const Station = ({ navigation }) => {
     return (
         <View style={styles.container} >
             {/* <View  style={styles.search_bar_container}> */}
-                <View style={styles.search_bar_container}>
-                    <SearchBar
-                        lightTheme
-                        placeholder='Эхлэл'
-                        onChangeText={updateStartSearch}
-                        value={startStation}
-                        showCancel
-                        searchIcon={false}
-                        inputStyle={styles.search_bar_text}
-                        containerStyle={styles.search_bar_ind_container}
-                        inputContainerStyle={{ height: 40, width: 260,borderRadius: 20 }}
-                        onClear={() => setChosenStart(false)}
-                    />
-                    <SearchBar
-                        lightTheme
-                        placeholder='Төгсгөл'
-                        onChangeText={updateEndSearch}
-                        value={endStation}
-                        showCancel
-                        searchIcon={false}
-                        inputStyle={styles.search_bar_text}
-                        containerStyle={styles.search_bar_ind_container}
-                        inputContainerStyle={{ height: 40, borderRadius: 20 }}
-                        onClear={() => setChosenEnd(false)}
-                    />
+            <View style={styles.search_bar_container}>
+                <SearchBar
+                    ref={search => searchBarStart = search}
+                    lightTheme
+                    placeholder='Эхлэл'
+                    onChangeText={updateStartSearch}
+                    value={startStation}
+                    showCancel
+                    searchIcon={false}
+                    inputStyle={styles.search_bar_text}
+                    containerStyle={styles.search_bar_ind_container}
+                    inputContainerStyle={{ height: 40, width: 260, borderRadius: 20 }}
+                    onClear={() => { setChosenStart(false); updateStationList("");  }}
+                    onFocus={() => {
+                        setStartSearchOnFocus(true)
+                        setEndSearchOnFocus(false)
+                    }}
+
+                />
+                <SearchBar
+                    ref={search => searchBarEnd = search}
+                    lightTheme
+                    placeholder='Төгсгөл'
+                    onChangeText={updateEndSearch}
+                    value={endStation}
+                    showCancel
+                    searchIcon={false}
+                    inputStyle={styles.search_bar_text}
+                    containerStyle={styles.search_bar_ind_container}
+                    inputContainerStyle={{ height: 40, borderRadius: 20 }}
+                    onClear={() => setChosenEnd(false)}
+                    onFocus={() => {
+                        setStartSearchOnFocus(false)
+                        setEndSearchOnFocus(true)
+                    }}
+                />
                 {/* </View> */}
             </View>
-            <ScrollView style={styles.card_container}>
-                {stationList.map(
-                    function (station, index) {
-
-                        if (station.name.startsWith(chosenStart ? endStation : startStation)) {
-                            return (
-                                <TouchableOpacity
-                                    key={index}
-
-                                    onPress={() => {
-                                        cardClicked(station.id, station.name);
-                                    }}
-                                >
-                                    <View style={index == 0 ? {
-                                        borderBottomWidth: 0.5,
-                                        borderLeftWidth: 0.5,
-                                        borderRightWidth: 0.5,
-                                        borderTopWidth: 0.5,
-                                        borderTopLeftRadius: 10,
-                                        borderTopRightRadius: 10,
-                                        padding: 16
-                                    } : styles.item_container}>
-                                        <Text style={active ? styles.item_active : styles.item_notactive}>{station.name}</Text>
-                                    </View>
-                                </TouchableOpacity>
-                            )
-                        }
-                    }
-                )
+            <FlatList style={styles.card_container}
+                data={stationList}
+                renderItem={(station) =>
+                    <TouchableOpacity
+                        key={station.item.id}
+                        onPress={() => {
+                            cardClicked(station.item.id, station.item.name);
+                        }}
+                    >
+                        <View style={station.index == 0 ? {
+                            borderBottomWidth: 0.5,
+                            borderLeftWidth: 0.5,
+                            borderRightWidth: 0.5,
+                            borderTopWidth: 0.5,
+                            borderTopLeftRadius: 10,
+                            borderTopRightRadius: 10,
+                            padding: 16
+                        } : styles.item_container}>
+                            <Text style={active ? styles.item_active : styles.item_notactive}>{station.item.name}</Text>
+                        </View>
+                    </TouchableOpacity>
                 }
-            </ScrollView>
+            />
+
+
             {/* Check whether to sumnmon the bottom or not */}
 
             <View style={(chosenEnd && chosenStart) ? styles.direction_button_container : { display: 'none' }}>
@@ -146,7 +182,7 @@ const styles = StyleSheet.create({
         borderBottomWidth: 0.5,
         borderLeftWidth: 0.5,
         borderRightWidth: 0.5,
-       
+
     },
     item_active: {
         color: 'green'

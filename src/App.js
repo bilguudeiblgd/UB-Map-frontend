@@ -7,6 +7,7 @@ import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import Map from './Pages/Map.js';
 import Station from './Pages/Station';
 import Options from './Pages/Options';
+import DetailedOption from './Pages/DetailedOption';
 import FontAwesome5 from 'react-native-vector-icons/FontAwesome5';
 
 
@@ -19,14 +20,14 @@ const App = () => {
     <SafeAreaProvider>
       <NavigationContainer>
         <Stack.Navigator initialRouteName='Station'>
+          
           <Stack.Screen name = "Station" component={Station}/>
           <Stack.Screen name = "Options" component={Options}/>
+          <Stack.Screen name = "DetailedOption" component={DetailedOption}/>
+
         </Stack.Navigator>
       </NavigationContainer>
     </SafeAreaProvider>
-
-
-
   )
 }
 

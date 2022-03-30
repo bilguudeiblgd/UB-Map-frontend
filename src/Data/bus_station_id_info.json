@@ -1,0 +1,5797 @@
+{
+    "100000010": {
+        "station_name": "Энхтайван найрамдлын ордон",
+        "longitude": 106.90221,
+        "latitude": 47.91592
+    },
+    "100000014": {
+        "station_name": "Рашааны гудамж 3",
+        "longitude": 106.91516,
+        "latitude": 47.94902
+    },
+    "100000015": {
+        "station_name": "Өвөр-Согоот 1-р зогсоол",
+        "longitude": 106.92961,
+        "latitude": 48.01423
+    },
+    "000000020": {
+        "station_name": "5 Шар",
+        "longitude": 106.81484,
+        "latitude": 47.90965
+    },
+    "000000018": {
+        "station_name": "Монгол хюндэй киа компани",
+        "longitude": 106.82659,
+        "latitude": 47.91061
+    },
+    "000000011": {
+        "station_name": "32-р байр",
+        "longitude": 106.83359,
+        "latitude": 47.91113
+    },
+    "000000009": {
+        "station_name": "Хар хорин",
+        "longitude": 106.84054,
+        "latitude": 47.91166
+    },
+    "000000006": {
+        "station_name": "Цамбагарав",
+        "longitude": 106.84736,
+        "latitude": 47.9122
+    },
+    "000000004": {
+        "station_name": "Саппоро",
+        "longitude": 106.85283,
+        "latitude": 47.91256
+    },
+    "000000147": {
+        "station_name": "3-р эмнэлэг",
+        "longitude": 106.86022,
+        "latitude": 47.91305
+    },
+    "000000149": {
+        "station_name": "10-р хороолол",
+        "longitude": 106.86824,
+        "latitude": 47.91361
+    },
+    "000000151": {
+        "station_name": "25-р Эмийн сан",
+        "longitude": 106.87949,
+        "latitude": 47.91437
+    },
+    "000001225": {
+        "station_name": "ТБД андууд",
+        "longitude": 106.88725,
+        "latitude": 47.91471
+    },
+    "000000274": {
+        "station_name": "Баруун 4 зам",
+        "longitude": 106.89752,
+        "latitude": 47.91535
+    },
+    "000000273": {
+        "station_name": "Улсын Их Дэлгүүр",
+        "longitude": 106.90354,
+        "latitude": 47.91585
+    },
+    "000000279": {
+        "station_name": "Сүхбаатарын талбай",
+        "longitude": 106.9179,
+        "latitude": 47.91675
+    },
+    "000000281": {
+        "station_name": "Өргөө амаржих газар",
+        "longitude": 106.92632,
+        "latitude": 47.918
+    },
+    "000000369": {
+        "station_name": "Бөхийн өргөө",
+        "longitude": 106.93362,
+        "latitude": 47.91839
+    },
+    "000000371": {
+        "station_name": "Зүүн 4 зам",
+        "longitude": 106.94104,
+        "latitude": 47.91885
+    },
+    "000000373": {
+        "station_name": "Жуковын музей",
+        "longitude": 106.95157,
+        "latitude": 47.91739
+    },
+    "000000375": {
+        "station_name": "Монгол кино үйлдвэр",
+        "longitude": 106.9605,
+        "latitude": 47.91662
+    },
+    "000000377": {
+        "station_name": "Баянзүрх дүүрэг",
+        "longitude": 106.96512,
+        "latitude": 47.91621
+    },
+    "000000379": {
+        "station_name": "Офицеруудын ордон",
+        "longitude": 106.97028,
+        "latitude": 47.9158
+    },
+    "000000380": {
+        "station_name": "Офицеруудын ордон",
+        "longitude": 106.97022,
+        "latitude": 47.91616
+    },
+    "000000378": {
+        "station_name": "Баянзүрх дүүрэг",
+        "longitude": 106.96472,
+        "latitude": 47.91662
+    },
+    "000000376": {
+        "station_name": "Монгол кино үйлдвэр",
+        "longitude": 106.95984,
+        "latitude": 47.91705
+    },
+    "000000374": {
+        "station_name": "Жуковын музей",
+        "longitude": 106.94882,
+        "latitude": 47.91804
+    },
+    "000000372": {
+        "station_name": "Зүүн 4 зам",
+        "longitude": 106.94169,
+        "latitude": 47.919
+    },
+    "000000370": {
+        "station_name": "Хөдөлмөрийн яам",
+        "longitude": 106.93232,
+        "latitude": 47.91849
+    },
+    "000000585": {
+        "station_name": "МУБИС",
+        "longitude": 106.92596,
+        "latitude": 47.91811
+    },
+    "000000193": {
+        "station_name": "Мөнгөн завьяа",
+        "longitude": 106.90946,
+        "latitude": 47.91655
+    },
+    "000000155": {
+        "station_name": "Баруун 4 зам",
+        "longitude": 106.89281,
+        "latitude": 47.91517
+    },
+    "000000153": {
+        "station_name": "ТБД андууд",
+        "longitude": 106.8863,
+        "latitude": 47.9149
+    },
+    "000000152": {
+        "station_name": "25-р эмийн сан",
+        "longitude": 106.87856,
+        "latitude": 47.91456
+    },
+    "000000150": {
+        "station_name": "10-р хороолол",
+        "longitude": 106.86697,
+        "latitude": 47.91392
+    },
+    "000000148": {
+        "station_name": "3-р эмнэлэг",
+        "longitude": 106.85913,
+        "latitude": 47.91331
+    },
+    "000000005": {
+        "station_name": "Саппоро",
+        "longitude": 106.85172,
+        "latitude": 47.9128
+    },
+    "000000007": {
+        "station_name": "Цамбагарав",
+        "longitude": 106.8453,
+        "latitude": 47.91235
+    },
+    "000000008": {
+        "station_name": "19-р байр",
+        "longitude": 106.83945,
+        "latitude": 47.9119
+    },
+    "000000010": {
+        "station_name": "32-р байр",
+        "longitude": 106.83255,
+        "latitude": 47.91136
+    },
+    "000000019": {
+        "station_name": "Та Чи",
+        "longitude": 106.824,
+        "latitude": 47.9107
+    },
+    "000001412": {
+        "station_name": "5 Шар",
+        "longitude": 106.81549,
+        "latitude": 47.91006
+    },
+    "000000437": {
+        "station_name": "ШАР ХАДНЫ ЭЦЭС",
+        "longitude": 107.00545,
+        "latitude": 47.93451
+    },
+    "000000436": {
+        "station_name": "Да хүрээ зах",
+        "longitude": 107.00532,
+        "latitude": 47.93026
+    },
+    "000000434": {
+        "station_name": "Цахлай",
+        "longitude": 106.99976,
+        "latitude": 47.92722
+    },
+    "000000431": {
+        "station_name": "Эрдэнэтолгой",
+        "longitude": 106.99444,
+        "latitude": 47.92422
+    },
+    "000000429": {
+        "station_name": "16-р хороолол",
+        "longitude": 106.9841,
+        "latitude": 47.92376
+    },
+    "000000427": {
+        "station_name": "72-р хотхон",
+        "longitude": 106.97403,
+        "latitude": 47.92231
+    },
+    "000000584": {
+        "station_name": "Алдар спорт хороо",
+        "longitude": 106.97345,
+        "latitude": 47.91786
+    },
+    "000001154": {
+        "station_name": "Макс Малл",
+        "longitude": 106.89122,
+        "latitude": 47.91585
+    },
+    "000000159": {
+        "station_name": "Модны 2",
+        "longitude": 106.8909,
+        "latitude": 47.91914
+    },
+    "000000182": {
+        "station_name": "Москва ресторан",
+        "longitude": 106.88093,
+        "latitude": 47.92297
+    },
+    "000000165": {
+        "station_name": "Өргөө кино театр",
+        "longitude": 106.87491,
+        "latitude": 47.92282
+    },
+    "000000164": {
+        "station_name": "3,4-р хороололын эцэс",
+        "longitude": 106.86711,
+        "latitude": 47.92255
+    },
+    "000000163": {
+        "station_name": "Дүүхээ дэлгүүр",
+        "longitude": 106.8686,
+        "latitude": 47.92231
+    },
+    "000000166": {
+        "station_name": "11-р байр",
+        "longitude": 106.87282,
+        "latitude": 47.92244
+    },
+    "000000167": {
+        "station_name": "Парадокс",
+        "longitude": 106.87834,
+        "latitude": 47.92258
+    },
+    "000000168": {
+        "station_name": "Сентоза",
+        "longitude": 106.88698,
+        "latitude": 47.92292
+    },
+    "000001001": {
+        "station_name": "Модны 2",
+        "longitude": 106.89063,
+        "latitude": 47.91905
+    },
+    "000000583": {
+        "station_name": "Генерал худалдааны төв",
+        "longitude": 106.97389,
+        "latitude": 47.9194
+    },
+    "000000426": {
+        "station_name": "72-р хотхон",
+        "longitude": 106.97434,
+        "latitude": 47.92292
+    },
+    "000000428": {
+        "station_name": "16-р хороолол",
+        "longitude": 106.98147,
+        "latitude": 47.92361
+    },
+    "000000430": {
+        "station_name": "Эрдэнэтолгой",
+        "longitude": 106.99167,
+        "latitude": 47.92396
+    },
+    "000000432": {
+        "station_name": "Эрдэнэтолгой-2",
+        "longitude": 106.99685,
+        "latitude": 47.92451
+    },
+    "000000433": {
+        "station_name": "Цахлай",
+        "longitude": 107.00027,
+        "latitude": 47.92717
+    },
+    "000000435": {
+        "station_name": "Да хүрээ зах",
+        "longitude": 107.00589,
+        "latitude": 47.93044
+    },
+    "000001230": {
+        "station_name": "ШАР ХАДНЫ ЭЦЭС",
+        "longitude": 107.00584,
+        "latitude": 47.93459
+    },
+    "000000402": {
+        "station_name": "ХАЛДВАРТЫН ЭМНЭЛЭГ",
+        "longitude": 106.94841,
+        "latitude": 47.91272
+    },
+    "000000400": {
+        "station_name": "Баянзүрх их дэлгүүр",
+        "longitude": 106.94395,
+        "latitude": 47.91348
+    },
+    "000000047": {
+        "station_name": "Сүү хувьцаат компани",
+        "longitude": 106.8187,
+        "latitude": 47.91267
+    },
+    "000000049": {
+        "station_name": "Цахилгаан тээвэр",
+        "longitude": 106.8184,
+        "latitude": 47.91654
+    },
+    "000000051": {
+        "station_name": "21-р хороолол",
+        "longitude": 106.81699,
+        "latitude": 47.92084
+    },
+    "000000053": {
+        "station_name": "Сонгино хайрхан дүүрэг",
+        "longitude": 106.81639,
+        "latitude": 47.92462
+    },
+    "000000055": {
+        "station_name": "Давхар дэлгүүр",
+        "longitude": 106.81704,
+        "latitude": 47.9291
+    },
+    "000000096": {
+        "station_name": "Өндөр настан",
+        "longitude": 106.8158,
+        "latitude": 47.93411
+    },
+    "000000098": {
+        "station_name": "Шинэ давхар",
+        "longitude": 106.81498,
+        "latitude": 47.9371
+    },
+    "000000650": {
+        "station_name": "Хилчин хотхон",
+        "longitude": 106.8161,
+        "latitude": 47.94246
+    },
+    "000000100": {
+        "station_name": "Цэргийн анги",
+        "longitude": 106.82237,
+        "latitude": 47.94514
+    },
+    "000000102": {
+        "station_name": "7-р хороо",
+        "longitude": 106.82528,
+        "latitude": 47.94892
+    },
+    "000000104": {
+        "station_name": "Баян хошуу хуучин эцэс",
+        "longitude": 106.82633,
+        "latitude": 47.95404
+    },
+    "000000106": {
+        "station_name": "Зүүн салааны 1-р зогсоол",
+        "longitude": 106.82741,
+        "latitude": 47.96105
+    },
+    "000000108": {
+        "station_name": "Зүүн салааны 2-р зогсоол",
+        "longitude": 106.82872,
+        "latitude": 47.96417
+    },
+    "000000110": {
+        "station_name": "Зүүн салаа хуучин эцэс",
+        "longitude": 106.82917,
+        "latitude": 47.97133
+    },
+    "000000118": {
+        "station_name": "Улаан дэлгүүр",
+        "longitude": 106.82866,
+        "latitude": 47.97657
+    },
+    "000000120": {
+        "station_name": "Улаан худаг",
+        "longitude": 106.82776,
+        "latitude": 47.98407
+    },
+    "000000122": {
+        "station_name": "Одонт 30",
+        "longitude": 106.82767,
+        "latitude": 47.98986
+    },
+    "000000630": {
+        "station_name": "Одонт 44",
+        "longitude": 106.82596,
+        "latitude": 47.99545
+    },
+    "000000003": {
+        "station_name": "Зүүн салааны шинэ эцэс",
+        "longitude": 106.82546,
+        "latitude": 47.99864
+    },
+    "000000124": {
+        "station_name": "Одонт 44",
+        "longitude": 106.82584,
+        "latitude": 47.99474
+    },
+    "000000123": {
+        "station_name": "Одонт 30",
+        "longitude": 106.82749,
+        "latitude": 47.98898
+    },
+    "000000121": {
+        "station_name": "Улаан худаг",
+        "longitude": 106.82764,
+        "latitude": 47.98341
+    },
+    "000000119": {
+        "station_name": "Улаан дэлгүүр",
+        "longitude": 106.82857,
+        "latitude": 47.97585
+    },
+    "000000111": {
+        "station_name": "Зүүн салаа хуучин эцэс",
+        "longitude": 106.82939,
+        "latitude": 47.96992
+    },
+    "000000109": {
+        "station_name": "Зүүн салааны 2-р зогсоол",
+        "longitude": 106.82839,
+        "latitude": 47.96345
+    },
+    "000000107": {
+        "station_name": "Зүүн салааны 1-р зогсоол",
+        "longitude": 106.82691,
+        "latitude": 47.96052
+    },
+    "000000105": {
+        "station_name": "Баян хошуу хуучин эцэс",
+        "longitude": 106.82592,
+        "latitude": 47.95324
+    },
+    "000000103": {
+        "station_name": "7-р хороо",
+        "longitude": 106.82491,
+        "latitude": 47.94834
+    },
+    "000000101": {
+        "station_name": "Цэргийн анги",
+        "longitude": 106.82122,
+        "latitude": 47.94496
+    },
+    "000000649": {
+        "station_name": "Хилчин хотхон",
+        "longitude": 106.81561,
+        "latitude": 47.94194
+    },
+    "000000099": {
+        "station_name": "Шинэ давхар",
+        "longitude": 106.81485,
+        "latitude": 47.93648
+    },
+    "000000097": {
+        "station_name": "Өндөр настан",
+        "longitude": 106.81611,
+        "latitude": 47.93307
+    },
+    "000000056": {
+        "station_name": "Давхар дэлгүүр",
+        "longitude": 106.81657,
+        "latitude": 47.92835
+    },
+    "000000054": {
+        "station_name": "Сонгино хайрхан дүүрэг",
+        "longitude": 106.8161,
+        "latitude": 47.92403
+    },
+    "000000052": {
+        "station_name": "21-р хороолол",
+        "longitude": 106.81679,
+        "latitude": 47.9205
+    },
+    "000000050": {
+        "station_name": "Цахилгаан тээвэр",
+        "longitude": 106.81808,
+        "latitude": 47.91711
+    },
+    "000000048": {
+        "station_name": "Геологийн төв лаборатори",
+        "longitude": 106.81868,
+        "latitude": 47.91108
+    },
+    "000000401": {
+        "station_name": "Хавдар судлалын эмнэлэг",
+        "longitude": 106.94377,
+        "latitude": 47.91484
+    },
+    "000001270": {
+        "station_name": "Халдвартын эмнэлэг",
+        "longitude": 106.94862,
+        "latitude": 47.91267
+    },
+    "000000145": {
+        "station_name": "3-р эмнэлэг",
+        "longitude": 106.85505,
+        "latitude": 47.91468
+    },
+    "000000161": {
+        "station_name": "Гэмтлийн эмнэлэг",
+        "longitude": 106.85921,
+        "latitude": 47.92143
+    },
+    "000000176": {
+        "station_name": "Гандан",
+        "longitude": 106.89389,
+        "latitude": 47.92452
+    },
+    "000000256": {
+        "station_name": "Баянбүрд",
+        "longitude": 106.90858,
+        "latitude": 47.92824
+    },
+    "000000271": {
+        "station_name": "Өдрийн сонин",
+        "longitude": 106.92001,
+        "latitude": 47.92917
+    },
+    "000000305": {
+        "station_name": "100 айл",
+        "longitude": 106.92837,
+        "latitude": 47.92986
+    },
+    "000000417": {
+        "station_name": "Сансар ШТС",
+        "longitude": 106.93897,
+        "latitude": 47.92794
+    },
+    "000000416": {
+        "station_name": "Сансар ШТС",
+        "longitude": 106.93765,
+        "latitude": 47.92845
+    },
+    "000000306": {
+        "station_name": "Сүхбаатар дүүргийн эмнэлэг",
+        "longitude": 106.92891,
+        "latitude": 47.92999
+    },
+    "000000270": {
+        "station_name": "3-р сургууль",
+        "longitude": 106.91833,
+        "latitude": 47.92921
+    },
+    "000000257": {
+        "station_name": "Баянбүрд",
+        "longitude": 106.90752,
+        "latitude": 47.92833
+    },
+    "000000177": {
+        "station_name": "МҮИС",
+        "longitude": 106.89413,
+        "latitude": 47.92484
+    },
+    "000000162": {
+        "station_name": "Гэмтлийн эмнэлэг",
+        "longitude": 106.85723,
+        "latitude": 47.92134
+    },
+    "000001396": {
+        "station_name": "Дэнж",
+        "longitude": 106.85477,
+        "latitude": 47.9198
+    },
+    "000000425": {
+        "station_name": "Цайз зах",
+        "longitude": 106.97032,
+        "latitude": 47.92425
+    },
+    "000000423": {
+        "station_name": "1000 оюутны байр",
+        "longitude": 106.96296,
+        "latitude": 47.92382
+    },
+    "000000418": {
+        "station_name": "Их засаг Их Сургууль",
+        "longitude": 106.95287,
+        "latitude": 47.92364
+    },
+    "000000420": {
+        "station_name": "Цагдаагийн 801-р анги",
+        "longitude": 106.94792,
+        "latitude": 47.92443
+    },
+    "000000362": {
+        "station_name": "КТМС",
+        "longitude": 106.94321,
+        "latitude": 47.92656
+    },
+    "000000363": {
+        "station_name": "КТМС",
+        "longitude": 106.94273,
+        "latitude": 47.92654
+    },
+    "000000421": {
+        "station_name": "Сэлэнгэ зочид буудал",
+        "longitude": 106.94834,
+        "latitude": 47.92402
+    },
+    "000000419": {
+        "station_name": "Их засаг Их Сургууль",
+        "longitude": 106.95452,
+        "latitude": 47.92348
+    },
+    "000000422": {
+        "station_name": "1000 оюутны байр",
+        "longitude": 106.96456,
+        "latitude": 47.9238
+    },
+    "000000424": {
+        "station_name": "Цайз зах",
+        "longitude": 106.97287,
+        "latitude": 47.92408
+    },
+    "000000067": {
+        "station_name": "65-р дэлгүүр",
+        "longitude": 106.79329,
+        "latitude": 47.92013
+    },
+    "000000069": {
+        "station_name": "Толгойт Шөнийн дэлгүүр",
+        "longitude": 106.7881,
+        "latitude": 47.91983
+    },
+    "000000071": {
+        "station_name": "ТОЛГОЙТЫН ЭЦЭС",
+        "longitude": 106.78174,
+        "latitude": 47.91878
+    },
+    "000000072": {
+        "station_name": "Цэргийн хотхон",
+        "longitude": 106.7824,
+        "latitude": 47.91277
+    },
+    "000000024": {
+        "station_name": "Нефть хотхон",
+        "longitude": 106.78749,
+        "latitude": 47.91047
+    },
+    "000000022": {
+        "station_name": "10 буудал",
+        "longitude": 106.79976,
+        "latitude": 47.90955
+    },
+    "000001403": {
+        "station_name": "Богд ар хороолол",
+        "longitude": 106.88384,
+        "latitude": 47.91128
+    },
+    "000000671": {
+        "station_name": "Вокзал",
+        "longitude": 106.8851,
+        "latitude": 47.90904
+    },
+    "000000180": {
+        "station_name": "Барс худалдааны төв",
+        "longitude": 106.89058,
+        "latitude": 47.90896
+    },
+    "000001408": {
+        "station_name": "Монгол эм импекс",
+        "longitude": 106.90107,
+        "latitude": 47.90843
+    },
+    "000000284": {
+        "station_name": "Жигүүр гранд",
+        "longitude": 106.90996,
+        "latitude": 47.90814
+    },
+    "000000312": {
+        "station_name": "Соёлж худалдааны төв",
+        "longitude": 106.92907,
+        "latitude": 47.90809
+    },
+    "000001409": {
+        "station_name": "Говь хангай",
+        "longitude": 106.9388,
+        "latitude": 47.90795
+    },
+    "000000408": {
+        "station_name": "Нарантуул зах",
+        "longitude": 106.95281,
+        "latitude": 47.90782
+    },
+    "000000410": {
+        "station_name": "Ахмадын хороолол",
+        "longitude": 106.96013,
+        "latitude": 47.90784
+    },
+    "000000411": {
+        "station_name": "БЗД 13-р хороо",
+        "longitude": 106.96828,
+        "latitude": 47.90771
+    },
+    "000001161": {
+        "station_name": "Номин худалдааны төв",
+        "longitude": 106.97534,
+        "latitude": 47.91058
+    },
+    "000000381": {
+        "station_name": "Чулуун овоо",
+        "longitude": 106.98419,
+        "latitude": 47.91229
+    },
+    "000000383": {
+        "station_name": "Шөнийн дэлгүүр",
+        "longitude": 106.98935,
+        "latitude": 47.91256
+    },
+    "000000385": {
+        "station_name": "Хууль сахиулах их сургууль",
+        "longitude": 106.99747,
+        "latitude": 47.91299
+    },
+    "000000579": {
+        "station_name": "Ботаник",
+        "longitude": 107.00088,
+        "latitude": 47.91286
+    },
+    "000000386": {
+        "station_name": "Хууль сахиулах их сургууль",
+        "longitude": 106.99567,
+        "latitude": 47.9131
+    },
+    "000000384": {
+        "station_name": "Шөнийн дэлгүүр",
+        "longitude": 106.98788,
+        "latitude": 47.91269
+    },
+    "000000382": {
+        "station_name": "Чулуун овоо",
+        "longitude": 106.98015,
+        "latitude": 47.9123
+    },
+    "000001160": {
+        "station_name": "Номин худалдааны төв",
+        "longitude": 106.97461,
+        "latitude": 47.91042
+    },
+    "000000412": {
+        "station_name": "БЗД 13-р хороо",
+        "longitude": 106.96653,
+        "latitude": 47.90791
+    },
+    "000000409": {
+        "station_name": "Ахмадын хороолол",
+        "longitude": 106.95922,
+        "latitude": 47.90802
+    },
+    "000000407": {
+        "station_name": "Нарантуул зах",
+        "longitude": 106.94687,
+        "latitude": 47.90812
+    },
+    "000000651": {
+        "station_name": "Миний дэлгүүр",
+        "longitude": 106.93575,
+        "latitude": 47.90821
+    },
+    "000000311": {
+        "station_name": "Замын цагдаагийн газар",
+        "longitude": 106.92855,
+        "latitude": 47.90827
+    },
+    "000001503": {
+        "station_name": "ҮСА Хүрээлэн",
+        "longitude": 106.92281,
+        "latitude": 47.90833
+    },
+    "000000285": {
+        "station_name": "Жигүүр гранд",
+        "longitude": 106.90869,
+        "latitude": 47.90835
+    },
+    "000001407": {
+        "station_name": "Монгол эм импекс",
+        "longitude": 106.90055,
+        "latitude": 47.90867
+    },
+    "000000178": {
+        "station_name": "Вокзал",
+        "longitude": 106.88463,
+        "latitude": 47.90965
+    },
+    "000001404": {
+        "station_name": "Богд ар хороолол",
+        "longitude": 106.88403,
+        "latitude": 47.912
+    },
+    "000000061": {
+        "station_name": "ЧИНГИС СООСЭ Дээд Сургууль",
+        "longitude": 106.81265,
+        "latitude": 47.92149
+    },
+    "000001410": {
+        "station_name": "Толгойт-1",
+        "longitude": 106.80475,
+        "latitude": 47.92087
+    },
+    "000000065": {
+        "station_name": "Их наран 1",
+        "longitude": 106.79879,
+        "latitude": 47.92051
+    },
+    "000000066": {
+        "station_name": "65-р дэлгүүр",
+        "longitude": 106.79534,
+        "latitude": 47.92014
+    },
+    "000000505": {
+        "station_name": "НИСЭХ",
+        "longitude": 106.7631,
+        "latitude": 47.86531
+    },
+    "000000507": {
+        "station_name": "7-р сургууль",
+        "longitude": 106.76186,
+        "latitude": 47.86039
+    },
+    "000000509": {
+        "station_name": "Орон сууц",
+        "longitude": 106.76211,
+        "latitude": 47.8571
+    },
+    "000000503": {
+        "station_name": "Буянт ухаа-1",
+        "longitude": 106.76553,
+        "latitude": 47.85607
+    },
+    "000000512": {
+        "station_name": "Нисэхийн дэнж",
+        "longitude": 106.77161,
+        "latitude": 47.85614
+    },
+    "000000510": {
+        "station_name": "ИНЕГ",
+        "longitude": 106.77835,
+        "latitude": 47.85625
+    },
+    "000000138": {
+        "station_name": "Буянт-ухаа спорт цогцолбор",
+        "longitude": 106.78332,
+        "latitude": 47.85672
+    },
+    "000000716": {
+        "station_name": "118-р Сургууль",
+        "longitude": 106.79335,
+        "latitude": 47.85966
+    },
+    "000000519": {
+        "station_name": "Яармагийн 4-р буудал",
+        "longitude": 106.80076,
+        "latitude": 47.86191
+    },
+    "000000521": {
+        "station_name": "Эмнэлгийн буудал",
+        "longitude": 106.81206,
+        "latitude": 47.86537
+    },
+    "000000523": {
+        "station_name": "Яармагийн 3-р буудал",
+        "longitude": 106.819,
+        "latitude": 47.8674
+    },
+    "000000525": {
+        "station_name": "Яармагийн 2-р буудал",
+        "longitude": 106.82656,
+        "latitude": 47.86967
+    },
+    "000000529": {
+        "station_name": "Яармагийн 1-р буудал",
+        "longitude": 106.83363,
+        "latitude": 47.87181
+    },
+    "000001313": {
+        "station_name": "Англи сургууль",
+        "longitude": 106.84509,
+        "latitude": 47.87494
+    },
+    "000000718": {
+        "station_name": "Хүннү Их дэлгүүр",
+        "longitude": 106.85233,
+        "latitude": 47.87787
+    },
+    "000000527": {
+        "station_name": "Вива сити",
+        "longitude": 106.85894,
+        "latitude": 47.88135
+    },
+    "000000721": {
+        "station_name": "MSM",
+        "longitude": 106.8725,
+        "latitude": 47.89191
+    },
+    "000000534": {
+        "station_name": "Эрэл компани",
+        "longitude": 106.88065,
+        "latitude": 47.89461
+    },
+    "000000538": {
+        "station_name": "Таван богд компани",
+        "longitude": 106.89097,
+        "latitude": 47.8981
+    },
+    "000000540": {
+        "station_name": "Ажилчдын соёлын ордон",
+        "longitude": 106.89815,
+        "latitude": 47.89888
+    },
+    "000000542": {
+        "station_name": "Төв цэнгэлдэх хүрээлэн",
+        "longitude": 106.91039,
+        "latitude": 47.90169
+    },
+    "000000282": {
+        "station_name": "Төв номын сан",
+        "longitude": 106.91556,
+        "latitude": 47.91426
+    },
+    "000000286": {
+        "station_name": "МУБИС",
+        "longitude": 106.92374,
+        "latitude": 47.91858
+    },
+    "000000288": {
+        "station_name": "Монгол Улсын Их Сургууль",
+        "longitude": 106.92022,
+        "latitude": 47.92242
+    },
+    "000000203": {
+        "station_name": "Ард кино театр",
+        "longitude": 106.9116,
+        "latitude": 47.91784
+    },
+    "000000283": {
+        "station_name": "Баянгол зочид буудал",
+        "longitude": 106.9151,
+        "latitude": 47.91337
+    },
+    "000001337": {
+        "station_name": "120 Мянгат",
+        "longitude": 106.90897,
+        "latitude": 47.9001
+    },
+    "000000541": {
+        "station_name": "Ажилчдын соёлын ордон",
+        "longitude": 106.89967,
+        "latitude": 47.8991
+    },
+    "000000539": {
+        "station_name": "Таван богд компани",
+        "longitude": 106.88842,
+        "latitude": 47.89749
+    },
+    "000000535": {
+        "station_name": "Эрэл компани",
+        "longitude": 106.87959,
+        "latitude": 47.8945
+    },
+    "000000720": {
+        "station_name": "MSM",
+        "longitude": 106.87129,
+        "latitude": 47.89161
+    },
+    "000000528": {
+        "station_name": "Вива сити",
+        "longitude": 106.85748,
+        "latitude": 47.8809
+    },
+    "000000717": {
+        "station_name": "Хүннү Их дэлгүүр",
+        "longitude": 106.85002,
+        "latitude": 47.87708
+    },
+    "000001312": {
+        "station_name": "Англи сургууль",
+        "longitude": 106.84402,
+        "latitude": 47.87497
+    },
+    "000000530": {
+        "station_name": "Яармагийн 1-р буудал",
+        "longitude": 106.8324,
+        "latitude": 47.87178
+    },
+    "000000526": {
+        "station_name": "Яармагийн 2-р буудал",
+        "longitude": 106.82501,
+        "latitude": 47.86957
+    },
+    "000000524": {
+        "station_name": "Яармагийн 3-р буудал",
+        "longitude": 106.8177,
+        "latitude": 47.86737
+    },
+    "000000522": {
+        "station_name": "Эмнэлгийн буудал",
+        "longitude": 106.8104,
+        "latitude": 47.86514
+    },
+    "000000520": {
+        "station_name": "Яармагийн 4-р буудал",
+        "longitude": 106.79911,
+        "latitude": 47.86178
+    },
+    "000000715": {
+        "station_name": "118-р Сургууль",
+        "longitude": 106.79185,
+        "latitude": 47.85957
+    },
+    "000000632": {
+        "station_name": "Буянт-ухаа спорт цогцолбор",
+        "longitude": 106.78234,
+        "latitude": 47.8567
+    },
+    "000000511": {
+        "station_name": "ИНЕГ",
+        "longitude": 106.77677,
+        "latitude": 47.85641
+    },
+    "000000513": {
+        "station_name": "Нисэхийн дэнж",
+        "longitude": 106.77038,
+        "latitude": 47.85631
+    },
+    "000001182": {
+        "station_name": "Чингис Хаан ОУНБ",
+        "longitude": 106.76307,
+        "latitude": 47.85371
+    },
+    "000000508": {
+        "station_name": "Орон сууц",
+        "longitude": 106.76215,
+        "latitude": 47.85753
+    },
+    "000000506": {
+        "station_name": "7-р сургууль",
+        "longitude": 106.76233,
+        "latitude": 47.86147
+    },
+    "000001232": {
+        "station_name": "НИСЭХ",
+        "longitude": 106.7634,
+        "latitude": 47.86535
+    },
+    "000000192": {
+        "station_name": "Хайлаастын шинэ эцэс",
+        "longitude": 106.8727,
+        "latitude": 47.97269
+    },
+    "000000191": {
+        "station_name": "Хайлааст завсар 3",
+        "longitude": 106.88026,
+        "latitude": 47.96943
+    },
+    "000000219": {
+        "station_name": "Хайлааст завсар 2",
+        "longitude": 106.88516,
+        "latitude": 47.96724
+    },
+    "000000659": {
+        "station_name": "Хайлааст завсар 1",
+        "longitude": 106.88957,
+        "latitude": 47.9651
+    },
+    "000000221": {
+        "station_name": "Хайлааст хуучин эцэс",
+        "longitude": 106.89677,
+        "latitude": 47.96193
+    },
+    "000000218": {
+        "station_name": "49-р сургууль",
+        "longitude": 106.90174,
+        "latitude": 47.95699
+    },
+    "000000223": {
+        "station_name": "Хайлааст-Давхрын буудал",
+        "longitude": 106.90669,
+        "latitude": 47.95309
+    },
+    "000000269": {
+        "station_name": "17-р сургууль",
+        "longitude": 106.91389,
+        "latitude": 47.94768
+    },
+    "000000267": {
+        "station_name": "32-ын тойрог",
+        "longitude": 106.91448,
+        "latitude": 47.94317
+    },
+    "000000302": {
+        "station_name": "9-р дэлгүүр",
+        "longitude": 106.92088,
+        "latitude": 47.9377
+    },
+    "000000303": {
+        "station_name": "Жоби дэлгүүр",
+        "longitude": 106.92722,
+        "latitude": 47.93125
+    },
+    "000000291": {
+        "station_name": "11-р хороолол",
+        "longitude": 106.9269,
+        "latitude": 47.92688
+    },
+    "000000289": {
+        "station_name": "Хөгжим бүжгийн коллеж",
+        "longitude": 106.92642,
+        "latitude": 47.92307
+    },
+    "000000287": {
+        "station_name": "МУБИС",
+        "longitude": 106.9233,
+        "latitude": 47.91972
+    },
+    "000000582": {
+        "station_name": "Цэцэг төв",
+        "longitude": 106.9119,
+        "latitude": 47.91834
+    },
+    "000000200": {
+        "station_name": "Хүнсний 1-р дэлгүүр",
+        "longitude": 106.91092,
+        "latitude": 47.92299
+    },
+    "000000293": {
+        "station_name": "4-р дэлгүүр",
+        "longitude": 106.91754,
+        "latitude": 47.92769
+    },
+    "000000299": {
+        "station_name": "Ногоон нуурын буудал",
+        "longitude": 106.91593,
+        "latitude": 47.93615
+    },
+    "000000266": {
+        "station_name": "32-ын тойрог",
+        "longitude": 106.91446,
+        "latitude": 47.94484
+    },
+    "000000224": {
+        "station_name": "Гялгар зах",
+        "longitude": 106.91076,
+        "latitude": 47.95047
+    },
+    "000000222": {
+        "station_name": "Хайлааст-Давхрын буудал",
+        "longitude": 106.90753,
+        "latitude": 47.95262
+    },
+    "000000217": {
+        "station_name": "49-р сургууль",
+        "longitude": 106.90243,
+        "latitude": 47.9566
+    },
+    "000000220": {
+        "station_name": "Хайлааст хуучин эцэс",
+        "longitude": 106.89717,
+        "latitude": 47.9615
+    },
+    "000000658": {
+        "station_name": "Хайлааст завсар 1",
+        "longitude": 106.88891,
+        "latitude": 47.9655
+    },
+    "000000657": {
+        "station_name": "Хайлааст завсар 2",
+        "longitude": 106.88652,
+        "latitude": 47.96681
+    },
+    "000000190": {
+        "station_name": "Хайлааст завсар 3",
+        "longitude": 106.8796,
+        "latitude": 47.96985
+    },
+    "000000656": {
+        "station_name": "Хайлааст шинэ эцэс",
+        "longitude": 106.87296,
+        "latitude": 47.97279
+    },
+    "000000557": {
+        "station_name": "Механик инженер сурууль",
+        "longitude": 106.89326,
+        "latitude": 47.90071
+    },
+    "000000629": {
+        "station_name": "Алтай хотхон",
+        "longitude": 106.89343,
+        "latitude": 47.90412
+    },
+    "000000179": {
+        "station_name": "Тээврийн товчоо",
+        "longitude": 106.89483,
+        "latitude": 47.9116
+    },
+    "000000248": {
+        "station_name": "Элба дэлгүүр",
+        "longitude": 106.89559,
+        "latitude": 47.91639
+    },
+    "000000250": {
+        "station_name": "Бөмбөгөр худалдааны төв",
+        "longitude": 106.89947,
+        "latitude": 47.92033
+    },
+    "000000259": {
+        "station_name": "Чингэлтэй дүүрэг",
+        "longitude": 106.907,
+        "latitude": 47.92193
+    },
+    "000000294": {
+        "station_name": "4-р дэлгүүр",
+        "longitude": 106.91744,
+        "latitude": 47.92716
+    },
+    "000000201": {
+        "station_name": "Хүнсний 1-р дэлгүүр",
+        "longitude": 106.911,
+        "latitude": 47.92388
+    },
+    "000000258": {
+        "station_name": "Тэнгис кино театр",
+        "longitude": 106.90448,
+        "latitude": 47.92203
+    },
+    "000000251": {
+        "station_name": "Бөмбөгөр худалдааны төв",
+        "longitude": 106.89888,
+        "latitude": 47.9197
+    },
+    "000000804": {
+        "station_name": "МҮЭСТО",
+        "longitude": 106.89456,
+        "latitude": 47.91413
+    },
+    "000000628": {
+        "station_name": "Алтай хотхон",
+        "longitude": 106.89291,
+        "latitude": 47.90375
+    },
+    "000000556": {
+        "station_name": "Механик инженер сурууль",
+        "longitude": 106.893,
+        "latitude": 47.90016
+    },
+    "000000504": {
+        "station_name": "Буянт ухаа-1",
+        "longitude": 106.76394,
+        "latitude": 47.85612
+    },
+    "000001159": {
+        "station_name": "БЗД 21-р хороо",
+        "longitude": 106.94418,
+        "latitude": 47.95288
+    },
+    "000000364": {
+        "station_name": "21-р хороо завсар",
+        "longitude": 106.93924,
+        "latitude": 47.95021
+    },
+    "000000487": {
+        "station_name": "Дарь эх хуучин эцэс",
+        "longitude": 106.93181,
+        "latitude": 47.94084
+    },
+    "000000483": {
+        "station_name": "Дарь эх дунд буудал",
+        "longitude": 106.93181,
+        "latitude": 47.93523
+    },
+    "000001431": {
+        "station_name": "Хас зах",
+        "longitude": 106.93389,
+        "latitude": 47.93132
+    },
+    "000000413": {
+        "station_name": "Сансарын үйлчилгээний төв",
+        "longitude": 106.94195,
+        "latitude": 47.92355
+    },
+    "000000406": {
+        "station_name": "Улаанбаатар их сургууль",
+        "longitude": 106.94343,
+        "latitude": 47.91104
+    },
+    "000001445": {
+        "station_name": "Их монгол хороолол",
+        "longitude": 106.94323,
+        "latitude": 47.90647
+    },
+    "000000773": {
+        "station_name": "Сүмбэр Орд",
+        "longitude": 106.93836,
+        "latitude": 47.90484
+    },
+    "000000771": {
+        "station_name": "Баянмонгол хороолол",
+        "longitude": 106.93121,
+        "latitude": 47.90455
+    },
+    "000000546": {
+        "station_name": "Жаргалан хотхон",
+        "longitude": 106.92353,
+        "latitude": 47.90456
+    },
+    "000000544": {
+        "station_name": "Төв цэнгэлдэх хүрээлэн",
+        "longitude": 106.91685,
+        "latitude": 47.90435
+    },
+    "000000532": {
+        "station_name": "Барилга угсралт компани",
+        "longitude": 106.87335,
+        "latitude": 47.89555
+    },
+    "000001464": {
+        "station_name": "Дулааны цахилгаан станц 3",
+        "longitude": 106.86759,
+        "latitude": 47.89925
+    },
+    "000000531": {
+        "station_name": "Барилга угсралт компани",
+        "longitude": 106.87403,
+        "latitude": 47.89494
+    },
+    "000000545": {
+        "station_name": "Төв цэнгэлдэх хүрээлэн",
+        "longitude": 106.91763,
+        "latitude": 47.90412
+    },
+    "000000547": {
+        "station_name": "Жаргалан хотхон",
+        "longitude": 106.92472,
+        "latitude": 47.9044
+    },
+    "000000772": {
+        "station_name": "Баянмонгол хороолол",
+        "longitude": 106.93309,
+        "latitude": 47.90444
+    },
+    "000000774": {
+        "station_name": "Сүмбэр Орд",
+        "longitude": 106.93957,
+        "latitude": 47.9047
+    },
+    "000001446": {
+        "station_name": "Их монгол хороолол",
+        "longitude": 106.9436,
+        "latitude": 47.90593
+    },
+    "000000405": {
+        "station_name": "Шөнийн зах",
+        "longitude": 106.9436,
+        "latitude": 47.90981
+    },
+    "000000414": {
+        "station_name": "Сансарын үйлчилгээний төв",
+        "longitude": 106.94168,
+        "latitude": 47.92571
+    },
+    "000001430": {
+        "station_name": "Хас зах",
+        "longitude": 106.93379,
+        "latitude": 47.93192
+    },
+    "000000482": {
+        "station_name": "Дарь эх дунд буудал",
+        "longitude": 106.93179,
+        "latitude": 47.93569
+    },
+    "000000486": {
+        "station_name": "Дарь эх хуучин эцэс",
+        "longitude": 106.93222,
+        "latitude": 47.94166
+    },
+    "000001156": {
+        "station_name": "21-р хороо завсар",
+        "longitude": 106.93984,
+        "latitude": 47.95028
+    },
+    "000000480": {
+        "station_name": "БЗД 21-р хороо",
+        "longitude": 106.94434,
+        "latitude": 47.95296
+    },
+    "000000465": {
+        "station_name": "ХУЖИРБУЛАНГИЙН ЭЦЭС",
+        "longitude": 107.07623,
+        "latitude": 47.92443
+    },
+    "000000464": {
+        "station_name": "Хужирбулан завсар 2",
+        "longitude": 107.07721,
+        "latitude": 47.92097
+    },
+    "000000452": {
+        "station_name": "11-р цэргийн анги",
+        "longitude": 107.07575,
+        "latitude": 47.91573
+    },
+    "000001384": {
+        "station_name": "120-р сургууль",
+        "longitude": 107.07087,
+        "latitude": 47.91566
+    },
+    "000000450": {
+        "station_name": "Гачуурт завсар",
+        "longitude": 107.06772,
+        "latitude": 47.91564
+    },
+    "000001382": {
+        "station_name": "15-н зогсоол",
+        "longitude": 107.0621,
+        "latitude": 47.91554
+    },
+    "000000449": {
+        "station_name": "Хар хошуу",
+        "longitude": 107.05592,
+        "latitude": 47.91546
+    },
+    "000000447": {
+        "station_name": "Мангай",
+        "longitude": 107.04338,
+        "latitude": 47.9117
+    },
+    "000000396": {
+        "station_name": "Шар дэлгүүр",
+        "longitude": 107.03504,
+        "latitude": 47.90765
+    },
+    "000000783": {
+        "station_name": "Пост",
+        "longitude": 107.03456,
+        "latitude": 47.90555
+    },
+    "000000394": {
+        "station_name": "Хангамж",
+        "longitude": 107.024,
+        "latitude": 47.90386
+    },
+    "000000392": {
+        "station_name": "Амгалан",
+        "longitude": 107.01424,
+        "latitude": 47.90677
+    },
+    "000000390": {
+        "station_name": "12-ын буудал",
+        "longitude": 107.00749,
+        "latitude": 47.90918
+    },
+    "000000388": {
+        "station_name": "Ботаник",
+        "longitude": 107.00079,
+        "latitude": 47.91263
+    },
+    "000001402": {
+        "station_name": "Икс апартмент",
+        "longitude": 106.97501,
+        "latitude": 47.91446
+    },
+    "000001401": {
+        "station_name": "Эм Ай Ю дээд сургууль",
+        "longitude": 106.97512,
+        "latitude": 47.9141
+    },
+    "000000387": {
+        "station_name": "БОТАНИКИЙН ЭЦЭС",
+        "longitude": 107.00181,
+        "latitude": 47.91195
+    },
+    "000000389": {
+        "station_name": "Төмөр замын засварын төв",
+        "longitude": 107.00833,
+        "latitude": 47.90859
+    },
+    "000000391": {
+        "station_name": "Амгалан",
+        "longitude": 107.0146,
+        "latitude": 47.90654
+    },
+    "000000393": {
+        "station_name": "Хангамж",
+        "longitude": 107.02555,
+        "latitude": 47.90329
+    },
+    "000000784": {
+        "station_name": "Пост",
+        "longitude": 107.03476,
+        "latitude": 47.90554
+    },
+    "000000395": {
+        "station_name": "Шар дэлгүүр",
+        "longitude": 107.03696,
+        "latitude": 47.90847
+    },
+    "000000446": {
+        "station_name": "Мангай",
+        "longitude": 107.04514,
+        "latitude": 47.9124
+    },
+    "000000448": {
+        "station_name": "Хар хошуу",
+        "longitude": 107.05702,
+        "latitude": 47.91532
+    },
+    "000001383": {
+        "station_name": "15-н зогсоол",
+        "longitude": 107.06271,
+        "latitude": 47.9154
+    },
+    "000000451": {
+        "station_name": "Гачуурт завсар",
+        "longitude": 107.06848,
+        "latitude": 47.91551
+    },
+    "000001385": {
+        "station_name": "120-р сургууль",
+        "longitude": 107.07139,
+        "latitude": 47.91554
+    },
+    "000000453": {
+        "station_name": "11-р цэргийн анги",
+        "longitude": 107.07678,
+        "latitude": 47.91564
+    },
+    "000000463": {
+        "station_name": "Хужирбулан завсар 1",
+        "longitude": 107.07862,
+        "latitude": 47.91643
+    },
+    "000000454": {
+        "station_name": "Хужирбулан завсар 2",
+        "longitude": 107.07724,
+        "latitude": 47.92177
+    },
+    "000001235": {
+        "station_name": "ХУЖИРБУЛАНГИЙН ЭЦЭС",
+        "longitude": 107.07648,
+        "latitude": 47.92442
+    },
+    "000000472": {
+        "station_name": "УРГАХ НАРАН ХОРООЛОЛ",
+        "longitude": 107.11394,
+        "latitude": 47.87351
+    },
+    "000000470": {
+        "station_name": "Ургах наран хороолол",
+        "longitude": 107.10942,
+        "latitude": 47.87157
+    },
+    "000000878": {
+        "station_name": "Усан сан",
+        "longitude": 107.10477,
+        "latitude": 47.87519
+    },
+    "000000468": {
+        "station_name": "Ногооны зоорь",
+        "longitude": 107.09666,
+        "latitude": 47.88047
+    },
+    "000000673": {
+        "station_name": "Налайх МТ ШТС",
+        "longitude": 107.08664,
+        "latitude": 47.88473
+    },
+    "000000675": {
+        "station_name": "Хөх Тэнгэр хотхон",
+        "longitude": 107.0806,
+        "latitude": 47.88678
+    },
+    "000000467": {
+        "station_name": "Баянзүрх ШБ товчоо",
+        "longitude": 107.07162,
+        "latitude": 47.88798
+    },
+    "000000466": {
+        "station_name": "Баянзүрх ШБ товчоо",
+        "longitude": 107.07026,
+        "latitude": 47.88795
+    },
+    "000000676": {
+        "station_name": "Хөх Тэнгэр хотхон",
+        "longitude": 107.08067,
+        "latitude": 47.88661
+    },
+    "000000674": {
+        "station_name": "Налайх МТ ШТС",
+        "longitude": 107.08778,
+        "latitude": 47.88412
+    },
+    "000000469": {
+        "station_name": "Ногооны зоорь",
+        "longitude": 107.0972,
+        "latitude": 47.87999
+    },
+    "000000877": {
+        "station_name": "Усан сан",
+        "longitude": 107.10514,
+        "latitude": 47.87471
+    },
+    "000000471": {
+        "station_name": "Ургах наран хороолол",
+        "longitude": 107.10988,
+        "latitude": 47.87102
+    },
+    "000001425": {
+        "station_name": "Чулуутын гүүр",
+        "longitude": 107.12044,
+        "latitude": 47.86363
+    },
+    "000001424": {
+        "station_name": "Чулуутын гүүр",
+        "longitude": 107.12013,
+        "latitude": 47.86407
+    },
+    "000001236": {
+        "station_name": "УРГАХ НАРАН ХОРООЛОЛ",
+        "longitude": 107.11409,
+        "latitude": 47.87358
+    },
+    "000000036": {
+        "station_name": "Тахилтын эцэс",
+        "longitude": 106.68255,
+        "latitude": 47.93571
+    },
+    "000000820": {
+        "station_name": "Тахилт 5",
+        "longitude": 106.687,
+        "latitude": 47.93055
+    },
+    "000000822": {
+        "station_name": "Тахилт 4",
+        "longitude": 106.69163,
+        "latitude": 47.92506
+    },
+    "000000824": {
+        "station_name": "Тахилт 3",
+        "longitude": 106.69599,
+        "latitude": 47.92105
+    },
+    "000000826": {
+        "station_name": "Тахилт 2",
+        "longitude": 106.70026,
+        "latitude": 47.91821
+    },
+    "000000828": {
+        "station_name": "Тахилт 1",
+        "longitude": 106.70607,
+        "latitude": 47.91432
+    },
+    "000000830": {
+        "station_name": "Тахилт давхар",
+        "longitude": 106.70972,
+        "latitude": 47.91151
+    },
+    "000000832": {
+        "station_name": "Тахилт зам анги",
+        "longitude": 106.71341,
+        "latitude": 47.90865
+    },
+    "000000834": {
+        "station_name": "Тахилт задгай",
+        "longitude": 106.71969,
+        "latitude": 47.90679
+    },
+    "000000836": {
+        "station_name": "Ногоон хашаа",
+        "longitude": 106.72514,
+        "latitude": 47.90581
+    },
+    "000000838": {
+        "station_name": "Тахилт худаг",
+        "longitude": 106.73182,
+        "latitude": 47.90729
+    },
+    "000000032": {
+        "station_name": "Тахилт жаргалант",
+        "longitude": 106.73532,
+        "latitude": 47.91047
+    },
+    "000000841": {
+        "station_name": "СХД 22-р хороо",
+        "longitude": 106.73975,
+        "latitude": 47.91178
+    },
+    "000000847": {
+        "station_name": "Номгон",
+        "longitude": 106.74568,
+        "latitude": 47.91296
+    },
+    "000000843": {
+        "station_name": "Тойрог",
+        "longitude": 106.75069,
+        "latitude": 47.91509
+    },
+    "000000031": {
+        "station_name": "Орбит хуучин эцэс",
+        "longitude": 106.75429,
+        "latitude": 47.91228
+    },
+    "000000029": {
+        "station_name": "Хүнс трейд",
+        "longitude": 106.76296,
+        "latitude": 47.90747
+    },
+    "000000892": {
+        "station_name": "Зоорь",
+        "longitude": 106.76908,
+        "latitude": 47.90799
+    },
+    "000000027": {
+        "station_name": "Цэргийн хотхон",
+        "longitude": 106.77972,
+        "latitude": 47.91038
+    },
+    "000000021": {
+        "station_name": "5 Шар",
+        "longitude": 106.81352,
+        "latitude": 47.90991
+    },
+    "000000023": {
+        "station_name": "10 буудал",
+        "longitude": 106.79825,
+        "latitude": 47.9097
+    },
+    "000000025": {
+        "station_name": "Нефть хотхон",
+        "longitude": 106.7865,
+        "latitude": 47.91062
+    },
+    "000000026": {
+        "station_name": "Цэргийн хотхон",
+        "longitude": 106.77902,
+        "latitude": 47.91043
+    },
+    "000000893": {
+        "station_name": "Зоорь",
+        "longitude": 106.76932,
+        "latitude": 47.9082
+    },
+    "000000028": {
+        "station_name": "Хүнс трейд",
+        "longitude": 106.76269,
+        "latitude": 47.90798
+    },
+    "000000030": {
+        "station_name": "Орбит хуучин эцэс",
+        "longitude": 106.75511,
+        "latitude": 47.91182
+    },
+    "000000842": {
+        "station_name": "Тойрог",
+        "longitude": 106.74979,
+        "latitude": 47.91473
+    },
+    "000000844": {
+        "station_name": "Номгон",
+        "longitude": 106.74437,
+        "latitude": 47.91274
+    },
+    "000000840": {
+        "station_name": "СХД 22-р хороо",
+        "longitude": 106.73872,
+        "latitude": 47.91172
+    },
+    "000000839": {
+        "station_name": "Тахилт жаргалант",
+        "longitude": 106.73475,
+        "latitude": 47.90999
+    },
+    "000000837": {
+        "station_name": "Тахилт худаг",
+        "longitude": 106.73099,
+        "latitude": 47.90709
+    },
+    "000000835": {
+        "station_name": "Ногоон хашаа",
+        "longitude": 106.7241,
+        "latitude": 47.90608
+    },
+    "000000833": {
+        "station_name": "Тахилт задгай",
+        "longitude": 106.7187,
+        "latitude": 47.9071
+    },
+    "000000831": {
+        "station_name": "Тахилт зам анги",
+        "longitude": 106.71284,
+        "latitude": 47.90927
+    },
+    "000000829": {
+        "station_name": "Тахилт давхар",
+        "longitude": 106.70929,
+        "latitude": 47.91207
+    },
+    "000000827": {
+        "station_name": "Тахилт 1",
+        "longitude": 106.70537,
+        "latitude": 47.91496
+    },
+    "000000825": {
+        "station_name": "Тахилт 2",
+        "longitude": 106.69965,
+        "latitude": 47.91881
+    },
+    "000000823": {
+        "station_name": "Тахилт 3",
+        "longitude": 106.69531,
+        "latitude": 47.92174
+    },
+    "000000821": {
+        "station_name": "Тахилт 4",
+        "longitude": 106.69118,
+        "latitude": 47.92576
+    },
+    "000001564": {
+        "station_name": "Тахилт март",
+        "longitude": 106.68828,
+        "latitude": 47.92918
+    },
+    "000000819": {
+        "station_name": "Тахилт 5",
+        "longitude": 106.68658,
+        "latitude": 47.9312
+    },
+    "000001237": {
+        "station_name": "Тахилтын эцэс",
+        "longitude": 106.68274,
+        "latitude": 47.93593
+    },
+    "000000090": {
+        "station_name": "НАРАНГИЙН ГОЛ",
+        "longitude": 106.76573,
+        "latitude": 47.93446
+    },
+    "000000089": {
+        "station_name": "Нарангийн гол Дунд буудал",
+        "longitude": 106.76512,
+        "latitude": 47.93055
+    },
+    "000000087": {
+        "station_name": "Нарангийн гол хуучин эцэс",
+        "longitude": 106.76513,
+        "latitude": 47.92807
+    },
+    "000000085": {
+        "station_name": "Гараашийн буудал",
+        "longitude": 106.76532,
+        "latitude": 47.92398
+    },
+    "000000083": {
+        "station_name": "Цэнхэр дэлгүүр",
+        "longitude": 106.765,
+        "latitude": 47.92283
+    },
+    "000000081": {
+        "station_name": "СХД 1-р хороо",
+        "longitude": 106.76613,
+        "latitude": 47.92015
+    },
+    "000000079": {
+        "station_name": "Гүүрний буудал",
+        "longitude": 106.77057,
+        "latitude": 47.91754
+    },
+    "000000077": {
+        "station_name": "Өрхийн эмнэлэг",
+        "longitude": 106.77343,
+        "latitude": 47.91571
+    },
+    "000000075": {
+        "station_name": "42-р сургууль",
+        "longitude": 106.7764,
+        "latitude": 47.91371
+    },
+    "000000074": {
+        "station_name": "42-р сургууль",
+        "longitude": 106.7755,
+        "latitude": 47.91403
+    },
+    "000000076": {
+        "station_name": "Өрхийн эмнэлэг",
+        "longitude": 106.77306,
+        "latitude": 47.91619
+    },
+    "000000078": {
+        "station_name": "Гүүрний буудал",
+        "longitude": 106.7676,
+        "latitude": 47.9186
+    },
+    "000000080": {
+        "station_name": "СХД 1-р хороо",
+        "longitude": 106.76591,
+        "latitude": 47.92089
+    },
+    "000000082": {
+        "station_name": "Цэнхэр дэлгүүр",
+        "longitude": 106.76554,
+        "latitude": 47.92272
+    },
+    "000000084": {
+        "station_name": "Гараашийн буудал",
+        "longitude": 106.7656,
+        "latitude": 47.92464
+    },
+    "000000086": {
+        "station_name": "Нарангийн гол хуучин эцэс",
+        "longitude": 106.76549,
+        "latitude": 47.9287
+    },
+    "000000088": {
+        "station_name": "Нарангийн гол Дунд буудал",
+        "longitude": 106.7654,
+        "latitude": 47.93132
+    },
+    "000001338": {
+        "station_name": "НАРАНГИЙН ГОЛ",
+        "longitude": 106.76592,
+        "latitude": 47.93435
+    },
+    "000001285": {
+        "station_name": "Яармагийн дэнж-1",
+        "longitude": 106.78815,
+        "latitude": 47.86223
+    },
+    "000000514": {
+        "station_name": "Яармагийн дэнж",
+        "longitude": 106.78665,
+        "latitude": 47.86684
+    },
+    "000001287": {
+        "station_name": "Элиганс хороолол",
+        "longitude": 106.78446,
+        "latitude": 47.87232
+    },
+    "000001289": {
+        "station_name": "Сонсголон завсар",
+        "longitude": 106.78464,
+        "latitude": 47.88014
+    },
+    "000001291": {
+        "station_name": "Бетон зуурмаг",
+        "longitude": 106.78512,
+        "latitude": 47.88411
+    },
+    "000000046": {
+        "station_name": "Карьер",
+        "longitude": 106.78533,
+        "latitude": 47.88821
+    },
+    "000001293": {
+        "station_name": "Сонсголон ШТС",
+        "longitude": 106.7855,
+        "latitude": 47.89273
+    },
+    "000000044": {
+        "station_name": "Дэвшил компани",
+        "longitude": 106.7857,
+        "latitude": 47.8986
+    },
+    "000000042": {
+        "station_name": "Мах маркет",
+        "longitude": 106.78585,
+        "latitude": 47.90198
+    },
+    "000000040": {
+        "station_name": "Монос эмийн үйлдвэр",
+        "longitude": 106.78602,
+        "latitude": 47.90607
+    },
+    "000000038": {
+        "station_name": "19-р сургууль",
+        "longitude": 106.79295,
+        "latitude": 47.90797
+    },
+    "000000037": {
+        "station_name": "Энхжин худалдааны төв",
+        "longitude": 106.79536,
+        "latitude": 47.90829
+    },
+    "000000039": {
+        "station_name": "Монос эмийн үйлдвэр",
+        "longitude": 106.78571,
+        "latitude": 47.90534
+    },
+    "000000041": {
+        "station_name": "Автобус 2",
+        "longitude": 106.7855,
+        "latitude": 47.90045
+    },
+    "000000043": {
+        "station_name": "Дэвшил компани",
+        "longitude": 106.78536,
+        "latitude": 47.89663
+    },
+    "000001292": {
+        "station_name": "Сонсголон ШТС",
+        "longitude": 106.78518,
+        "latitude": 47.89216
+    },
+    "000000045": {
+        "station_name": "Монгол цах/утас компани",
+        "longitude": 106.78497,
+        "latitude": 47.88685
+    },
+    "000001290": {
+        "station_name": "Бетон зуурмаг",
+        "longitude": 106.78487,
+        "latitude": 47.88347
+    },
+    "000001288": {
+        "station_name": "Сонсголон завсар",
+        "longitude": 106.7843,
+        "latitude": 47.87944
+    },
+    "000001286": {
+        "station_name": "Элиганс хороолол",
+        "longitude": 106.78452,
+        "latitude": 47.87051
+    },
+    "000000515": {
+        "station_name": "Яармагийн дэнж",
+        "longitude": 106.78721,
+        "latitude": 47.86553
+    },
+    "000001284": {
+        "station_name": "Яармагийн дэнж",
+        "longitude": 106.78772,
+        "latitude": 47.86137
+    },
+    "000000130": {
+        "station_name": "БАРУУН САЛААНЫ ЭЦЭС",
+        "longitude": 106.80177,
+        "latitude": 47.98751
+    },
+    "000001280": {
+        "station_name": "Баруун салааны 6-р буудал",
+        "longitude": 106.80332,
+        "latitude": 47.9806
+    },
+    "000000132": {
+        "station_name": "Баруун салааны 5-р буудал",
+        "longitude": 106.80406,
+        "latitude": 47.97658
+    },
+    "000001610": {
+        "station_name": "Баруун салааны завсар",
+        "longitude": 106.80488,
+        "latitude": 47.9743
+    },
+    "000000128": {
+        "station_name": "Баруун салааны 4-р буудал",
+        "longitude": 106.80734,
+        "latitude": 47.97022
+    },
+    "000001278": {
+        "station_name": "Баруун салааны 3-р буудал",
+        "longitude": 106.81171,
+        "latitude": 47.96741
+    },
+    "000000654": {
+        "station_name": "Баруун салааны 2-р буудал",
+        "longitude": 106.81687,
+        "latitude": 47.96276
+    },
+    "000000126": {
+        "station_name": "Баруун салааны 1-р буудал",
+        "longitude": 106.8206,
+        "latitude": 47.95971
+    },
+    "000000749": {
+        "station_name": "Шар тал дэлгүүр",
+        "longitude": 106.81131,
+        "latitude": 47.93484
+    },
+    "000000751": {
+        "station_name": "Хуруувчхан дэлгүүр",
+        "longitude": 106.81133,
+        "latitude": 47.93159
+    },
+    "000000753": {
+        "station_name": "Өнхрүүш компани",
+        "longitude": 106.80987,
+        "latitude": 47.92799
+    },
+    "000000062": {
+        "station_name": "Авто сургууль",
+        "longitude": 106.81447,
+        "latitude": 47.9214
+    },
+    "000000125": {
+        "station_name": "Баруун салааны 1-р буудал",
+        "longitude": 106.8219,
+        "latitude": 47.9592
+    },
+    "000000655": {
+        "station_name": "Баруун салааны 2-р буудал",
+        "longitude": 106.8166,
+        "latitude": 47.96349
+    },
+    "000001279": {
+        "station_name": "Баруун салааны 3-р буудал",
+        "longitude": 106.81101,
+        "latitude": 47.96797
+    },
+    "000000127": {
+        "station_name": "Баруун салааны 4-р буудал",
+        "longitude": 106.80675,
+        "latitude": 47.97083
+    },
+    "000001609": {
+        "station_name": "Баруун салааны завсар",
+        "longitude": 106.80496,
+        "latitude": 47.97479
+    },
+    "000000131": {
+        "station_name": "Баруун салааны 5-р буудал",
+        "longitude": 106.80349,
+        "latitude": 47.97799
+    },
+    "000001281": {
+        "station_name": "Баруун салааны 6-р буудал",
+        "longitude": 106.80347,
+        "latitude": 47.98167
+    },
+    "000001239": {
+        "station_name": "БАРУУН САЛААНЫ ЭЦЭС",
+        "longitude": 106.8021,
+        "latitude": 47.98776
+    },
+    "000000252": {
+        "station_name": "Баянбогд төв",
+        "longitude": 106.90193,
+        "latitude": 47.92514
+    },
+    "000000254": {
+        "station_name": "6-р Хороолол",
+        "longitude": 106.90413,
+        "latitude": 47.92724
+    },
+    "000000606": {
+        "station_name": "Сансар ШТС",
+        "longitude": 106.93889,
+        "latitude": 47.92787
+    },
+    "000000255": {
+        "station_name": "6-р Хороолол",
+        "longitude": 106.90336,
+        "latitude": 47.92698
+    },
+    "000000253": {
+        "station_name": "Нарны титэм",
+        "longitude": 106.90109,
+        "latitude": 47.92344
+    },
+    "000000605": {
+        "station_name": "Сансар ШТС",
+        "longitude": 106.93781,
+        "latitude": 47.92852
+    },
+    "000000636": {
+        "station_name": "Дулааны цахилгаан станц 3",
+        "longitude": 106.86723,
+        "latitude": 47.89963
+    },
+    "000000724": {
+        "station_name": "Олимп хотхон",
+        "longitude": 106.86052,
+        "latitude": 47.89865
+    },
+    "000000560": {
+        "station_name": "Мотобуудлага спорт төв",
+        "longitude": 106.85715,
+        "latitude": 47.9017
+    },
+    "000000635": {
+        "station_name": "ТЭХ барилгын зах",
+        "longitude": 106.85564,
+        "latitude": 47.90468
+    },
+    "000000187": {
+        "station_name": "13-р сургууль",
+        "longitude": 106.87325,
+        "latitude": 47.92479
+    },
+    "000000755": {
+        "station_name": "Бичлийн аркны буудал",
+        "longitude": 106.87982,
+        "latitude": 47.92499
+    },
+    "000000708": {
+        "station_name": "28-р Сургууль",
+        "longitude": 106.88442,
+        "latitude": 47.9258
+    },
+    "000000533": {
+        "station_name": "Дулааны цахилгаан станц 3",
+        "longitude": 106.8677,
+        "latitude": 47.89923
+    },
+    "000000169": {
+        "station_name": "Ахуй Үйлчилгээний ордон",
+        "longitude": 106.889,
+        "latitude": 47.9242
+    },
+    "000000170": {
+        "station_name": "28-р сургууль",
+        "longitude": 106.88388,
+        "latitude": 47.92584
+    },
+    "000000171": {
+        "station_name": "Бичлийн аркны буудал",
+        "longitude": 106.87889,
+        "latitude": 47.92511
+    },
+    "000000188": {
+        "station_name": "13-р сургууль",
+        "longitude": 106.87275,
+        "latitude": 47.92495
+    },
+    "000000634": {
+        "station_name": "ТЭХ барилгын зах",
+        "longitude": 106.85542,
+        "latitude": 47.90452
+    },
+    "000000561": {
+        "station_name": "Мотобуудлага спорт төв",
+        "longitude": 106.8574,
+        "latitude": 47.90069
+    },
+    "000000725": {
+        "station_name": "Олимп хотхон",
+        "longitude": 106.86149,
+        "latitude": 47.89885
+    },
+    "000000202": {
+        "station_name": "Цэцэг төв",
+        "longitude": 106.91187,
+        "latitude": 47.91838
+    },
+    "000000607": {
+        "station_name": "МҮИС",
+        "longitude": 106.89422,
+        "latitude": 47.92498
+    },
+    "000000770": {
+        "station_name": "Цагаан давааны задгай",
+        "longitude": 106.97531,
+        "latitude": 47.94663
+    },
+    "000001544": {
+        "station_name": "Монелийн 43",
+        "longitude": 106.97064,
+        "latitude": 47.94697
+    },
+    "000000441": {
+        "station_name": "Монелийн 38",
+        "longitude": 106.96946,
+        "latitude": 47.94298
+    },
+    "000000762": {
+        "station_name": "430-р худаг",
+        "longitude": 106.96883,
+        "latitude": 47.94043
+    },
+    "000000764": {
+        "station_name": "Цэлмэг хүнс дэлгүүр",
+        "longitude": 106.96724,
+        "latitude": 47.93749
+    },
+    "000000766": {
+        "station_name": "Фунтик",
+        "longitude": 106.9652,
+        "latitude": 47.93303
+    },
+    "000000768": {
+        "station_name": "Капитрон банк",
+        "longitude": 106.9658,
+        "latitude": 47.92883
+    },
+    "000000304": {
+        "station_name": "ИБ Мэдээллийн төв",
+        "longitude": 106.92757,
+        "latitude": 47.93295
+    },
+    "000000301": {
+        "station_name": "9-р дэлгүүр",
+        "longitude": 106.92122,
+        "latitude": 47.93774
+    },
+    "000001556": {
+        "station_name": "Рашааны гудамж 2",
+        "longitude": 106.92198,
+        "latitude": 47.94968
+    },
+    "000001554": {
+        "station_name": "Рашааны гудамж 1",
+        "longitude": 106.93107,
+        "latitude": 47.94955
+    },
+    "000001561": {
+        "station_name": "Гадна тойруу 4",
+        "longitude": 106.94356,
+        "latitude": 47.95123
+    },
+    "000001550": {
+        "station_name": "Гадна тойруу 3",
+        "longitude": 106.95052,
+        "latitude": 47.95393
+    },
+    "000001548": {
+        "station_name": "Гадна тойруу 2",
+        "longitude": 106.96221,
+        "latitude": 47.95452
+    },
+    "000001546": {
+        "station_name": "Гадна тойруу 1",
+        "longitude": 106.9683,
+        "latitude": 47.94983
+    },
+    "000001545": {
+        "station_name": "Монелийн 43",
+        "longitude": 106.97081,
+        "latitude": 47.94691
+    },
+    "000001213": {
+        "station_name": "Цагаан давааны задгай",
+        "longitude": 106.97501,
+        "latitude": 47.94666
+    },
+    "000001547": {
+        "station_name": "Гадна тойруу 1",
+        "longitude": 106.96836,
+        "latitude": 47.94984
+    },
+    "000001549": {
+        "station_name": "Гадна тойруу 2",
+        "longitude": 106.96271,
+        "latitude": 47.95406
+    },
+    "000001551": {
+        "station_name": "Гадна тойруу 3",
+        "longitude": 106.95046,
+        "latitude": 47.95398
+    },
+    "000001560": {
+        "station_name": "Гадна тойруу 4",
+        "longitude": 106.94283,
+        "latitude": 47.95111
+    },
+    "000001555": {
+        "station_name": "Рашааны гудамж 1",
+        "longitude": 106.93107,
+        "latitude": 47.94965
+    },
+    "000001557": {
+        "station_name": "Рашааны гудамж 2",
+        "longitude": 106.92196,
+        "latitude": 47.94979
+    },
+    "000001559": {
+        "station_name": "Рашааны гудамж 3",
+        "longitude": 106.91508,
+        "latitude": 47.9491
+    },
+    "000000769": {
+        "station_name": "Капитрон банк",
+        "longitude": 106.96598,
+        "latitude": 47.9278
+    },
+    "000000767": {
+        "station_name": "Фунтик",
+        "longitude": 106.96549,
+        "latitude": 47.93328
+    },
+    "000000765": {
+        "station_name": "Цэлмэг хүнс дэлгүүр",
+        "longitude": 106.96801,
+        "latitude": 47.93841
+    },
+    "000000763": {
+        "station_name": "430-р худаг",
+        "longitude": 106.96905,
+        "latitude": 47.94056
+    },
+    "000001244": {
+        "station_name": "Монелийн 38",
+        "longitude": 106.96977,
+        "latitude": 47.94347
+    },
+    "000001363": {
+        "station_name": "Монелийн 43",
+        "longitude": 106.96993,
+        "latitude": 47.94685
+    },
+    "000000117": {
+        "station_name": "БАЯНХОШУУ",
+        "longitude": 106.83829,
+        "latitude": 47.96
+    },
+    "000000114": {
+        "station_name": "Жанцан дэлгүүр",
+        "longitude": 106.84197,
+        "latitude": 47.9554
+    },
+    "000000641": {
+        "station_name": "112-ын Буудал",
+        "longitude": 106.85314,
+        "latitude": 47.9533
+    },
+    "000000643": {
+        "station_name": "Хөтөл",
+        "longitude": 106.85972,
+        "latitude": 47.95068
+    },
+    "000001295": {
+        "station_name": "Цэгээн нуур",
+        "longitude": 106.86531,
+        "latitude": 47.9478
+    },
+    "000000140": {
+        "station_name": "Колонкийн буудал",
+        "longitude": 106.86969,
+        "latitude": 47.9456
+    },
+    "000000142": {
+        "station_name": "Шинэ буудал",
+        "longitude": 106.87533,
+        "latitude": 47.94344
+    },
+    "000001436": {
+        "station_name": "626-р худаг",
+        "longitude": 106.88114,
+        "latitude": 47.94117
+    },
+    "000000195": {
+        "station_name": "Зурагт шинэ эцэс",
+        "longitude": 106.88335,
+        "latitude": 47.938
+    },
+    "000000197": {
+        "station_name": "Зурагт хуучин эцэс",
+        "longitude": 106.88798,
+        "latitude": 47.93102
+    },
+    "000000199": {
+        "station_name": "МҮИС",
+        "longitude": 106.89373,
+        "latitude": 47.92661
+    },
+    "000000745": {
+        "station_name": "1-р Байр",
+        "longitude": 106.85184,
+        "latitude": 47.91699
+    },
+    "000000746": {
+        "station_name": "11-р Байр",
+        "longitude": 106.8465,
+        "latitude": 47.91692
+    },
+    "000000017": {
+        "station_name": "23-р байр",
+        "longitude": 106.8386,
+        "latitude": 47.9169
+    },
+    "000000013": {
+        "station_name": "34-р байр",
+        "longitude": 106.83227,
+        "latitude": 47.91552
+    },
+    "000000112": {
+        "station_name": "Баян хошуу тойрог",
+        "longitude": 106.82885,
+        "latitude": 47.95596
+    },
+    "000000624": {
+        "station_name": "Баянхошуу завсар",
+        "longitude": 106.83502,
+        "latitude": 47.95522
+    },
+    "000000115": {
+        "station_name": "Жанцан дэлгүүр",
+        "longitude": 106.84028,
+        "latitude": 47.95699
+    },
+    "000001245": {
+        "station_name": "БАЯНХОШУУ",
+        "longitude": 106.83886,
+        "latitude": 47.96008
+    },
+    "000000116": {
+        "station_name": "Жанцан дэлгүүр",
+        "longitude": 106.83897,
+        "latitude": 47.95524
+    },
+    "000000625": {
+        "station_name": "Баянхошуу завсар",
+        "longitude": 106.8339,
+        "latitude": 47.95553
+    },
+    "000000113": {
+        "station_name": "Баян хошуу тойрог",
+        "longitude": 106.8275,
+        "latitude": 47.95628
+    },
+    "000000198": {
+        "station_name": "МҮИС",
+        "longitude": 106.89326,
+        "latitude": 47.92714
+    },
+    "000000196": {
+        "station_name": "Зурагт хуучин эцэс",
+        "longitude": 106.8868,
+        "latitude": 47.93351
+    },
+    "000000194": {
+        "station_name": "Зурагт шинэ эцэс",
+        "longitude": 106.88355,
+        "latitude": 47.93803
+    },
+    "000000141": {
+        "station_name": "Шинэ буудал",
+        "longitude": 106.87446,
+        "latitude": 47.94387
+    },
+    "000000139": {
+        "station_name": "Колонкийн буудал",
+        "longitude": 106.86894,
+        "latitude": 47.94611
+    },
+    "000001294": {
+        "station_name": "Мөнгөн болор угаалга",
+        "longitude": 106.86313,
+        "latitude": 47.9491
+    },
+    "000000642": {
+        "station_name": "Хөтөл",
+        "longitude": 106.85895,
+        "latitude": 47.95124
+    },
+    "000000640": {
+        "station_name": "112-н Буудал",
+        "longitude": 106.85131,
+        "latitude": 47.95419
+    },
+    "000000186": {
+        "station_name": "Эрдмийн ундраа цогцолбор",
+        "longitude": 106.86892,
+        "latitude": 47.91838
+    },
+    "000000184": {
+        "station_name": "Гэмтлийн эмнэлэг",
+        "longitude": 106.85848,
+        "latitude": 47.91884
+    },
+    "000000260": {
+        "station_name": "Цагаан байр",
+        "longitude": 106.90635,
+        "latitude": 47.93339
+    },
+    "000000215": {
+        "station_name": "Чиглэл ХХК",
+        "longitude": 106.90557,
+        "latitude": 47.93986
+    },
+    "000000214": {
+        "station_name": "Хүчит шонхор зах",
+        "longitude": 106.90303,
+        "latitude": 47.94398
+    },
+    "000000212": {
+        "station_name": "Дэнжийн 1000-ын зах",
+        "longitude": 106.90027,
+        "latitude": 47.94623
+    },
+    "000000210": {
+        "station_name": "Зам Гүүрийн Авто Бааз",
+        "longitude": 106.89761,
+        "latitude": 47.9483
+    },
+    "000000208": {
+        "station_name": "Булгын 6-р гудамж",
+        "longitude": 106.89238,
+        "latitude": 47.95108
+    },
+    "000000205": {
+        "station_name": "Тоглоомтой дэлгүүр",
+        "longitude": 106.88864,
+        "latitude": 47.95243
+    },
+    "000001439": {
+        "station_name": "Гахайн байр",
+        "longitude": 106.88426,
+        "latitude": 47.95575
+    },
+    "000000204": {
+        "station_name": "Автобус бааз",
+        "longitude": 106.8814,
+        "latitude": 47.95871
+    },
+    "000001438": {
+        "station_name": "Гахайн байр",
+        "longitude": 106.88438,
+        "latitude": 47.95526
+    },
+    "000000206": {
+        "station_name": "Тоглоомтой дэлгүүр",
+        "longitude": 106.88896,
+        "latitude": 47.95185
+    },
+    "000000209": {
+        "station_name": "Зам Гүүрийн Авто Бааз",
+        "longitude": 106.89734,
+        "latitude": 47.94822
+    },
+    "000000211": {
+        "station_name": "Дэнжийн 1000-ын зах",
+        "longitude": 106.90148,
+        "latitude": 47.94555
+    },
+    "000000213": {
+        "station_name": "Хүчит шонхор зах",
+        "longitude": 106.90325,
+        "latitude": 47.94297
+    },
+    "000000216": {
+        "station_name": "Чингэлтэй 7-р гудамж",
+        "longitude": 106.90647,
+        "latitude": 47.9387
+    },
+    "000000263": {
+        "station_name": "39-р сургууль",
+        "longitude": 106.90799,
+        "latitude": 47.93588
+    },
+    "000000261": {
+        "station_name": "Цагаан байр",
+        "longitude": 106.90564,
+        "latitude": 47.93281
+    },
+    "000000189": {
+        "station_name": "Барс худалдааны төв",
+        "longitude": 106.89276,
+        "latitude": 47.90951
+    },
+    "000001240": {
+        "station_name": "Вокзал",
+        "longitude": 106.88474,
+        "latitude": 47.90954
+    },
+    "000000678": {
+        "station_name": "Автобус бааз",
+        "longitude": 106.88172,
+        "latitude": 47.9588
+    },
+    "000000183": {
+        "station_name": "М-ойл ШТС",
+        "longitude": 106.85714,
+        "latitude": 47.91864
+    },
+    "000000185": {
+        "station_name": "Эрдмийн ундраа цогцолбор",
+        "longitude": 106.86933,
+        "latitude": 47.91825
+    },
+    "000000703": {
+        "station_name": "Кюкүшю Цамхаг",
+        "longitude": 106.87624,
+        "latitude": 47.91654
+    },
+    "000001241": {
+        "station_name": "Вокзал",
+        "longitude": 106.88502,
+        "latitude": 47.90922
+    },
+    "000000335": {
+        "station_name": "Шадивлан",
+        "longitude": 106.9177,
+        "latitude": 48.01522
+    },
+    "000001296": {
+        "station_name": "Шадивлан-1",
+        "longitude": 106.92089,
+        "latitude": 48.01132
+    },
+    "000000333": {
+        "station_name": "Ар согоот",
+        "longitude": 106.92437,
+        "latitude": 47.99991
+    },
+    "000000331": {
+        "station_name": "Салхит",
+        "longitude": 106.92567,
+        "latitude": 47.99331
+    },
+    "000001258": {
+        "station_name": "Салхит завсар-3",
+        "longitude": 106.92511,
+        "latitude": 47.98865
+    },
+    "000001256": {
+        "station_name": "Салхит завсар-2",
+        "longitude": 106.92361,
+        "latitude": 47.98344
+    },
+    "000001254": {
+        "station_name": "Салхит завсар-1",
+        "longitude": 106.92049,
+        "latitude": 47.98006
+    },
+    "000000314": {
+        "station_name": "Замын цагдаагийн пост",
+        "longitude": 106.91797,
+        "latitude": 47.97417
+    },
+    "000000241": {
+        "station_name": "7 БУУДАЛ",
+        "longitude": 106.91723,
+        "latitude": 47.96827
+    },
+    "000000243": {
+        "station_name": "6 буудал",
+        "longitude": 106.91725,
+        "latitude": 47.96502
+    },
+    "000001444": {
+        "station_name": "Нэгдсэн үйлчилгээний төв",
+        "longitude": 106.91672,
+        "latitude": 47.96128
+    },
+    "000000245": {
+        "station_name": "7 Завсар",
+        "longitude": 106.91593,
+        "latitude": 47.95819
+    },
+    "000000247": {
+        "station_name": "5 буудал",
+        "longitude": 106.915,
+        "latitude": 47.95455
+    },
+    "000000265": {
+        "station_name": "57-р сургууль",
+        "longitude": 106.91184,
+        "latitude": 47.93957
+    },
+    "000000754": {
+        "station_name": "Өнхрүүш компани",
+        "longitude": 106.81057,
+        "latitude": 47.92849
+    },
+    "000000752": {
+        "station_name": "Хуруувчхан дэлгүүр",
+        "longitude": 106.8115,
+        "latitude": 47.93242
+    },
+    "000000750": {
+        "station_name": "Шар тал дэлгүүр",
+        "longitude": 106.81148,
+        "latitude": 47.93573
+    },
+    "000000262": {
+        "station_name": "39-р сургууль",
+        "longitude": 106.90946,
+        "latitude": 47.93753
+    },
+    "000000264": {
+        "station_name": "57-р сургууль",
+        "longitude": 106.91273,
+        "latitude": 47.93951
+    },
+    "000000268": {
+        "station_name": "17-р сургууль",
+        "longitude": 106.91423,
+        "latitude": 47.95046
+    },
+    "000000246": {
+        "station_name": "5 буудал",
+        "longitude": 106.91539,
+        "latitude": 47.95517
+    },
+    "000000244": {
+        "station_name": "7 Завсар",
+        "longitude": 106.91631,
+        "latitude": 47.95874
+    },
+    "000001443": {
+        "station_name": "Нэгдсэн үйлчилгээний төв",
+        "longitude": 106.91709,
+        "latitude": 47.96166
+    },
+    "000000242": {
+        "station_name": "6 буудал",
+        "longitude": 106.91752,
+        "latitude": 47.96576
+    },
+    "000000240": {
+        "station_name": "7 буудал",
+        "longitude": 106.91751,
+        "latitude": 47.96906
+    },
+    "000000313": {
+        "station_name": "Замын цагдаагийн пост",
+        "longitude": 106.91829,
+        "latitude": 47.97472
+    },
+    "000001255": {
+        "station_name": "Салхит завсар-1",
+        "longitude": 106.92126,
+        "latitude": 47.98055
+    },
+    "000001257": {
+        "station_name": "Салхит завсар-2",
+        "longitude": 106.92415,
+        "latitude": 47.98395
+    },
+    "000001342": {
+        "station_name": "Салхит завсар-3",
+        "longitude": 106.92537,
+        "latitude": 47.98939
+    },
+    "000000330": {
+        "station_name": "Салхит",
+        "longitude": 106.92587,
+        "latitude": 47.99407
+    },
+    "000000332": {
+        "station_name": "Ар согоот",
+        "longitude": 106.92448,
+        "latitude": 48.00101
+    },
+    "000000900": {
+        "station_name": "Зунжин худалдааны төв",
+        "longitude": 106.92339,
+        "latitude": 48.00525
+    },
+    "000001297": {
+        "station_name": "Шадивлан-1",
+        "longitude": 106.92067,
+        "latitude": 48.01201
+    },
+    "000001449": {
+        "station_name": "Шадивлан",
+        "longitude": 106.9176,
+        "latitude": 48.01528
+    },
+    "000000230": {
+        "station_name": "ЗҮРХ УУЛ /Чингэлтэйн эцэс/",
+        "longitude": 106.87386,
+        "latitude": 48.00035
+    },
+    "000000229": {
+        "station_name": "Зүрх уулын 2-р зогсоол",
+        "longitude": 106.87724,
+        "latitude": 47.99476
+    },
+    "000000227": {
+        "station_name": "Зүрх уулын 1-р зогсоол",
+        "longitude": 106.88147,
+        "latitude": 47.98982
+    },
+    "000000232": {
+        "station_name": "Чингэлтэйн хуучин эцэс",
+        "longitude": 106.88299,
+        "latitude": 47.98506
+    },
+    "000000225": {
+        "station_name": "Уран мандал ХД",
+        "longitude": 106.88808,
+        "latitude": 47.9812
+    },
+    "000000235": {
+        "station_name": "Хорооны буудал",
+        "longitude": 106.8929,
+        "latitude": 47.97776
+    },
+    "000000234": {
+        "station_name": "Камель дэлгүүр",
+        "longitude": 106.90091,
+        "latitude": 47.97442
+    },
+    "000000238": {
+        "station_name": "Сургуулийн буудал",
+        "longitude": 106.90528,
+        "latitude": 47.97142
+    },
+    "000000665": {
+        "station_name": "Ногоон булаг",
+        "longitude": 106.91168,
+        "latitude": 47.96955
+    },
+    "000000300": {
+        "station_name": "Ногоон нуур буудал",
+        "longitude": 106.91599,
+        "latitude": 47.93502
+    },
+    "000000239": {
+        "station_name": "Чингэлтэйн 1-р буудал",
+        "longitude": 106.91556,
+        "latitude": 47.96913
+    },
+    "000000664": {
+        "station_name": "Ногоон булаг",
+        "longitude": 106.91064,
+        "latitude": 47.96999
+    },
+    "000000237": {
+        "station_name": "Сургуулийн буудал",
+        "longitude": 106.90359,
+        "latitude": 47.97261
+    },
+    "000000233": {
+        "station_name": "Камель дэлгүүр",
+        "longitude": 106.89985,
+        "latitude": 47.97497
+    },
+    "000000236": {
+        "station_name": "Хорооны буудал",
+        "longitude": 106.89253,
+        "latitude": 47.97821
+    },
+    "000000226": {
+        "station_name": "Уран мандал ХД",
+        "longitude": 106.88667,
+        "latitude": 47.98238
+    },
+    "000000231": {
+        "station_name": "Чингэлтэйн хуучин эцэс",
+        "longitude": 106.88303,
+        "latitude": 47.98556
+    },
+    "000000228": {
+        "station_name": "Зүрх уулын 2-р зогсоол",
+        "longitude": 106.87677,
+        "latitude": 47.99579
+    },
+    "000001248": {
+        "station_name": "ЗҮРХ УУЛ /Чингэлтэйн эцэс/",
+        "longitude": 106.87399,
+        "latitude": 48.00048
+    },
+    "000000756": {
+        "station_name": "ТЭЦ4",
+        "longitude": 106.7976,
+        "latitude": 47.89065
+    },
+    "000001303": {
+        "station_name": "Зогсоол-5",
+        "longitude": 106.80023,
+        "latitude": 47.89082
+    },
+    "000001301": {
+        "station_name": "Зогсоол-4",
+        "longitude": 106.81081,
+        "latitude": 47.89122
+    },
+    "000001191": {
+        "station_name": "Зогсоол-3",
+        "longitude": 106.81735,
+        "latitude": 47.89365
+    },
+    "000001189": {
+        "station_name": "Зогсоол-2",
+        "longitude": 106.82519,
+        "latitude": 47.89745
+    },
+    "000001187": {
+        "station_name": "Зогсоол-1",
+        "longitude": 106.83877,
+        "latitude": 47.89838
+    },
+    "000001470": {
+        "station_name": "Говь 2",
+        "longitude": 106.84628,
+        "latitude": 47.89883
+    },
+    "000001186": {
+        "station_name": "ОУБДС",
+        "longitude": 106.85099,
+        "latitude": 47.90065
+    },
+    "000000681": {
+        "station_name": "ОУБДС",
+        "longitude": 106.85052,
+        "latitude": 47.90029
+    },
+    "000001469": {
+        "station_name": "Говь 2",
+        "longitude": 106.84396,
+        "latitude": 47.89882
+    },
+    "000001188": {
+        "station_name": "Зогсоол-1",
+        "longitude": 106.83757,
+        "latitude": 47.89838
+    },
+    "000001190": {
+        "station_name": "Зогсоол-2",
+        "longitude": 106.824,
+        "latitude": 47.89748
+    },
+    "000001192": {
+        "station_name": "Зогсоол-3",
+        "longitude": 106.81653,
+        "latitude": 47.89284
+    },
+    "000001300": {
+        "station_name": "Зогсоол-4",
+        "longitude": 106.80964,
+        "latitude": 47.89135
+    },
+    "000001302": {
+        "station_name": "Зогсоол-5",
+        "longitude": 106.79906,
+        "latitude": 47.891
+    },
+    "000001465": {
+        "station_name": "ТЭЦ4",
+        "longitude": 106.79763,
+        "latitude": 47.89053
+    },
+    "000001468": {
+        "station_name": "Зүрх уулын 1-р зогсоол",
+        "longitude": 106.88138,
+        "latitude": 47.99021
+    },
+    "000001535": {
+        "station_name": "Дүүхээ дэлгүүр",
+        "longitude": 106.86803,
+        "latitude": 47.92234
+    },
+    "000000706": {
+        "station_name": "Тоосгоны Үйлдвэр Эцэс",
+        "longitude": 106.95759,
+        "latitude": 47.98332
+    },
+    "000000704": {
+        "station_name": "Тоосгоны Үйлдвэр",
+        "longitude": 106.94996,
+        "latitude": 47.98106
+    },
+    "000000591": {
+        "station_name": "Дарь эх Завсар 2",
+        "longitude": 106.93792,
+        "latitude": 47.97763
+    },
+    "000000479": {
+        "station_name": "Дарь эх завсар 1",
+        "longitude": 106.93149,
+        "latitude": 47.9735
+    },
+    "000000488": {
+        "station_name": "33-ын буудал",
+        "longitude": 106.93043,
+        "latitude": 47.97118
+    },
+    "000001162": {
+        "station_name": "Станц",
+        "longitude": 106.93101,
+        "latitude": 47.96497
+    },
+    "000001164": {
+        "station_name": "Сод Монгол ШТС",
+        "longitude": 106.93353,
+        "latitude": 47.95962
+    },
+    "000000481": {
+        "station_name": "Ганц худаг",
+        "longitude": 106.93382,
+        "latitude": 47.95508
+    },
+    "000000485": {
+        "station_name": "Дарь эх Шинэ эцэс",
+        "longitude": 106.93288,
+        "latitude": 47.95078
+    },
+    "000000484": {
+        "station_name": "Дарь эх Шинэ эцэс",
+        "longitude": 106.93337,
+        "latitude": 47.95155
+    },
+    "000000603": {
+        "station_name": "Ганц худаг",
+        "longitude": 106.93381,
+        "latitude": 47.95653
+    },
+    "000001165": {
+        "station_name": "Сод Монгол ШТС",
+        "longitude": 106.9334,
+        "latitude": 47.9604
+    },
+    "000001163": {
+        "station_name": "Станц",
+        "longitude": 106.93085,
+        "latitude": 47.96544
+    },
+    "000000489": {
+        "station_name": "33-ын буудал",
+        "longitude": 106.93099,
+        "latitude": 47.97226
+    },
+    "000000478": {
+        "station_name": "Дарь эх завсар 1",
+        "longitude": 106.93251,
+        "latitude": 47.97442
+    },
+    "000000590": {
+        "station_name": "Дарь эх Завсар 2",
+        "longitude": 106.93789,
+        "latitude": 47.97748
+    },
+    "000000705": {
+        "station_name": "Тоосгоны Үйлдвэр",
+        "longitude": 106.95107,
+        "latitude": 47.98126
+    },
+    "000001249": {
+        "station_name": "Тоосгоны Үйлдвэр Эцэс",
+        "longitude": 106.95765,
+        "latitude": 47.98315
+    },
+    "000000709": {
+        "station_name": "Дүнжингарав дэлгүүр",
+        "longitude": 107.00376,
+        "latitude": 47.90694
+    },
+    "000000710": {
+        "station_name": "2-ын Буудал",
+        "longitude": 106.99549,
+        "latitude": 47.90522
+    },
+    "000000682": {
+        "station_name": "Жанжин Клуб",
+        "longitude": 106.99379,
+        "latitude": 47.90726
+    },
+    "000000683": {
+        "station_name": "2-ын Буудал",
+        "longitude": 106.99638,
+        "latitude": 47.90508
+    },
+    "000000684": {
+        "station_name": "Дүнжингарав дэлгүүр",
+        "longitude": 107.00387,
+        "latitude": 47.90687
+    },
+    "000001140": {
+        "station_name": "Өвөр согоот",
+        "longitude": 106.92511,
+        "latitude": 48.01703
+    },
+    "000000644": {
+        "station_name": "Өвөр-Согоот 1-р зогсоол",
+        "longitude": 106.93011,
+        "latitude": 48.01369
+    },
+    "000000794": {
+        "station_name": "Худгийн зогсоол",
+        "longitude": 106.93444,
+        "latitude": 48.01106
+    },
+    "000000803": {
+        "station_name": "Өвөр согоот Усан сан",
+        "longitude": 106.93788,
+        "latitude": 48.00213
+    },
+    "000000680": {
+        "station_name": "Япон цэргийн цогцолбор",
+        "longitude": 106.93925,
+        "latitude": 47.99771
+    },
+    "000000801": {
+        "station_name": "65-ын зогсоол",
+        "longitude": 106.93769,
+        "latitude": 47.99084
+    },
+    "000000321": {
+        "station_name": "Сургуулийн буудал",
+        "longitude": 106.93682,
+        "latitude": 47.98716
+    },
+    "000000799": {
+        "station_name": "Дамбадаржаа хийд",
+        "longitude": 106.93491,
+        "latitude": 47.98141
+    },
+    "000000316": {
+        "station_name": "Миний зах",
+        "longitude": 106.92752,
+        "latitude": 47.97747
+    },
+    "000000315": {
+        "station_name": "Миний зах",
+        "longitude": 106.92854,
+        "latitude": 47.97759
+    },
+    "000000798": {
+        "station_name": "Дамбадаржаа хийд",
+        "longitude": 106.93565,
+        "latitude": 47.98264
+    },
+    "000000320": {
+        "station_name": "Сургуулийн буудал",
+        "longitude": 106.93703,
+        "latitude": 47.98777
+    },
+    "000000800": {
+        "station_name": "65-ын зогсоол",
+        "longitude": 106.93829,
+        "latitude": 47.99178
+    },
+    "000000322": {
+        "station_name": "ЯПОН ЦЭРГИЙН ЦОГЦОЛБОР",
+        "longitude": 106.93965,
+        "latitude": 47.99619
+    },
+    "000000802": {
+        "station_name": "Өвөр согоот Усан сан",
+        "longitude": 106.93783,
+        "latitude": 48.00282
+    },
+    "000000795": {
+        "station_name": "Худгийн зогсоол",
+        "longitude": 106.9339,
+        "latitude": 48.01162
+    },
+    "000000793": {
+        "station_name": "Өвөр согоот",
+        "longitude": 106.925,
+        "latitude": 48.01727
+    },
+    "000001179": {
+        "station_name": "Сэлх ",
+        "longitude": 106.96591,
+        "latitude": 48.04162
+    },
+    "000001177": {
+        "station_name": "Сэлх 6",
+        "longitude": 106.96432,
+        "latitude": 48.03551
+    },
+    "000001175": {
+        "station_name": "Сэлх 5",
+        "longitude": 106.96387,
+        "latitude": 48.03052
+    },
+    "000001173": {
+        "station_name": "Сэлх 4",
+        "longitude": 106.96336,
+        "latitude": 48.02498
+    },
+    "000001171": {
+        "station_name": "Сэлх 3",
+        "longitude": 106.96764,
+        "latitude": 48.01757
+    },
+    "000001169": {
+        "station_name": "Сэлх 2",
+        "longitude": 106.97146,
+        "latitude": 48.01253
+    },
+    "000001167": {
+        "station_name": "Сэлх 1",
+        "longitude": 106.97635,
+        "latitude": 48.00809
+    },
+    "000000595": {
+        "station_name": "Дерийм дэлгүүр",
+        "longitude": 106.9762,
+        "latitude": 48.00276
+    },
+    "000000593": {
+        "station_name": "71-р Сургууль",
+        "longitude": 106.97285,
+        "latitude": 47.9992
+    },
+    "000000598": {
+        "station_name": "Бэлхийн хуучин эцэс",
+        "longitude": 106.96672,
+        "latitude": 47.9959
+    },
+    "000000328": {
+        "station_name": "Цэнхэр ТҮЦ",
+        "longitude": 106.959,
+        "latitude": 47.99209
+    },
+    "000000326": {
+        "station_name": "Цагаан худаг",
+        "longitude": 106.95371,
+        "latitude": 47.98947
+    },
+    "000000599": {
+        "station_name": "Нарийн гудамж",
+        "longitude": 106.94723,
+        "latitude": 47.98631
+    },
+    "000000324": {
+        "station_name": "Дамбадаржаа завсар",
+        "longitude": 106.94358,
+        "latitude": 47.98451
+    },
+    "000000318": {
+        "station_name": "Хаан банк",
+        "longitude": 106.93905,
+        "latitude": 47.98207
+    },
+    "000000319": {
+        "station_name": "Хаан банк",
+        "longitude": 106.93996,
+        "latitude": 47.9825
+    },
+    "000000323": {
+        "station_name": "Дамбадаржаа завсар",
+        "longitude": 106.94431,
+        "latitude": 47.98471
+    },
+    "000000600": {
+        "station_name": "Нарийн гудамж",
+        "longitude": 106.94862,
+        "latitude": 47.98673
+    },
+    "000000325": {
+        "station_name": "Цагаан худаг",
+        "longitude": 106.95431,
+        "latitude": 47.98962
+    },
+    "000000327": {
+        "station_name": "Цэнхэр ТҮЦ",
+        "longitude": 106.96008,
+        "latitude": 47.99245
+    },
+    "000000329": {
+        "station_name": "БЭЛХИЙН ХУУЧИН ЭЦЭС",
+        "longitude": 106.96614,
+        "latitude": 47.99547
+    },
+    "000000592": {
+        "station_name": "71-р Сургууль",
+        "longitude": 106.97297,
+        "latitude": 47.99886
+    },
+    "000000594": {
+        "station_name": "Дерийм дэлгүүр",
+        "longitude": 106.977,
+        "latitude": 48.00333
+    },
+    "000001168": {
+        "station_name": "Сэлх 1",
+        "longitude": 106.97352,
+        "latitude": 48.00997
+    },
+    "000001170": {
+        "station_name": "Сэлх 2",
+        "longitude": 106.97076,
+        "latitude": 48.0136
+    },
+    "000001172": {
+        "station_name": "Сэлх 3",
+        "longitude": 106.96722,
+        "latitude": 48.01871
+    },
+    "000001174": {
+        "station_name": "Сэлх 4",
+        "longitude": 106.96323,
+        "latitude": 48.02557
+    },
+    "000001176": {
+        "station_name": "Сэлх 5",
+        "longitude": 106.96423,
+        "latitude": 48.03129
+    },
+    "000001178": {
+        "station_name": "Сэлх 6",
+        "longitude": 106.96455,
+        "latitude": 48.03623
+    },
+    "000001250": {
+        "station_name": "Сэлх",
+        "longitude": 106.96628,
+        "latitude": 48.04168
+    },
+    "000000361": {
+        "station_name": "Сэлбэ амралт",
+        "longitude": 107.00335,
+        "latitude": 48.05783
+    },
+    "000000726": {
+        "station_name": "Мандхай",
+        "longitude": 107.00317,
+        "latitude": 48.04973
+    },
+    "000000728": {
+        "station_name": "Сэлбэ 8",
+        "longitude": 107.00283,
+        "latitude": 48.04518
+    },
+    "000000730": {
+        "station_name": "Сэлбэ 7",
+        "longitude": 107.00299,
+        "latitude": 48.04009
+    },
+    "000000732": {
+        "station_name": "Сэлбэ 6",
+        "longitude": 107.00292,
+        "latitude": 48.03529
+    },
+    "000000734": {
+        "station_name": "Сэлбэ 5",
+        "longitude": 107.00079,
+        "latitude": 48.02974
+    },
+    "000000736": {
+        "station_name": "Сэлбэ 4",
+        "longitude": 106.99744,
+        "latitude": 48.02349
+    },
+    "000000738": {
+        "station_name": "Сэлбэ 3",
+        "longitude": 106.99546,
+        "latitude": 48.02049
+    },
+    "000000740": {
+        "station_name": "Сэлбэ 2",
+        "longitude": 106.9901,
+        "latitude": 48.01585
+    },
+    "000000742": {
+        "station_name": "Сэлбэ 1",
+        "longitude": 106.98415,
+        "latitude": 48.01123
+    },
+    "000000360": {
+        "station_name": "СБД 20-р хороо",
+        "longitude": 106.98219,
+        "latitude": 48.00953
+    },
+    "000000597": {
+        "station_name": "Түмэн баялаг дэлгүүр",
+        "longitude": 106.97963,
+        "latitude": 48.00662
+    },
+    "000000601": {
+        "station_name": "Дамбадаржаа",
+        "longitude": 106.93829,
+        "latitude": 47.97966
+    },
+    "000000277": {
+        "station_name": "Аэрофлот",
+        "longitude": 106.90041,
+        "latitude": 47.91322
+    },
+    "000000154": {
+        "station_name": "Панасоник төв",
+        "longitude": 106.88735,
+        "latitude": 47.91431
+    },
+    "000000276": {
+        "station_name": "Наран их дэлгүүр",
+        "longitude": 106.90063,
+        "latitude": 47.91295
+    },
+    "000000317": {
+        "station_name": "Дамбадаржаа",
+        "longitude": 106.93837,
+        "latitude": 47.98
+    },
+    "000000596": {
+        "station_name": "Бүрнэ Бадар дэлгүүр",
+        "longitude": 106.98021,
+        "latitude": 48.00704
+    },
+    "000000744": {
+        "station_name": "СБД 20-р хороо",
+        "longitude": 106.98257,
+        "latitude": 48.00966
+    },
+    "000000743": {
+        "station_name": "Сэлбэ 1",
+        "longitude": 106.98502,
+        "latitude": 48.01169
+    },
+    "000000741": {
+        "station_name": "Сэлбэ 2",
+        "longitude": 106.99105,
+        "latitude": 48.01626
+    },
+    "000000739": {
+        "station_name": "Сэлбэ 3",
+        "longitude": 106.99611,
+        "latitude": 48.02113
+    },
+    "000000737": {
+        "station_name": "Сэлбэ 4",
+        "longitude": 106.99808,
+        "latitude": 48.02412
+    },
+    "000000735": {
+        "station_name": "Сэлбэ 5",
+        "longitude": 107.00126,
+        "latitude": 48.03033
+    },
+    "000000733": {
+        "station_name": "Сэлбэ 6",
+        "longitude": 107.00326,
+        "latitude": 48.03598
+    },
+    "000000731": {
+        "station_name": "Сэлбэ 7",
+        "longitude": 107.00312,
+        "latitude": 48.04138
+    },
+    "000000729": {
+        "station_name": "Сэлбэ 8",
+        "longitude": 107.00313,
+        "latitude": 48.04675
+    },
+    "000000727": {
+        "station_name": "Мандхай",
+        "longitude": 107.00343,
+        "latitude": 48.05036
+    },
+    "000001251": {
+        "station_name": "Сэлбэ амралт",
+        "longitude": 107.00367,
+        "latitude": 48.05797
+    },
+    "000000404": {
+        "station_name": "БЗД 6-р хороо",
+        "longitude": 106.93656,
+        "latitude": 47.9128
+    },
+    "000000309": {
+        "station_name": "Шинэ үе дунд сургууль",
+        "longitude": 106.92738,
+        "latitude": 47.91258
+    },
+    "000000608": {
+        "station_name": "Эрүүл мэнд Спортын Яам",
+        "longitude": 106.9212,
+        "latitude": 47.91515
+    },
+    "000000308": {
+        "station_name": "Хүүхдийн парк",
+        "longitude": 106.9224,
+        "latitude": 47.91312
+    },
+    "000000310": {
+        "station_name": "Шинэ үе дунд сургууль",
+        "longitude": 106.92738,
+        "latitude": 47.91243
+    },
+    "000000403": {
+        "station_name": "Натур худалдааны төв",
+        "longitude": 106.93879,
+        "latitude": 47.91259
+    },
+    "000001252": {
+        "station_name": "Жанжин Клуб",
+        "longitude": 106.99407,
+        "latitude": 47.90726
+    },
+    "000000399": {
+        "station_name": "УЛИАСТАЙН ШИНЭ ЭЦЭС",
+        "longitude": 107.0338,
+        "latitude": 47.91763
+    },
+    "000000398": {
+        "station_name": "Улиастайн хуучин эцэс",
+        "longitude": 107.03694,
+        "latitude": 47.91292
+    },
+    "000000397": {
+        "station_name": "Улиастайн хуучин эцэс",
+        "longitude": 107.03714,
+        "latitude": 47.91284
+    },
+    "000000611": {
+        "station_name": "Улиастай Шинэ Эцэс",
+        "longitude": 107.03414,
+        "latitude": 47.91754
+    },
+    "000001012": {
+        "station_name": "Сансар /Тунель/",
+        "longitude": 106.94128,
+        "latitude": 47.92421
+    },
+    "000001349": {
+        "station_name": "Монгол Улсын Их Сургууль",
+        "longitude": 106.92032,
+        "latitude": 47.92247
+    },
+    "000001002": {
+        "station_name": "Сүхбаатарын талбай",
+        "longitude": 106.91768,
+        "latitude": 47.91674
+    },
+    "000000290": {
+        "station_name": "64-р дэлгүүр",
+        "longitude": 106.92692,
+        "latitude": 47.92269
+    },
+    "000001362": {
+        "station_name": "Монелийн 43",
+        "longitude": 106.96976,
+        "latitude": 47.94684
+    },
+    "000000307": {
+        "station_name": "Монгол Улсын Их Сургууль",
+        "longitude": 106.92211,
+        "latitude": 47.92247
+    },
+    "000000292": {
+        "station_name": "11-р хороолол",
+        "longitude": 106.92698,
+        "latitude": 47.9277
+    },
+    "000000460": {
+        "station_name": "ГАЧУУРТЫН ЭЦЭС",
+        "longitude": 107.16234,
+        "latitude": 47.92834
+    },
+    "000000459": {
+        "station_name": "Дундын буудал",
+        "longitude": 107.1538,
+        "latitude": 47.92906
+    },
+    "000000462": {
+        "station_name": "Баруун дэнж",
+        "longitude": 107.14331,
+        "latitude": 47.92715
+    },
+    "000000791": {
+        "station_name": "Монгол шилтгээн",
+        "longitude": 107.13299,
+        "latitude": 47.92363
+    },
+    "000000789": {
+        "station_name": "Цагаан дэлгүүр",
+        "longitude": 107.12466,
+        "latitude": 47.92063
+    },
+    "000000712": {
+        "station_name": "Зам анги",
+        "longitude": 107.11526,
+        "latitude": 47.91799
+    },
+    "000000787": {
+        "station_name": "Хүлэмж",
+        "longitude": 107.10253,
+        "latitude": 47.9164
+    },
+    "000000455": {
+        "station_name": "Цагдаагийн пост",
+        "longitude": 107.092,
+        "latitude": 47.91584
+    },
+    "000000785": {
+        "station_name": "Далан",
+        "longitude": 107.08337,
+        "latitude": 47.91589
+    },
+    "000000786": {
+        "station_name": "Далан",
+        "longitude": 107.0858,
+        "latitude": 47.91577
+    },
+    "000000456": {
+        "station_name": "Цагдаагийн пост",
+        "longitude": 107.0934,
+        "latitude": 47.9156
+    },
+    "000000788": {
+        "station_name": "Хүлэмж",
+        "longitude": 107.10394,
+        "latitude": 47.91638
+    },
+    "000000713": {
+        "station_name": "Зам анги",
+        "longitude": 107.11591,
+        "latitude": 47.91797
+    },
+    "000000790": {
+        "station_name": "Цагаан дэлгүүр",
+        "longitude": 107.12686,
+        "latitude": 47.92103
+    },
+    "000000792": {
+        "station_name": "Монгол шилтгээн",
+        "longitude": 107.13396,
+        "latitude": 47.92369
+    },
+    "000000461": {
+        "station_name": "Баруун дэнж",
+        "longitude": 107.14402,
+        "latitude": 47.9275
+    },
+    "000000711": {
+        "station_name": "Дундын буудал",
+        "longitude": 107.15491,
+        "latitude": 47.92891
+    },
+    "000001155": {
+        "station_name": "Гачууртын эцэс",
+        "longitude": 107.16228,
+        "latitude": 47.9282
+    },
+    "000000439": {
+        "station_name": "УЛААНХУАРАН -ын эцэс",
+        "longitude": 106.98461,
+        "latitude": 47.91842
+    },
+    "000001399": {
+        "station_name": "Батлан хамгаалахын ИС",
+        "longitude": 106.98591,
+        "latitude": 47.92198
+    },
+    "000000157": {
+        "station_name": "4-р хороолол",
+        "longitude": 106.87753,
+        "latitude": 47.91808
+    },
+    "000000639": {
+        "station_name": "Монгени сургууль",
+        "longitude": 106.88567,
+        "latitude": 47.91834
+    },
+    "000000614": {
+        "station_name": "СОС хүүхдийн хотхон",
+        "longitude": 106.97963,
+        "latitude": 47.91757
+    },
+    "000001227": {
+        "station_name": "УЛААНХУАРАН -ын эцэс",
+        "longitude": 106.98435,
+        "latitude": 47.91854
+    },
+    "000000058": {
+        "station_name": "Ханын Материалын Комбинат",
+        "longitude": 106.82003,
+        "latitude": 47.9337
+    },
+    "000000057": {
+        "station_name": "Ханын Материалын Комбинат",
+        "longitude": 106.82029,
+        "latitude": 47.93372
+    },
+    "000000415": {
+        "station_name": "Сансар /Тунель/",
+        "longitude": 106.94124,
+        "latitude": 47.92417
+    },
+    "000000687": {
+        "station_name": "Алтан тариа",
+        "longitude": 106.80336,
+        "latitude": 47.91499
+    },
+    "000000937": {
+        "station_name": "Чингис зочид буудал",
+        "longitude": 106.93488,
+        "latitude": 47.92188
+    },
+    "000001400": {
+        "station_name": "Батлан хамгаалахын ИС",
+        "longitude": 106.98579,
+        "latitude": 47.92041
+    },
+    "000001341": {
+        "station_name": "СОС хүүхдийн хотхон",
+        "longitude": 106.97942,
+        "latitude": 47.91767
+    },
+    "000000938": {
+        "station_name": "Чингис зочид буудал",
+        "longitude": 106.93503,
+        "latitude": 47.9225
+    },
+    "000001306": {
+        "station_name": "Алтан тариа",
+        "longitude": 106.80357,
+        "latitude": 47.91515
+    },
+    "000000554": {
+        "station_name": "ЗАЙСАН",
+        "longitude": 106.91166,
+        "latitude": 47.87717
+    },
+    "000001426": {
+        "station_name": "Сөүл хотхон",
+        "longitude": 106.91305,
+        "latitude": 47.8808
+    },
+    "000000646": {
+        "station_name": "Гэрэлт хотхон",
+        "longitude": 106.91124,
+        "latitude": 47.88309
+    },
+    "000000549": {
+        "station_name": "Оргил рашаан сувилал",
+        "longitude": 106.9086,
+        "latitude": 47.89551
+    },
+    "000000701": {
+        "station_name": "Дунд голын 1-р буудал",
+        "longitude": 106.90819,
+        "latitude": 47.90524
+    },
+    "000000700": {
+        "station_name": "Жаргалант төв",
+        "longitude": 106.89592,
+        "latitude": 47.90193
+    },
+    "000000555": {
+        "station_name": "Жаргалант төв",
+        "longitude": 106.89823,
+        "latitude": 47.90208
+    },
+    "000000702": {
+        "station_name": "Дунд голын 1-р буудал",
+        "longitude": 106.90598,
+        "latitude": 47.90432
+    },
+    "000000543": {
+        "station_name": "120 мянгат",
+        "longitude": 106.91001,
+        "latitude": 47.90132
+    },
+    "000000548": {
+        "station_name": "MCS-ын буудал",
+        "longitude": 106.9085,
+        "latitude": 47.89485
+    },
+    "000000551": {
+        "station_name": "Хөдөө аж ахуйн их сургууль",
+        "longitude": 106.91071,
+        "latitude": 47.88655
+    },
+    "000000552": {
+        "station_name": "Лаборатори",
+        "longitude": 106.91107,
+        "latitude": 47.88246
+    },
+    "000001427": {
+        "station_name": "Сөүл хотхон",
+        "longitude": 106.9126,
+        "latitude": 47.88008
+    },
+    "000001233": {
+        "station_name": "ЗАЙСАН",
+        "longitude": 106.91153,
+        "latitude": 47.87691
+    },
+    "000000070": {
+        "station_name": "Толгойтын эцэс",
+        "longitude": 106.78184,
+        "latitude": 47.91859
+    },
+    "000000068": {
+        "station_name": "Толгойт Шөнийн дэлгүүр",
+        "longitude": 106.78922,
+        "latitude": 47.91974
+    },
+    "000000064": {
+        "station_name": "Их наран 1",
+        "longitude": 106.79988,
+        "latitude": 47.92038
+    },
+    "000001411": {
+        "station_name": "Толгойт-1",
+        "longitude": 106.8066,
+        "latitude": 47.92079
+    },
+    "000000780": {
+        "station_name": "Хурд хороолол",
+        "longitude": 106.91597,
+        "latitude": 47.89924
+    },
+    "000000778": {
+        "station_name": "Жапен таун",
+        "longitude": 106.92672,
+        "latitude": 47.89953
+    },
+    "000000776": {
+        "station_name": "Үндэсний Цэцэр-хүр",
+        "longitude": 106.94035,
+        "latitude": 47.90222
+    },
+    "000000621": {
+        "station_name": "Дүнжингарав Худалдааны төв",
+        "longitude": 106.94901,
+        "latitude": 47.90496
+    },
+    "000000059": {
+        "station_name": "ГАН ХИЙЦ КОМПАНИ",
+        "longitude": 106.82286,
+        "latitude": 47.93914
+    },
+    "000000637": {
+        "station_name": "ГАН ХИЙЦ КОМПАНИ",
+        "longitude": 106.82317,
+        "latitude": 47.93913
+    },
+    "000000137": {
+        "station_name": "Улаанчулуут",
+        "longitude": 106.78714,
+        "latitude": 47.94198
+    },
+    "000000136": {
+        "station_name": "Улаан чулуут завсар",
+        "longitude": 106.79032,
+        "latitude": 47.93692
+    },
+    "000000668": {
+        "station_name": "Их Наран",
+        "longitude": 106.7932,
+        "latitude": 47.93264
+    },
+    "000000094": {
+        "station_name": "Их наран 2",
+        "longitude": 106.79633,
+        "latitude": 47.92782
+    },
+    "000000092": {
+        "station_name": "Их наран дунд зогсоол",
+        "longitude": 106.79907,
+        "latitude": 47.92253
+    },
+    "000001405": {
+        "station_name": "Хермес худалдааны төв",
+        "longitude": 106.87435,
+        "latitude": 47.91093
+    },
+    "000001406": {
+        "station_name": "Хермес худалдааны төв",
+        "longitude": 106.87416,
+        "latitude": 47.91136
+    },
+    "000000091": {
+        "station_name": "Их наран дунд зогсоол",
+        "longitude": 106.79904,
+        "latitude": 47.92355
+    },
+    "000000093": {
+        "station_name": "Их наран 2",
+        "longitude": 106.79555,
+        "latitude": 47.92932
+    },
+    "000000095": {
+        "station_name": "ИХ НАРАН",
+        "longitude": 106.79337,
+        "latitude": 47.9328
+    },
+    "000000135": {
+        "station_name": "Улаан чулуут завсар",
+        "longitude": 106.79006,
+        "latitude": 47.93734
+    },
+    "000001282": {
+        "station_name": "Улаанчулуут",
+        "longitude": 106.78713,
+        "latitude": 47.94218
+    },
+    "000000894": {
+        "station_name": "Орбитын шинэ эцэс",
+        "longitude": 106.72344,
+        "latitude": 47.93674
+    },
+    "000000662": {
+        "station_name": "Орбит 2",
+        "longitude": 106.72773,
+        "latitude": 47.93183
+    },
+    "000000660": {
+        "station_name": "Орбит 1",
+        "longitude": 106.7335,
+        "latitude": 47.92808
+    },
+    "000000034": {
+        "station_name": "Улаан дэлгүүр",
+        "longitude": 106.74032,
+        "latitude": 47.92524
+    },
+    "000000888": {
+        "station_name": "Зааны төгөл цэцэрлэг",
+        "longitude": 106.7452,
+        "latitude": 47.92071
+    },
+    "000000890": {
+        "station_name": "Тойрог",
+        "longitude": 106.74986,
+        "latitude": 47.91647
+    },
+    "000000891": {
+        "station_name": "Тойрог",
+        "longitude": 106.75071,
+        "latitude": 47.9159
+    },
+    "000000889": {
+        "station_name": "Зааны төгөл цэцэрлэг",
+        "longitude": 106.74452,
+        "latitude": 47.92159
+    },
+    "000000033": {
+        "station_name": "Улаан дэлгүүр",
+        "longitude": 106.73971,
+        "latitude": 47.9258
+    },
+    "000000035": {
+        "station_name": "Орбит 1",
+        "longitude": 106.73396,
+        "latitude": 47.92812
+    },
+    "000000661": {
+        "station_name": "Орбит 2",
+        "longitude": 106.72767,
+        "latitude": 47.93217
+    },
+    "000000002": {
+        "station_name": "Орбитын шинэ эцэс",
+        "longitude": 106.72354,
+        "latitude": 47.93694
+    },
+    "000001231": {
+        "station_name": "Зүүн салааны шинэ эцэс",
+        "longitude": 106.82571,
+        "latitude": 47.99863
+    },
+    "000000957": {
+        "station_name": "Баянхошууны зогсоол",
+        "longitude": 106.83364,
+        "latitude": 47.96122
+    },
+    "000000956": {
+        "station_name": "Баянхошууны зогсоол",
+        "longitude": 106.83222,
+        "latitude": 47.96132
+    },
+    "000000012": {
+        "station_name": "34-р байр",
+        "longitude": 106.83245,
+        "latitude": 47.91537
+    },
+    "000000016": {
+        "station_name": "23-р байр",
+        "longitude": 106.83855,
+        "latitude": 47.91674
+    },
+    "000000014": {
+        "station_name": "11-р байр",
+        "longitude": 106.84659,
+        "latitude": 47.91674
+    },
+    "000000015": {
+        "station_name": "1-р байр",
+        "longitude": 106.8514,
+        "latitude": 47.91684
+    },
+    "000001184": {
+        "station_name": "Монгени сургууль",
+        "longitude": 106.88432,
+        "latitude": 47.91848
+    },
+    "000001183": {
+        "station_name": "4-р хороолол",
+        "longitude": 106.88052,
+        "latitude": 47.91829
+    },
+    "000001518": {
+        "station_name": "Америк сургууль",
+        "longitude": 106.91664,
+        "latitude": 47.88222
+    },
+    "000001519": {
+        "station_name": "Зайсан Голден Вилл",
+        "longitude": 106.91791,
+        "latitude": 47.88537
+    },
+    "000000516": {
+        "station_name": "ЯАРМАГИЙН ЭЦЭС",
+        "longitude": 106.80663,
+        "latitude": 47.87274
+    },
+    "000000518": {
+        "station_name": "Яармаг хуучин эцэс",
+        "longitude": 106.80656,
+        "latitude": 47.86652
+    },
+    "000000517": {
+        "station_name": "Яармаг хуучин эцэс",
+        "longitude": 106.8067,
+        "latitude": 47.86755
+    },
+    "000001272": {
+        "station_name": "ЯАРМАГИЙН ЭЦЭС",
+        "longitude": 106.80675,
+        "latitude": 47.87289
+    },
+    "000000156": {
+        "station_name": "25-р эмийн сан",
+        "longitude": 106.87656,
+        "latitude": 47.91544
+    },
+    "000000296": {
+        "station_name": "Хүрд компани",
+        "longitude": 106.91429,
+        "latitude": 47.92794
+    },
+    "000000807": {
+        "station_name": "Архивын ерөнхий газар",
+        "longitude": 106.79047,
+        "latitude": 47.83998
+    },
+    "000000627": {
+        "station_name": "Шинэ яармаг хороолол",
+        "longitude": 106.79,
+        "latitude": 47.84887
+    },
+    "000000562": {
+        "station_name": "Буянт-Ухаа спорт цогцолбор",
+        "longitude": 106.78855,
+        "latitude": 47.85372
+    },
+    "000000563": {
+        "station_name": "Буянт-Ухаа спорт цогцолбор",
+        "longitude": 106.78835,
+        "latitude": 47.85253
+    },
+    "000000638": {
+        "station_name": "Буянт ухаа 2",
+        "longitude": 106.78986,
+        "latitude": 47.84728
+    },
+    "000000864": {
+        "station_name": "Архивын ерөнхий газар",
+        "longitude": 106.78951,
+        "latitude": 47.83895
+    },
+    "000001347": {
+        "station_name": "Алтан овоо 48-р гудамж",
+        "longitude": 106.77654,
+        "latitude": 47.9539
+    },
+    "000000943": {
+        "station_name": "Алтан овооны завсар 3",
+        "longitude": 106.77773,
+        "latitude": 47.95141
+    },
+    "000000941": {
+        "station_name": "Алтан овооны завсар 2",
+        "longitude": 106.78037,
+        "latitude": 47.94805
+    },
+    "000000939": {
+        "station_name": "Алтан овооны завсар 1",
+        "longitude": 106.7851,
+        "latitude": 47.94231
+    },
+    "000000940": {
+        "station_name": "Алтан овооны завсар 1",
+        "longitude": 106.78475,
+        "latitude": 47.9428
+    },
+    "000000942": {
+        "station_name": "Алтан овооны завсар 2",
+        "longitude": 106.7801,
+        "latitude": 47.94856
+    },
+    "000000945": {
+        "station_name": "Алтан овооны завсар 3",
+        "longitude": 106.77772,
+        "latitude": 47.95187
+    },
+    "000001348": {
+        "station_name": "Алтан овоо 48-р гудамж",
+        "longitude": 106.77663,
+        "latitude": 47.95391
+    },
+    "000001442": {
+        "station_name": "Оргил худалдааны төв",
+        "longitude": 106.77475,
+        "latitude": 47.90655
+    },
+    "000001260": {
+        "station_name": "Авто Худалдааны Цогцолбор",
+        "longitude": 106.70295,
+        "latitude": 47.88551
+    },
+    "000001441": {
+        "station_name": "Оргил худалдааны төв",
+        "longitude": 106.77638,
+        "latitude": 47.90653
+    },
+    "000000558": {
+        "station_name": "Говь",
+        "longitude": 106.87107,
+        "latitude": 47.90262
+    },
+    "000000618": {
+        "station_name": "Хос Өргөө хотхон",
+        "longitude": 106.8856,
+        "latitude": 47.90244
+    },
+    "000000672": {
+        "station_name": "Алтай хотхон",
+        "longitude": 106.88399,
+        "latitude": 47.90292
+    },
+    "000001437": {
+        "station_name": "Дэлгэр хотхон",
+        "longitude": 106.87755,
+        "latitude": 47.90367
+    },
+    "000000559": {
+        "station_name": "Говь",
+        "longitude": 106.8699,
+        "latitude": 47.90241
+    },
+    "000000955": {
+        "station_name": "Алтан овооны 6",
+        "longitude": 106.77392,
+        "latitude": 47.9508
+    },
+    "000000953": {
+        "station_name": "Алтан овооны 5",
+        "longitude": 106.77613,
+        "latitude": 47.94608
+    },
+    "000000951": {
+        "station_name": "Алтан овооны 4",
+        "longitude": 106.77813,
+        "latitude": 47.94307
+    },
+    "000001364": {
+        "station_name": "Алтан овооны 42-р гудамж",
+        "longitude": 106.78321,
+        "latitude": 47.93601
+    },
+    "000001365": {
+        "station_name": "Алтан овооны 3",
+        "longitude": 106.78397,
+        "latitude": 47.93307
+    },
+    "000001367": {
+        "station_name": "Алтан овооны 2",
+        "longitude": 106.78574,
+        "latitude": 47.92786
+    },
+    "000001369": {
+        "station_name": "Алтан овооны 1",
+        "longitude": 106.78515,
+        "latitude": 47.92278
+    },
+    "000001370": {
+        "station_name": "Алтан овооны 1",
+        "longitude": 106.78551,
+        "latitude": 47.92363
+    },
+    "000001368": {
+        "station_name": "Алтан овооны 2",
+        "longitude": 106.7856,
+        "latitude": 47.92739
+    },
+    "000001366": {
+        "station_name": "Алтан овооны 3",
+        "longitude": 106.78408,
+        "latitude": 47.93284
+    },
+    "000001371": {
+        "station_name": "Алтан овооны 42-р гудамж",
+        "longitude": 106.78329,
+        "latitude": 47.93609
+    },
+    "000000950": {
+        "station_name": "Алтан овооны 4",
+        "longitude": 106.77885,
+        "latitude": 47.94211
+    },
+    "000000952": {
+        "station_name": "Алтан овооны 5",
+        "longitude": 106.77603,
+        "latitude": 47.94642
+    },
+    "000000954": {
+        "station_name": "Алтан овооны 6",
+        "longitude": 106.77421,
+        "latitude": 47.95132
+    },
+    "000001377": {
+        "station_name": "Хан Хиллс",
+        "longitude": 106.9263,
+        "latitude": 47.89209
+    },
+    "000001452": {
+        "station_name": "Ривер гарден 1",
+        "longitude": 106.93422,
+        "latitude": 47.88971
+    },
+    "000000626": {
+        "station_name": "Маршал таун",
+        "longitude": 106.93683,
+        "latitude": 47.89283
+    },
+    "000000775": {
+        "station_name": "Үндэсний Цэцэр-хүр",
+        "longitude": 106.93903,
+        "latitude": 47.90208
+    },
+    "000000619": {
+        "station_name": "Маршал таун",
+        "longitude": 106.93821,
+        "latitude": 47.8906
+    },
+    "000001376": {
+        "station_name": "Хан Хиллс",
+        "longitude": 106.92459,
+        "latitude": 47.89276
+    },
+    "000001520": {
+        "station_name": "Хан Хиллс",
+        "longitude": 106.92626,
+        "latitude": 47.8921
+    },
+    "000001212": {
+        "station_name": "Худаг",
+        "longitude": 106.9753,
+        "latitude": 47.94315
+    },
+    "000001210": {
+        "station_name": "Мишээл дэлгүүр",
+        "longitude": 106.97502,
+        "latitude": 47.93554
+    },
+    "000001208": {
+        "station_name": "5 Толгой дэлгүүр",
+        "longitude": 106.97458,
+        "latitude": 47.93214
+    },
+    "000001206": {
+        "station_name": "Жолооны дадлагын талбай",
+        "longitude": 106.97302,
+        "latitude": 47.92612
+    },
+    "000001205": {
+        "station_name": "Жолооны дадлагын талбай",
+        "longitude": 106.97359,
+        "latitude": 47.92797
+    },
+    "000001207": {
+        "station_name": "5 Толгой дэлгүүр",
+        "longitude": 106.97504,
+        "latitude": 47.93271
+    },
+    "000001209": {
+        "station_name": "Мишээл дэлгүүр",
+        "longitude": 106.97513,
+        "latitude": 47.93595
+    },
+    "000001211": {
+        "station_name": "Худаг",
+        "longitude": 106.97549,
+        "latitude": 47.9432
+    },
+    "000001339": {
+        "station_name": "Энканто таун",
+        "longitude": 106.92965,
+        "latitude": 47.90099
+    },
+    "000000777": {
+        "station_name": "Орчлон сургууль",
+        "longitude": 106.92754,
+        "latitude": 47.89984
+    },
+    "000000779": {
+        "station_name": "Хурд хороолол",
+        "longitude": 106.91471,
+        "latitude": 47.89931
+    },
+    "000001453": {
+        "station_name": "Морин 3",
+        "longitude": 106.72495,
+        "latitude": 47.84523
+    },
+    "000001454": {
+        "station_name": "Морин 7",
+        "longitude": 106.72303,
+        "latitude": 47.84699
+    },
+    "000001455": {
+        "station_name": "Морин 11",
+        "longitude": 106.7216,
+        "latitude": 47.84834
+    },
+    "000001456": {
+        "station_name": "Морин 10",
+        "longitude": 106.72417,
+        "latitude": 47.84922
+    },
+    "000001457": {
+        "station_name": "Морин 6",
+        "longitude": 106.72654,
+        "latitude": 47.84729
+    },
+    "000001458": {
+        "station_name": "Морин 2",
+        "longitude": 106.72854,
+        "latitude": 47.84557
+    },
+    "000000501": {
+        "station_name": "Морингийн даваа",
+        "longitude": 106.73037,
+        "latitude": 47.84491
+    },
+    "000001459": {
+        "station_name": "Морин 3",
+        "longitude": 106.72497,
+        "latitude": 47.8452
+    },
+    "000000912": {
+        "station_name": "Нисэх 1-р зогсоол",
+        "longitude": 106.7642,
+        "latitude": 47.86928
+    },
+    "000000916": {
+        "station_name": "Нисэхийн шинэ эцэс",
+        "longitude": 106.76032,
+        "latitude": 47.87154
+    },
+    "000000914": {
+        "station_name": "Нисэх 2-р зогсоол",
+        "longitude": 106.75937,
+        "latitude": 47.86723
+    },
+    "000000915": {
+        "station_name": "114-р сургууль",
+        "longitude": 106.7616,
+        "latitude": 47.86666
+    },
+    "000001494": {
+        "station_name": "Жапен таун 1",
+        "longitude": 106.91911,
+        "latitude": 47.89746
+    },
+    "000001496": {
+        "station_name": "Академи хотхон",
+        "longitude": 106.91471,
+        "latitude": 47.8964
+    },
+    "000001497": {
+        "station_name": "Удирдлагын академи",
+        "longitude": 106.91443,
+        "latitude": 47.89627
+    },
+    "000001495": {
+        "station_name": "Хүннү 2222",
+        "longitude": 106.91994,
+        "latitude": 47.89729
+    },
+    "000001340": {
+        "station_name": "Энканто таун",
+        "longitude": 106.92904,
+        "latitude": 47.90209
+    },
+    "000001271": {
+        "station_name": "Дүнжингарав Худалдааны төв",
+        "longitude": 106.94947,
+        "latitude": 47.90496
+    },
+    "000001536": {
+        "station_name": "Могул таун",
+        "longitude": 106.90736,
+        "latitude": 47.87478
+    },
+    "000001538": {
+        "station_name": "Номун хотхон",
+        "longitude": 106.90533,
+        "latitude": 47.87096
+    },
+    "000001540": {
+        "station_name": "БОГДХАН АМРАЛТ",
+        "longitude": 106.90314,
+        "latitude": 47.86685
+    },
+    "000001539": {
+        "station_name": "Номун хотхон",
+        "longitude": 106.90578,
+        "latitude": 47.87136
+    },
+    "000001537": {
+        "station_name": "Могул таун",
+        "longitude": 106.90757,
+        "latitude": 47.87532
+    },
+    "000000550": {
+        "station_name": "Хөдөө аж ахуйн их сургууль",
+        "longitude": 106.91097,
+        "latitude": 47.88612
+    },
+    "000001543": {
+        "station_name": "Хөгжим бүжгийн коллеж",
+        "longitude": 106.92653,
+        "latitude": 47.92308
+    },
+    "000001466": {
+        "station_name": "ТЭЦ4-дунд",
+        "longitude": 106.79171,
+        "latitude": 47.89081
+    },
+    "000001467": {
+        "station_name": "ТЭЦ4-дунд",
+        "longitude": 106.79283,
+        "latitude": 47.8907
+    },
+    "000001573": {
+        "station_name": "Ботаник",
+        "longitude": 107.0009,
+        "latitude": 47.91285
+    },
+    "000000620": {
+        "station_name": "Бага баян амралт",
+        "longitude": 106.88855,
+        "latitude": 48.14857
+    },
+    "000000897": {
+        "station_name": "Санзай",
+        "longitude": 106.89512,
+        "latitude": 48.13337
+    },
+    "000000895": {
+        "station_name": "Хандгайт",
+        "longitude": 106.90227,
+        "latitude": 48.11296
+    },
+    "000001144": {
+        "station_name": "Их тамир амралт",
+        "longitude": 106.91427,
+        "latitude": 48.11304
+    },
+    "000001354": {
+        "station_name": "Майхан толгой",
+        "longitude": 106.89669,
+        "latitude": 48.09582
+    },
+    "000001356": {
+        "station_name": "Майхан толгой 1",
+        "longitude": 106.8972,
+        "latitude": 48.08795
+    },
+    "000001358": {
+        "station_name": "Баянбулаг",
+        "longitude": 106.89856,
+        "latitude": 48.08249
+    },
+    "000000357": {
+        "station_name": "Баянбулаг 1",
+        "longitude": 106.89976,
+        "latitude": 48.07743
+    },
+    "000001326": {
+        "station_name": "Баянбулаг",
+        "longitude": 106.89855,
+        "latitude": 48.06998
+    },
+    "000000356": {
+        "station_name": "Хуурай мухар",
+        "longitude": 106.89877,
+        "latitude": 48.06591
+    },
+    "000001325": {
+        "station_name": "Хуурай мухар1",
+        "longitude": 106.90106,
+        "latitude": 48.06071
+    },
+    "000000349": {
+        "station_name": "Шарга морьт 1",
+        "longitude": 106.9053,
+        "latitude": 48.05266
+    },
+    "000000345": {
+        "station_name": "Жигжидийн уулзвар",
+        "longitude": 106.90065,
+        "latitude": 48.04772
+    },
+    "000000342": {
+        "station_name": "Яргайтын богино",
+        "longitude": 106.90313,
+        "latitude": 48.04296
+    },
+    "000001264": {
+        "station_name": "Яргайтын богино 1",
+        "longitude": 106.90529,
+        "latitude": 48.03875
+    },
+    "000000340": {
+        "station_name": "Яргайт",
+        "longitude": 106.9074,
+        "latitude": 48.03486
+    },
+    "000001262": {
+        "station_name": "Яргайт 1",
+        "longitude": 106.91126,
+        "latitude": 48.02909
+    },
+    "000000338": {
+        "station_name": "100 мод",
+        "longitude": 106.91328,
+        "latitude": 48.02489
+    },
+    "000001266": {
+        "station_name": "Сэтгүүлчдийн төгөл",
+        "longitude": 106.91534,
+        "latitude": 48.01941
+    },
+    "000000334": {
+        "station_name": "Шадивлан",
+        "longitude": 106.9171,
+        "latitude": 48.01612
+    },
+    "000001267": {
+        "station_name": "Сэтгүүлчдийн төгөл",
+        "longitude": 106.91524,
+        "latitude": 48.02036
+    },
+    "000000337": {
+        "station_name": "100 мод",
+        "longitude": 106.91312,
+        "latitude": 48.02567
+    },
+    "000001263": {
+        "station_name": "Яргайт 1",
+        "longitude": 106.91111,
+        "latitude": 48.02972
+    },
+    "000000339": {
+        "station_name": "Яргайт",
+        "longitude": 106.90725,
+        "latitude": 48.03556
+    },
+    "000001265": {
+        "station_name": "Яргайтын богино 1",
+        "longitude": 106.90509,
+        "latitude": 48.0396
+    },
+    "000000341": {
+        "station_name": "Яргайтын богино",
+        "longitude": 106.90276,
+        "latitude": 48.04407
+    },
+    "000000344": {
+        "station_name": "Жигжидийн уулзвар",
+        "longitude": 106.9005,
+        "latitude": 48.04846
+    },
+    "000000348": {
+        "station_name": "Шарга морьт 1",
+        "longitude": 106.90552,
+        "latitude": 48.05307
+    },
+    "000001360": {
+        "station_name": "Шарга морьт завсар",
+        "longitude": 106.90564,
+        "latitude": 48.05517
+    },
+    "000001324": {
+        "station_name": "Хуурай мухар1",
+        "longitude": 106.90095,
+        "latitude": 48.06149
+    },
+    "000000355": {
+        "station_name": "Хуурай мухар",
+        "longitude": 106.89871,
+        "latitude": 48.06662
+    },
+    "000000358": {
+        "station_name": "Баянбулаг 1",
+        "longitude": 106.89996,
+        "latitude": 48.07815
+    },
+    "000001359": {
+        "station_name": "Баянбулаг",
+        "longitude": 106.8985,
+        "latitude": 48.08334
+    },
+    "000001357": {
+        "station_name": "Майхан толгой 1",
+        "longitude": 106.89721,
+        "latitude": 48.08898
+    },
+    "000001355": {
+        "station_name": "Майхан толгой",
+        "longitude": 106.89704,
+        "latitude": 48.09655
+    },
+    "000000693": {
+        "station_name": "Их тамир амралт",
+        "longitude": 106.91444,
+        "latitude": 48.11298
+    },
+    "000000896": {
+        "station_name": "Хандгайт",
+        "longitude": 106.90238,
+        "latitude": 48.11361
+    },
+    "000000898": {
+        "station_name": "Санзай",
+        "longitude": 106.89539,
+        "latitude": 48.13351
+    },
+    "000000613": {
+        "station_name": "Бага баян амралт",
+        "longitude": 106.88859,
+        "latitude": 48.14863
+    },
+    "000000350": {
+        "station_name": "ШАРГА МОРЬТЫН ЭЦЭС-зуслан",
+        "longitude": 106.93177,
+        "latitude": 48.06906
+    },
+    "000001605": {
+        "station_name": "Шарга морьтын 5-р буудал",
+        "longitude": 106.92595,
+        "latitude": 48.06796
+    },
+    "000001607": {
+        "station_name": "Шарга морьтын 4-р буудал",
+        "longitude": 106.92189,
+        "latitude": 48.06566
+    },
+    "000000352": {
+        "station_name": "Шарга морьт 3",
+        "longitude": 106.91612,
+        "latitude": 48.06214
+    },
+    "000000353": {
+        "station_name": "Шарга морьт 2",
+        "longitude": 106.90878,
+        "latitude": 48.05878
+    },
+    "000000354": {
+        "station_name": "Шарга морьт 2",
+        "longitude": 106.90925,
+        "latitude": 48.05898
+    },
+    "000000351": {
+        "station_name": "Шарга морьт 3",
+        "longitude": 106.91669,
+        "latitude": 48.06244
+    },
+    "000001608": {
+        "station_name": "Шарга морьтын 4-р буудал",
+        "longitude": 106.92244,
+        "latitude": 48.0659
+    },
+    "000001606": {
+        "station_name": "Шарга морьтын 5-р буудал",
+        "longitude": 106.92625,
+        "latitude": 48.06805
+    },
+    "000001310": {
+        "station_name": "ШАРГА МОРЬТЫН ЭЦЭС-зуслан",
+        "longitude": 106.9318,
+        "latitude": 48.06894
+    },
+    "000000881": {
+        "station_name": "Городок",
+        "longitude": 107.39184,
+        "latitude": 47.78116
+    },
+    "000001331": {
+        "station_name": "Городок 1",
+        "longitude": 107.38781,
+        "latitude": 47.77729
+    },
+    "000001562": {
+        "station_name": "Городок 2",
+        "longitude": 107.37843,
+        "latitude": 47.77551
+    },
+    "000001563": {
+        "station_name": "Городок 3",
+        "longitude": 107.36995,
+        "latitude": 47.77722
+    },
+    "000000698": {
+        "station_name": "Городок-4",
+        "longitude": 107.34612,
+        "latitude": 47.78034
+    },
+    "000000920": {
+        "station_name": "Энгэр Шанд",
+        "longitude": 107.25909,
+        "latitude": 47.78848
+    },
+    "000001335": {
+        "station_name": "Налайх дунд 2",
+        "longitude": 107.24955,
+        "latitude": 47.78633
+    },
+    "000001333": {
+        "station_name": "Налайх дунд 1",
+        "longitude": 107.24954,
+        "latitude": 47.78165
+    },
+    "000000476": {
+        "station_name": "НАЛАЙХ",
+        "longitude": 107.25198,
+        "latitude": 47.77668
+    },
+    "000000875": {
+        "station_name": "Соёлын ордон",
+        "longitude": 107.2537,
+        "latitude": 47.77257
+    },
+    "000000873": {
+        "station_name": "Галын буудал",
+        "longitude": 107.25217,
+        "latitude": 47.76991
+    },
+    "000000871": {
+        "station_name": "Содон Төв",
+        "longitude": 107.24878,
+        "latitude": 47.76754
+    },
+    "000000477": {
+        "station_name": "10 ШАР БАЙР",
+        "longitude": 107.24583,
+        "latitude": 47.76716
+    },
+    "000000872": {
+        "station_name": "Содон Төв",
+        "longitude": 107.24846,
+        "latitude": 47.76722
+    },
+    "000000874": {
+        "station_name": "Галын буудал",
+        "longitude": 107.2528,
+        "latitude": 47.77022
+    },
+    "000000876": {
+        "station_name": "Соёлын ордон",
+        "longitude": 107.25383,
+        "latitude": 47.77269
+    },
+    "000000475": {
+        "station_name": "Налайх",
+        "longitude": 107.25136,
+        "latitude": 47.77688
+    },
+    "000001334": {
+        "station_name": "Налайх дунд 1",
+        "longitude": 107.24961,
+        "latitude": 47.78248
+    },
+    "000001336": {
+        "station_name": "Налайх дунд 2",
+        "longitude": 107.2496,
+        "latitude": 47.78733
+    },
+    "000000921": {
+        "station_name": "Энгэр Шанд",
+        "longitude": 107.25949,
+        "latitude": 47.78838
+    },
+    "000000796": {
+        "station_name": "Городок-4",
+        "longitude": 107.34703,
+        "latitude": 47.78019
+    },
+    "000000609": {
+        "station_name": "Городок-3",
+        "longitude": 107.3707,
+        "latitude": 47.77704
+    },
+    "000000610": {
+        "station_name": "Городок-2",
+        "longitude": 107.37901,
+        "latitude": 47.77537
+    },
+    "000001332": {
+        "station_name": "Городок 1",
+        "longitude": 107.38823,
+        "latitude": 47.77799
+    },
+    "000000880": {
+        "station_name": "Городок",
+        "longitude": 107.39206,
+        "latitude": 47.781
+    },
+    "000001429": {
+        "station_name": "Петровис ШТС",
+        "longitude": 107.12725,
+        "latitude": 47.85894
+    },
+    "000000869": {
+        "station_name": "Эмийн Ургамал",
+        "longitude": 107.13781,
+        "latitude": 47.85049
+    },
+    "000000474": {
+        "station_name": "Хонхор Дэнж",
+        "longitude": 107.17131,
+        "latitude": 47.82331
+    },
+    "000000901": {
+        "station_name": "Оргил Налайх",
+        "longitude": 107.2172,
+        "latitude": 47.79118
+    },
+    "000001132": {
+        "station_name": "Шинэ налайх хороолол",
+        "longitude": 107.24113,
+        "latitude": 47.77745
+    },
+    "000001460": {
+        "station_name": "Галын буудал",
+        "longitude": 107.25265,
+        "latitude": 47.77015
+    },
+    "000001461": {
+        "station_name": "Соёлын ордон",
+        "longitude": 107.25379,
+        "latitude": 47.7726
+    },
+    "000001463": {
+        "station_name": "Налайх",
+        "longitude": 107.25254,
+        "latitude": 47.77668
+    },
+    "000001126": {
+        "station_name": "Мэлхий хад",
+        "longitude": 107.42382,
+        "latitude": 47.90826
+    },
+    "000001136": {
+        "station_name": "Тэрэлж 6-р хороо",
+        "longitude": 107.458,
+        "latitude": 47.9887
+    },
+    "000001137": {
+        "station_name": "Тэрэлж Усан сан",
+        "longitude": 107.45505,
+        "latitude": 47.99039
+    },
+    "000001139": {
+        "station_name": "Шилжрээ",
+        "longitude": 107.43358,
+        "latitude": 47.98467
+    },
+    "000001138": {
+        "station_name": "Тэрэлж Усан сан",
+        "longitude": 107.45512,
+        "latitude": 47.99027
+    },
+    "000001135": {
+        "station_name": "Тэрэлж 6-р хороо",
+        "longitude": 107.45783,
+        "latitude": 47.98853
+    },
+    "000001125": {
+        "station_name": "Мэлхий хад",
+        "longitude": 107.4236,
+        "latitude": 47.9082
+    },
+    "000001462": {
+        "station_name": "НАЛАЙХ",
+        "longitude": 107.25247,
+        "latitude": 47.77653
+    },
+    "000001131": {
+        "station_name": "Шинэ налайх хороолол",
+        "longitude": 107.24023,
+        "latitude": 47.77744
+    },
+    "000000902": {
+        "station_name": "Оргил Налайх",
+        "longitude": 107.2175,
+        "latitude": 47.79108
+    },
+    "000000473": {
+        "station_name": "Хонхор Дэнж",
+        "longitude": 107.17132,
+        "latitude": 47.8235
+    },
+    "000000870": {
+        "station_name": "Эмийн Ургамал",
+        "longitude": 107.13789,
+        "latitude": 47.85069
+    },
+    "000001428": {
+        "station_name": "Петровис ШТС",
+        "longitude": 107.12596,
+        "latitude": 47.86012
+    },
+    "000001226": {
+        "station_name": "10 ШАР БАЙР",
+        "longitude": 107.24598,
+        "latitude": 47.76724
+    },
+    "000000574": {
+        "station_name": "Түргэний гол эцэс",
+        "longitude": 106.64226,
+        "latitude": 47.78861
+    },
+    "000001204": {
+        "station_name": "Өлзийт 9",
+        "longitude": 106.65026,
+        "latitude": 47.78666
+    },
+    "000001202": {
+        "station_name": "Өлзийт 8",
+        "longitude": 106.66243,
+        "latitude": 47.78614
+    },
+    "000001200": {
+        "station_name": "Өлзийт 7",
+        "longitude": 106.67163,
+        "latitude": 47.78547
+    },
+    "000001198": {
+        "station_name": "Өлзийт 6",
+        "longitude": 106.68305,
+        "latitude": 47.78615
+    },
+    "000001196": {
+        "station_name": "Өлзийт 5",
+        "longitude": 106.6965,
+        "latitude": 47.78653
+    },
+    "000000808": {
+        "station_name": "ХУД 14-р хороо",
+        "longitude": 106.70879,
+        "latitude": 47.79071
+    },
+    "000000575": {
+        "station_name": "Өлзийтийн 3-р буудал",
+        "longitude": 106.71701,
+        "latitude": 47.78196
+    },
+    "000000569": {
+        "station_name": "Өлзийтийн 2-р буудал",
+        "longitude": 106.72713,
+        "latitude": 47.77806
+    },
+    "000000571": {
+        "station_name": "Өлзийтийн 1-р буудал",
+        "longitude": 106.73465,
+        "latitude": 47.77701
+    },
+    "000000566": {
+        "station_name": "Айдсын даваа",
+        "longitude": 106.74685,
+        "latitude": 47.78871
+    },
+    "000000936": {
+        "station_name": "Жаргалан ЭКО",
+        "longitude": 106.76312,
+        "latitude": 47.82226
+    },
+    "000000564": {
+        "station_name": "Яармаг ШБ товчоо",
+        "longitude": 106.78402,
+        "latitude": 47.82853
+    },
+    "000000565": {
+        "station_name": "Яармаг ШБ товчоо",
+        "longitude": 106.78347,
+        "latitude": 47.82869
+    },
+    "000000935": {
+        "station_name": "Жаргалан ЭКО",
+        "longitude": 106.76241,
+        "latitude": 47.8219
+    },
+    "000000567": {
+        "station_name": "Айдсын даваа",
+        "longitude": 106.74683,
+        "latitude": 47.78848
+    },
+    "000000570": {
+        "station_name": "Өлзийтийн 1-р буудал",
+        "longitude": 106.73382,
+        "latitude": 47.77724
+    },
+    "000000568": {
+        "station_name": "Өлзийтийн 2-р буудал",
+        "longitude": 106.72618,
+        "latitude": 47.77839
+    },
+    "000000805": {
+        "station_name": "Өлзийтийн 3-р буудал",
+        "longitude": 106.71629,
+        "latitude": 47.78239
+    },
+    "000000572": {
+        "station_name": "ХУД 14-р хороо",
+        "longitude": 106.70909,
+        "latitude": 47.79078
+    },
+    "000001195": {
+        "station_name": "Өлзийт 5",
+        "longitude": 106.69554,
+        "latitude": 47.78662
+    },
+    "000001197": {
+        "station_name": "Өлзийт 6",
+        "longitude": 106.68213,
+        "latitude": 47.78626
+    },
+    "000001199": {
+        "station_name": "Өлзийт 7",
+        "longitude": 106.67071,
+        "latitude": 47.78563
+    },
+    "000001201": {
+        "station_name": "Өлзийт 8",
+        "longitude": 106.66137,
+        "latitude": 47.78624
+    },
+    "000001203": {
+        "station_name": "Өлзийт 9",
+        "longitude": 106.64943,
+        "latitude": 47.78699
+    },
+    "000001273": {
+        "station_name": "Түргэний гол эцэс",
+        "longitude": 106.64155,
+        "latitude": 47.78904
+    },
+    "000001345": {
+        "station_name": "Туул тосгон шинэ эцэс",
+        "longitude": 106.54387,
+        "latitude": 47.75108
+    },
+    "000001344": {
+        "station_name": "Дундын зогсоол",
+        "longitude": 106.55007,
+        "latitude": 47.75215
+    },
+    "000000490": {
+        "station_name": "Туул тосгон",
+        "longitude": 106.56336,
+        "latitude": 47.75465
+    },
+    "000000810": {
+        "station_name": "4-р Хэсэг",
+        "longitude": 106.57312,
+        "latitude": 47.75634
+    },
+    "000001505": {
+        "station_name": "Усны аж ахуй",
+        "longitude": 106.57816,
+        "latitude": 47.75823
+    },
+    "000000491": {
+        "station_name": "Шинэ суурьшил",
+        "longitude": 106.59302,
+        "latitude": 47.76323
+    },
+    "000000818": {
+        "station_name": "7-р хэсэг",
+        "longitude": 106.60142,
+        "latitude": 47.76854
+    },
+    "000000816": {
+        "station_name": "Шинэ мах комбинат",
+        "longitude": 106.61105,
+        "latitude": 47.7764
+    },
+    "000000846": {
+        "station_name": "Дэвшлийн талбай",
+        "longitude": 106.61606,
+        "latitude": 47.78103
+    },
+    "000000495": {
+        "station_name": "Монос",
+        "longitude": 106.62006,
+        "latitude": 47.78467
+    },
+    "000000493": {
+        "station_name": "Бетонон гүүрний буудал",
+        "longitude": 106.62762,
+        "latitude": 47.79272
+    },
+    "000001390": {
+        "station_name": "Таван толгой",
+        "longitude": 106.63473,
+        "latitude": 47.80289
+    },
+    "000000497": {
+        "station_name": "Мод үржүүлэг",
+        "longitude": 106.63938,
+        "latitude": 47.80907
+    },
+    "000001393": {
+        "station_name": "Мод үржүүлэг",
+        "longitude": 106.64513,
+        "latitude": 47.81473
+    },
+    "000001389": {
+        "station_name": "Цэргийн анги",
+        "longitude": 106.6585,
+        "latitude": 47.82774
+    },
+    "000000811": {
+        "station_name": "Хабитат хороолол",
+        "longitude": 106.66161,
+        "latitude": 47.83062
+    },
+    "000001387": {
+        "station_name": "Хабитат 1",
+        "longitude": 106.66387,
+        "latitude": 47.834
+    },
+    "000000814": {
+        "station_name": "Цээл",
+        "longitude": 106.66771,
+        "latitude": 47.83707
+    },
+    "000000499": {
+        "station_name": "Био комбинат",
+        "longitude": 106.67904,
+        "latitude": 47.843
+    },
+    "000001585": {
+        "station_name": "Био завсар",
+        "longitude": 106.68364,
+        "latitude": 47.84167
+    },
+    "000001395": {
+        "station_name": "Био дэнж",
+        "longitude": 106.69282,
+        "latitude": 47.83981
+    },
+    "000000502": {
+        "station_name": "Морингийн даваа",
+        "longitude": 106.72882,
+        "latitude": 47.84422
+    },
+    "000001394": {
+        "station_name": "Био дэнж",
+        "longitude": 106.69289,
+        "latitude": 47.83984
+    },
+    "000001584": {
+        "station_name": "Био завсар",
+        "longitude": 106.68332,
+        "latitude": 47.84199
+    },
+    "000000500": {
+        "station_name": "БИО КОМБИНАТ",
+        "longitude": 106.67717,
+        "latitude": 47.84271
+    },
+    "000000813": {
+        "station_name": "Цээл",
+        "longitude": 106.66907,
+        "latitude": 47.83859
+    },
+    "000001386": {
+        "station_name": "Хабитат 1",
+        "longitude": 106.66362,
+        "latitude": 47.83419
+    },
+    "000000812": {
+        "station_name": "Хабитат хороолол",
+        "longitude": 106.66084,
+        "latitude": 47.83024
+    },
+    "000001388": {
+        "station_name": "Цэргийн анги",
+        "longitude": 106.65877,
+        "latitude": 47.82819
+    },
+    "000001392": {
+        "station_name": "Мод үржүүлэг",
+        "longitude": 106.64563,
+        "latitude": 47.81546
+    },
+    "000000498": {
+        "station_name": "Мод үржүүлэг",
+        "longitude": 106.63852,
+        "latitude": 47.80855
+    },
+    "000001391": {
+        "station_name": "Таван толгой",
+        "longitude": 106.63212,
+        "latitude": 47.79935
+    },
+    "000000494": {
+        "station_name": "Бетонон гүүрний буудал",
+        "longitude": 106.62688,
+        "latitude": 47.79234
+    },
+    "000000496": {
+        "station_name": "Монос",
+        "longitude": 106.61926,
+        "latitude": 47.78424
+    },
+    "000000845": {
+        "station_name": "Дэвшлийн талбай",
+        "longitude": 106.61515,
+        "latitude": 47.78061
+    },
+    "000000815": {
+        "station_name": "Шинэ мах комбинат",
+        "longitude": 106.61017,
+        "latitude": 47.77591
+    },
+    "000000817": {
+        "station_name": "7-р хэсэг",
+        "longitude": 106.6006,
+        "latitude": 47.76826
+    },
+    "000000492": {
+        "station_name": "Шинэ суурьшил",
+        "longitude": 106.5923,
+        "latitude": 47.76324
+    },
+    "000001504": {
+        "station_name": "Усны аж ахуй",
+        "longitude": 106.57899,
+        "latitude": 47.75867
+    },
+    "000000809": {
+        "station_name": "4-р Хэсэг",
+        "longitude": 106.57224,
+        "latitude": 47.75623
+    },
+    "000001228": {
+        "station_name": "Туул тосгон",
+        "longitude": 106.56201,
+        "latitude": 47.75488
+    },
+    "000001343": {
+        "station_name": "Дундын зогсоол",
+        "longitude": 106.5497,
+        "latitude": 47.75217
+    },
+    "000001346": {
+        "station_name": "Туул тосгон шинэ эцэс",
+        "longitude": 106.54391,
+        "latitude": 47.75118
+    },
+    "000000883": {
+        "station_name": "Найрамдал зуслан",
+        "longitude": 106.7321,
+        "latitude": 48.01798
+    },
+    "000000663": {
+        "station_name": "Баянголын ам",
+        "longitude": 106.71932,
+        "latitude": 47.94433
+    },
+    "000001414": {
+        "station_name": "Шинэ зам 1",
+        "longitude": 106.75431,
+        "latitude": 47.91662
+    },
+    "000001416": {
+        "station_name": "Шинэ зам 2",
+        "longitude": 106.7615,
+        "latitude": 47.91777
+    },
+    "000000073": {
+        "station_name": "Цэргийн хотхон",
+        "longitude": 106.78196,
+        "latitude": 47.91362
+    },
+    "000001415": {
+        "station_name": "Шинэ зам 2",
+        "longitude": 106.76036,
+        "latitude": 47.9177
+    },
+    "000001413": {
+        "station_name": "Шинэ зам 1",
+        "longitude": 106.7532,
+        "latitude": 47.91668
+    },
+    "000001274": {
+        "station_name": "Найрамдал зуслан",
+        "longitude": 106.73224,
+        "latitude": 48.01789
+    },
+    "000001448": {
+        "station_name": "190-р цэцэрлэг",
+        "longitude": 106.6579,
+        "latitude": 47.82703
+    },
+    "000001447": {
+        "station_name": "190-р цэцэрлэг",
+        "longitude": 106.65769,
+        "latitude": 47.82712
+    },
+    "000001217": {
+        "station_name": "Шанд хурган",
+        "longitude": 106.57094,
+        "latitude": 47.88011
+    },
+    "000001218": {
+        "station_name": "Хурган 6-р гудамж",
+        "longitude": 106.57736,
+        "latitude": 47.87601
+    },
+    "000001216": {
+        "station_name": "Бүрд хүнсний дэлгүүр",
+        "longitude": 106.59182,
+        "latitude": 47.88728
+    },
+    "000001215": {
+        "station_name": "Бүрд хүнсний дэлгүүр",
+        "longitude": 106.59184,
+        "latitude": 47.88774
+    },
+    "000001380": {
+        "station_name": "Эмээлт 1",
+        "longitude": 106.58273,
+        "latitude": 47.89274
+    },
+    "000001381": {
+        "station_name": "Эмээлт",
+        "longitude": 106.57315,
+        "latitude": 47.90036
+    },
+    "000001379": {
+        "station_name": "Эмээлт 1",
+        "longitude": 106.58289,
+        "latitude": 47.89248
+    },
+    "000001275": {
+        "station_name": "Шанд хурган",
+        "longitude": 106.57122,
+        "latitude": 47.88032
+    },
+    "000001214": {
+        "station_name": "Хонхор Эцэс",
+        "longitude": 107.16189,
+        "latitude": 47.81142
+    },
+    "000001373": {
+        "station_name": "Хонхор 2",
+        "longitude": 107.16881,
+        "latitude": 47.81431
+    },
+    "000001375": {
+        "station_name": "Хонхор 1",
+        "longitude": 107.17155,
+        "latitude": 47.81793
+    },
+    "000001374": {
+        "station_name": "Хонхор 1",
+        "longitude": 107.17117,
+        "latitude": 47.81733
+    },
+    "000001372": {
+        "station_name": "Хонхор 2",
+        "longitude": 107.167,
+        "latitude": 47.81393
+    },
+    "000001311": {
+        "station_name": "Хонхор эцэс",
+        "longitude": 107.16178,
+        "latitude": 47.81132
+    },
+    "000001220": {
+        "station_name": "Мал бордох",
+        "longitude": 106.68251,
+        "latitude": 47.8891
+    },
+    "000001219": {
+        "station_name": "Мал бордох дунд",
+        "longitude": 106.68621,
+        "latitude": 47.89231
+    },
+    "000000946": {
+        "station_name": "Мал бордох дунд зогсоол",
+        "longitude": 106.69573,
+        "latitude": 47.89601
+    },
+    "000000947": {
+        "station_name": "Мал бордох дунд зогсоол",
+        "longitude": 106.69556,
+        "latitude": 47.89609
+    },
+    "000001276": {
+        "station_name": "Мал бордох дунд",
+        "longitude": 106.68616,
+        "latitude": 47.89225
+    },
+    "000001361": {
+        "station_name": "Мал бордох",
+        "longitude": 106.68228,
+        "latitude": 47.88909
+    },
+    "000000919": {
+        "station_name": "Баруун түрүү эцэс",
+        "longitude": 106.61941,
+        "latitude": 47.92812
+    },
+    "000000917": {
+        "station_name": "Баруун түрүү/баруун/",
+        "longitude": 106.62954,
+        "latitude": 47.91542
+    },
+    "000000849": {
+        "station_name": "Баруун Туруун худаг",
+        "longitude": 106.62814,
+        "latitude": 47.90851
+    },
+    "000000851": {
+        "station_name": "Баруун түрүүн завсар1",
+        "longitude": 106.63675,
+        "latitude": 47.90804
+    },
+    "000000854": {
+        "station_name": "Баруун түрүүн завсар2",
+        "longitude": 106.64447,
+        "latitude": 47.90245
+    },
+    "000000853": {
+        "station_name": "Баруун түрүүн завсар2",
+        "longitude": 106.64431,
+        "latitude": 47.90264
+    },
+    "000000852": {
+        "station_name": "Баруун түрүүн завсар1",
+        "longitude": 106.63698,
+        "latitude": 47.90821
+    },
+    "000001277": {
+        "station_name": "Баруун Түрүү",
+        "longitude": 106.62994,
+        "latitude": 47.91502
+    },
+    "000000918": {
+        "station_name": "Баруун түрүү эцэс",
+        "longitude": 106.61941,
+        "latitude": 47.92823
+    },
+    "000001586": {
+        "station_name": "Жаргалант Партизан",
+        "longitude": 106.62594,
+        "latitude": 48.1291
+    },
+    "000001588": {
+        "station_name": "Жаргалант 2 дэлгүүрийн зогсоол",
+        "longitude": 106.63665,
+        "latitude": 48.12606
+    },
+    "000001590": {
+        "station_name": "Жаргалант 3 Бүс нуур дэлгүүр",
+        "longitude": 106.64302,
+        "latitude": 48.1249
+    },
+    "000001592": {
+        "station_name": "Дугуй засвар",
+        "longitude": 106.64965,
+        "latitude": 48.12138
+    },
+    "000001594": {
+        "station_name": "347 точка",
+        "longitude": 106.62037,
+        "latitude": 48.10109
+    },
+    "000001596": {
+        "station_name": "Рашаант",
+        "longitude": 106.57184,
+        "latitude": 48.06376
+    },
+    "000001598": {
+        "station_name": "Халуун усны зогсоол",
+        "longitude": 106.55119,
+        "latitude": 48.00721
+    },
+    "000001600": {
+        "station_name": "Цагдаагийн купон",
+        "longitude": 106.5491,
+        "latitude": 48.0004
+    },
+    "000001603": {
+        "station_name": "361 гарам Тамир дэлгүүр",
+        "longitude": 106.54085,
+        "latitude": 48.00323
+    },
+    "000001602": {
+        "station_name": "361 гарам Тамир дэлгүүр",
+        "longitude": 106.54093,
+        "latitude": 48.00309
+    },
+    "000001604": {
+        "station_name": "Хар хорин",
+        "longitude": 106.83742,
+        "latitude": 47.91173
+    },
+    "000000926": {
+        "station_name": "361 ГАРАМ ТАМИР ДЭЛГҮҮР",
+        "longitude": 106.54096,
+        "latitude": 48.00322
+    },
+    "000000927": {
+        "station_name": "361 ГАРАМ ТАМИР ДЭЛГҮҮР",
+        "longitude": 106.54078,
+        "latitude": 48.00314
+    },
+    "000001601": {
+        "station_name": "Цагдаагийн купон",
+        "longitude": 106.54937,
+        "latitude": 48.00094
+    },
+    "000001599": {
+        "station_name": "Халуун усны зогсоол",
+        "longitude": 106.55162,
+        "latitude": 48.00841
+    },
+    "000001597": {
+        "station_name": "Рашаант",
+        "longitude": 106.5722,
+        "latitude": 48.06415
+    },
+    "000001595": {
+        "station_name": "347 точка",
+        "longitude": 106.62108,
+        "latitude": 48.10143
+    },
+    "000001593": {
+        "station_name": "Дугуй засвар",
+        "longitude": 106.64992,
+        "latitude": 48.12148
+    },
+    "000001591": {
+        "station_name": "Жаргалант 3 Бүс нуур дэлгүүр",
+        "longitude": 106.64299,
+        "latitude": 48.12497
+    },
+    "000001589": {
+        "station_name": "Жаргалант 2 дэлгүүрийн зогсоол",
+        "longitude": 106.63657,
+        "latitude": 48.12617
+    },
+    "000001587": {
+        "station_name": "Жаргалтан Партизан",
+        "longitude": 106.62605,
+        "latitude": 48.12918
+    },
+    "000001521": {
+        "station_name": "1-р сургууль",
+        "longitude": 106.91178,
+        "latitude": 47.91512
+    },
+    "000001522": {
+        "station_name": "45-р сургууль",
+        "longitude": 106.90289,
+        "latitude": 47.91324
+    },
+    "000001523": {
+        "station_name": "АСА Цирк",
+        "longitude": 106.908,
+        "latitude": 47.9111
+    },
+    "000001309": {
+        "station_name": "Саппоро",
+        "longitude": 106.852,
+        "latitude": 47.91284
+    },
+    "000000553": {
+        "station_name": "Зөвлөлтийн дайчдын хөшөө",
+        "longitude": 106.9126,
+        "latitude": 47.88164
+    },
+    "000001527": {
+        "station_name": "45-р сургууль",
+        "longitude": 106.90253,
+        "latitude": 47.91373
+    },
+    "000001524": {
+        "station_name": "Эм ханган нийлүүлэх төв",
+        "longitude": 106.90097,
+        "latitude": 47.91893
+    },
+    "000001525": {
+        "station_name": "Барилгачдын талбай",
+        "longitude": 106.90847,
+        "latitude": 47.91983
+    },
+    "000001531": {
+        "station_name": "Буянт ухаа-1",
+        "longitude": 106.76549,
+        "latitude": 47.85607
+    },
+    "000001529": {
+        "station_name": "123-р сургууль",
+        "longitude": 106.73803,
+        "latitude": 47.92654
+    },
+    "000000910": {
+        "station_name": "149-р сургууль",
+        "longitude": 106.86587,
+        "latitude": 47.95634
+    },
+    "000000797": {
+        "station_name": "149-р сургууль",
+        "longitude": 106.86581,
+        "latitude": 47.95644
+    },
+    "000000933": {
+        "station_name": "Бумбатын рашааны эцэс",
+        "longitude": 106.7845,
+        "latitude": 48.01749
+    },
+    "000001541": {
+        "station_name": "Баруун салааны 3-р буудал",
+        "longitude": 106.81253,
+        "latitude": 47.96658
+    },
+    "000001542": {
+        "station_name": "Баруун салааны 3-р буудал",
+        "longitude": 106.81265,
+        "latitude": 47.96656
+    },
+    "000000934": {
+        "station_name": "Бумбатын рашааны эцэс",
+        "longitude": 106.78458,
+        "latitude": 48.01744
+    },
+    "000001533": {
+        "station_name": "71-р сургууль",
+        "longitude": 106.97097,
+        "latitude": 47.99744
+    },
+    "000001534": {
+        "station_name": "71-р сургууль",
+        "longitude": 106.97107,
+        "latitude": 47.99743
+    },
+    "000001194": {
+        "station_name": "Ривер гарден",
+        "longitude": 106.92929,
+        "latitude": 47.89098
+    },
+    "000000911": {
+        "station_name": "Ривер гарден",
+        "longitude": 106.92906,
+        "latitude": 47.89105
+    },
+    "000000615": {
+        "station_name": "Зунжин худалдааны төв",
+        "longitude": 106.92323,
+        "latitude": 48.00505
+    },
+    "000001451": {
+        "station_name": "Ард кино театр",
+        "longitude": 106.91156,
+        "latitude": 47.91791
+    }
+}
