@@ -78,13 +78,15 @@ function oneTransitRoutes(start, end) {
                     let midStationBuses = busInStation.get(next);
                     let startStationBuses = busInStation.get(start);
                     let commonBus = startStationBuses.filter(x => midStationBuses.indexOf(x) !== -1);
-                    
-                    if(commonBus.length != 0)
-                    {
+
+                    if (commonBus.length != 0) {
                         stops += findNumberOfStops(commonBus[0], startStationBuses, midStationBuses);
-                        
+                        console.log("total stops: " + stops + ": sit from: " + start + ": to: " + commonBus + ": drop at: " + next + ": and sit:" + bus);
+                       
+
                         // console.log("sit on:" + commonBus + ": drop at station: " + stationInfo.get(next).station_name + " and hop into bus: " + busInfo[bus].line_name);
                         allRoutes.push([stops, start, commonBus, next, bus, end]);
+
                         counter++;
                     }
 
@@ -96,22 +98,26 @@ function oneTransitRoutes(start, end) {
                 visited.add(next);
             }
         }
-        
+
     }
-    let averageStops = 0;
-    allRoutes.forEach((plan) => {
-        averageStops += plan[0];
-    })
-    averageStops = parseInt(averageStops / allRoutes.length);
-    allRoutes.forEach((plan) => {
-        if(plan[0] < averageStops)
+    // let's just take all the best.
+    // allRoutes.sort(function (a, b) { return a[0] - b[0] });
+    // console.log(allRoutes);
+    let minimum = allRoutes[0][0];
+    let minimumIndex = 0;
+    allRoutes.forEach((item, index) => {
+        if(item[0] < minimum)
         {
-            console.log("sit on:" + plan[2] + " drop at station: " + stationInfo.get(plan[3]).station_name + " and hop into bus: " + busInfo[plan[4]].line_name);
-            console.log(plan[0]);
+            minimum = item[0];
+            minimumIndex = index;
         }
     })
+    console.log("sit on:" + allRoutes[minimumIndex][2] + " drop at station: " + allRoutes[minimumIndex][3] + " and hop into bus: " + allRoutes[minimumIndex][4]);
+    console.log(allRoutes[minimumIndex][0]);
+
+
     console.log(counter);
 
 }
 
-oneTransitRoutes("000001376", "000000619")
+oneTransitRoutes("000000771", "000000414")

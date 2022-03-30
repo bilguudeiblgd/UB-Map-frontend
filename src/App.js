@@ -19,7 +19,8 @@ const App = () => {
   return (
     <SafeAreaProvider>
       <NavigationContainer>
-        <Stack.Navigator initialRouteName='Station'>
+        <Stack.Navigator initialRouteName='Station'
+        screenOptions={{headerShown: false}}>
           
           <Stack.Screen name = "Station" component={Station}/>
           <Stack.Screen name = "Options" component={Options}/>

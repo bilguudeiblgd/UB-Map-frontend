@@ -1,11 +1,14 @@
 import React, { useState, useEffect, useRef } from 'react'
 import data from '../Data/station_details.json';
 import { SearchBar, Button } from 'react-native-elements';
-import { TouchableOpacity, Pressable, ScrollView, Text, View, StyleSheet, FlatList } from 'react-native';
+import { TouchableOpacity, Pressable, ScrollView, Text, View, StyleSheet, FlatList, Dimensions, TextInput } from 'react-native';
+import { ScreenHeight } from 'react-native-elements/dist/helpers';
+import MaterialIcon from 'react-native-vector-icons/MaterialCommunityIcons'
 
 const Station = ({ navigation }) => {
+    const { width, height } = Dimensions.get("window");
     let searchBarStart = null
-    let searchBarEnd= null
+    let searchBarEnd = null
     const [active, setActive] = useState(false);
     const [startStation, setStartStation] = useState("");
     const [startStationID, setStartStationID] = useState("");
@@ -64,7 +67,7 @@ const Station = ({ navigation }) => {
             setEndStation(name);
             setEndStationID(id);
             setChosenEnd(true);
-            searchBarEnd.cancel();
+            searchBarEnd.blur();
         }
         else {
 
@@ -73,86 +76,117 @@ const Station = ({ navigation }) => {
 
     return (
         <View style={styles.container} >
-            {/* <View  style={styles.search_bar_container}> */}
-            <View style={styles.search_bar_container}>
-                <SearchBar
-                    ref={search => searchBarStart = search}
-                    lightTheme
-                    placeholder='Эхлэл'
-                    onChangeText={updateStartSearch}
-                    value={startStation}
-                    showCancel
-                    searchIcon={false}
-                    inputStyle={styles.search_bar_text}
-                    containerStyle={styles.search_bar_ind_container}
-                    inputContainerStyle={{ height: 40, width: 260, borderRadius: 20 }}
-                    onClear={() => { setChosenStart(false); updateStationList("");  }}
-                    onFocus={() => {
-                        setStartSearchOnFocus(true)
-                        setEndSearchOnFocus(false)
-                    }}
 
-                />
-                <SearchBar
-                    ref={search => searchBarEnd = search}
-                    lightTheme
-                    placeholder='Төгсгөл'
-                    onChangeText={updateEndSearch}
-                    value={endStation}
-                    showCancel
-                    searchIcon={false}
-                    inputStyle={styles.search_bar_text}
-                    containerStyle={styles.search_bar_ind_container}
-                    inputContainerStyle={{ height: 40, borderRadius: 20 }}
-                    onClear={() => setChosenEnd(false)}
-                    onFocus={() => {
-                        setStartSearchOnFocus(false)
-                        setEndSearchOnFocus(true)
-                    }}
-                />
-                {/* </View> */}
-            </View>
-            <FlatList style={styles.card_container}
-                data={stationList}
-                renderItem={(station) =>
-                    <TouchableOpacity
-                        key={station.item.id}
-                        onPress={() => {
-                            cardClicked(station.item.id, station.item.name);
+            <View style={styles.search_bar_container}>
+                <View style={{ display: 'flex', flexDirection: 'row', marginRight: 32 }}>
+                    <TextInput
+                        ref={search => searchBarStart = search}
+                        style={{
+                            borderWidth: 1,
+                            borderColor: '#A6A6A7',
+                            backgroundColor: 'white',
+                            borderRadius: 12,
+                            color: 'black',
+                            height: 40,
+                            padding: 10,
+                            width: '100%'
                         }}
-                    >
-                        <View style={station.index == 0 ? {
-                            borderBottomWidth: 0.5,
-                            borderLeftWidth: 0.5,
-                            borderRightWidth: 0.5,
-                            borderTopWidth: 0.5,
-                            borderTopLeftRadius: 10,
-                            borderTopRightRadius: 10,
-                            padding: 16
-                        } : styles.item_container}>
-                            <Text style={active ? styles.item_active : styles.item_notactive}>{station.item.name}</Text>
-                        </View>
-                    </TouchableOpacity>
-                }
-            />
+                        placeholder='Суух буудал'
+                        placeholderTextColor={"grey"}
+                        onChangeText={updateStartSearch}
+                        value={startStation}
+                    />
+                    {
+                        startStation != "" ?
+                            <TouchableOpacity style={{
+                                position: 'absolute',
+                                right: 0,
+                                zIndex: 1,
+                                marginRight: 4,
+                                alignSelf: 'center'
+                            }} onPress={() => { setChosenStart(false); searchBarStart.clear(); setStartStation("")  }}>
+                                <MaterialIcon name="close" size={24} color={"black"} />
+                            </TouchableOpacity> :
+                            <TouchableOpacity></TouchableOpacity>
+                    }
+
+                </View>
+
+                <View style={{ margin: 8 }}></View>
+
+                <View style={{ display: 'flex', flexDirection: 'row' }}>
+                    <TextInput
+                        ref={search => searchBarEnd = search}
+                        style={styles.search_bar}
+                        placeholder='Очих буудал'
+                        placeholderTextColor={"grey"}
+                        onChangeText={updateEndSearch}
+                        value={endStation}
+                        clearButtonMode={"always"}
+                        clearTextOnFocus={true}
+                    />
+                    {endStation !== "" ?
+                        <TouchableOpacity style={{
+                            position: 'absolute',
+                            right: 0,
+                            zIndex: 1,
+                            marginRight: 4,
+                            alignSelf: 'center'
+                        }} onPress={() => { setChosenEnd(false); searchBarEnd.clear(); setEndStation("") }}>
+                            <MaterialIcon name="close" size={24} color={"black"} />
+                        </TouchableOpacity>
+                        :
+                        <TouchableOpacity></TouchableOpacity>
+                    }
+
+                </View>
+
+
+
+
+            </View>
+            <View style={{ padding: 16 }}>
+                <View style={styles.card_container}>
+                    <FlatList
+                        data={stationList}
+
+                        renderItem={(station) =>
+                            <TouchableOpacity
+                                key={station.item.id}
+                                onPress={() => {
+                                    cardClicked(station.item.id, station.item.name);
+                                }}
+                            >
+                                <View style={styles.item_container}>
+                                    <Text style={active ? styles.item_active : styles.item_notactive}>{station.item.name}</Text>
+                                </View>
+                            </TouchableOpacity>
+                        }
+                    />
+                </View>
+            </View>
+
+
 
 
             {/* Check whether to sumnmon the bottom or not */}
 
-            <View style={(chosenEnd && chosenStart) ? styles.direction_button_container : { display: 'none' }}>
+            <View style={styles.direction_button_container}>
                 <Button
+                    disabled={(chosenEnd && chosenStart) ? false : true}
                     onPress={() => {
                         navigation.navigate('Options', { startStationID, endStationID })
                     }}
                     containerStyle={{
-                        width: 200,
-                        marginBottom: 8
 
+                        marginHorizontal: 16,
+                        marginBottom: 8
                     }}
                     buttonStyle={{
-                        borderRadius: 30
+                        paddingVertical: 10,
+                        borderRadius: 12
                     }}
-                    title="Direction" type="solid" icon={{ name: "arrow-right", type: 'font-awesome', color: 'white', size: 16 }} iconRight />
+                    title="Хайх" type="solid" icon={{ name: "arrow-right", type: 'font-awesome', color: 'white', size: 16 }} iconRight />
             </View>
 
 
@@ -164,24 +198,50 @@ const styles = StyleSheet.create({
     container: {
         // backgroundColor: 'grey',
         flex: 1,
-    },
-    search_bar_container: {
-        padding: 24,
-        backgroundColor: "#4D96FF"
-    },
-    search_bar_ind_container: {
-        backgroundColor: "transparent",
-        border: "none",
-        outline: "none"
-    },
-    card_container: {
         padding: 16
     },
-    item_container: {
-        padding: 16,
+    search_bar_container: {
+        backgroundColor: "#C2C6D1",
+        paddingHorizontal: 16,
+        paddingVertical: 12,
+        borderRadius: 12,
+
+    },
+    search_bar: {
+        borderWidth: 1,
+        borderColor: '#A6A6A7',
+        backgroundColor: 'white',
+        borderRadius: 12,
+        color: 'black',
+        height: 40,
+        width: '100%',
+        padding: 10,
+
+    },
+    search_bar_text: {
+        fontSize: 16,
+    },
+
+    card_container: {
+        // padding: 16,
+        height: ScreenHeight * 0.6,
+        borderWidth: 0.5,
+        borderColor: "#A6A6A7",
         borderBottomWidth: 0.5,
         borderLeftWidth: 0.5,
         borderRightWidth: 0.5,
+        borderTopLeftRadius: 10,
+        borderTopRightRadius: 10,
+        borderBottomLeftRadius: 10,
+        borderBottomTopRadius: 10,
+        overflow: "hidden",
+
+    },
+    item_container: {
+        padding: 16,
+        borderColor: "#A6A6A7",
+        borderBottomWidth: 0.5,
+
 
     },
     item_active: {
@@ -190,24 +250,13 @@ const styles = StyleSheet.create({
     item_notactive: {
         color: "black"
     },
-    search_bar_container: {
-        paddingTop: 10,
-        paddingHorizontal: 24,
-    },
-    search_bar_text: {
-        fontSize: 16,
-    },
-    search_bar: {
 
-    },
     direction_button_container: {
-        position: "absolute",
-        bottom: 0,
-        top: 0,
-        right: 0,
-        left: 0,
+        position: 'absolute',
+        top: 0, left: 0, bottom: 0, right: 0,
         justifyContent: 'flex-end',
-        alignItems: 'center'
+
+        marginBottom: 24
     },
 
 
