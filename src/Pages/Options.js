@@ -142,7 +142,7 @@ const Options = ({ route, navigation }) => {
           </View>
 
           <TouchableOpacity style={styles.card_container}
-            onPress={() => { navigation.navigate('DetailedOption', {}) }
+            onPress={() => { navigation.navigate('DetailedOption', {noTransitRoutes}) }
             }>
             <View style={{
               display: 'flex',
