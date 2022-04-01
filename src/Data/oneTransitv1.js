@@ -59,8 +59,10 @@ function findMinumumStep(start, end) {
 
 }
 
+
+
 function main() {
-    const path = findMinumumStep("000000406", "000000073");
+    const path = findMinumumStep("000000166", "000000279");
 
     console.log(path);
     // Go to graph
@@ -87,10 +89,9 @@ function main() {
             if (!busInStation[i]) busInStation[i] = []
             else busInStation[i].push(bus);
             if (allBus.has(bus)) {
-                console.log("bus:" + bus + ": to get from: " + path[i] + " to -> " + path[i + 1]);
+                // console.log("bus:" + bus + ": to get from: " + path[i] + " to -> " + path[i + 1]);
                 let pastRoute = allBus.get(bus);
                 pastRoute.push(i);
-
                 allBus.set(bus, pastRoute);
             }
             else {
@@ -103,10 +104,57 @@ function main() {
 
     }
 
-    
-    console.log(allBus);
-  
+    let noTransit = new Map();
+    let oneTransit = [];
+    let twoTransit = new Map();
+    let start = 0;
+    let pointer = path.length - 2;
+    // find no transit bus
+    for (let item of allBus) {
+        const [key, arr] = item;
+        if (arr.length == path.length - 1) {
+            noTransit.set(key, arr);
+        }
+    }
+    console.log(noTransit);
+    let allPath = new Set();
+    for (let item of allBus) {
+        // take two arrays
 
+        const [key, arr] = item;
+        if (arr.length == path.length - 1) {
+            allBus.delete(key);
+            continue;
+        }
+        arr.forEach((item) => {
+            allPath.add(item);
+        });
+        for (let item1 of allBus) {
+            const [key1, arr1] = item1;
+            if (arr1.length == path.length - 1) {
+                allBus.delete(key1);
+                continue;
+            }
+            arr1.forEach((item) => {
+                allPath.add(item);
+            });
+            
+            if (item != item1) {
+                if (allPath.size == path.length - 1) {
+                    oneTransit.push(item);
+                    oneTransit.push(item1);
+                }
+            }
+            arr1.forEach((item) => {
+                allPath.delete(item);
+            })
+
+        }
+        // put them into a set
+    };
+   
+    console.log(oneTransit);
+    return {data: oneTransit, names: path};
 }
 
 main();

@@ -76,6 +76,7 @@ const Station = ({navigation}) => {
       setStartStationID(id);
       setChosenStart(true);
       setStartSearchOnFocus(false);
+      updateStationList("");
       searchBarEnd.focus();
     } else if (!chosenEnd || endSearchOnFocused) {
       if (startStation === endStation) return;
@@ -284,11 +285,7 @@ const styles = StyleSheet.create({
   },
 
   direction_button_container: {
-    position: 'absolute',
-    top: 0,
-    left: 0,
-    bottom: 0,
-    right: 0,
+    
     justifyContent: 'flex-end',
 
     marginBottom: 24,

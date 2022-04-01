@@ -20,7 +20,7 @@ const App = () => {
     <SafeAreaProvider>
       <NavigationContainer>
         <Stack.Navigator
-          initialRouteName="Landing"
+          initialRouteName="Station"
           screenOptions={{headerShown: false}}>
           {/* Murun code */}
           <Stack.Screen name="Landing" component={Landing} />
